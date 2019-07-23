@@ -23,16 +23,16 @@ In this project I want to know my carbon footprint (how much carbon I have produ
 
 ## Questions (Things I want to know)  
 
- - How long is my communication time? 
- - Does it differ before and after July (when people are not in vacation)?
- - Does the communication time differ by rain event?
+ - How long is my commute time (from Sabadell to Barcelona Glories) ? 
+ - Does it differ before and after July (when people are in vacation)?
+ - Does the commute time differ by rain event?
  - How much carbon I have emitted during the last two months by car?
  - How much carbon I would emitted if I use the public transporation.
 
 <a name="dataset"></a>
 
 ## Dataset
-The data is download from the Google My Timeline and the carbon emission information is from [UK Vehicle Certification Agency]( https://carfueldata.vehicle-certification-agency.gov.uk/) and [Carbon Footprint 
+The data is downloaded from the Google My Timeline and the carbon emission information is from [UK Vehicle Certification Agency]( https://carfueldata.vehicle-certification-agency.gov.uk/) and [Carbon Footprint 
 of Railway Infrastructure](https://uic.org/IMG/pdf/carbon_footprint_of_railway_infrastructure.pdf)
 
 [Dataset]() 
