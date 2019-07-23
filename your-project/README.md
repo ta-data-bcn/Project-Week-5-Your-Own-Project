@@ -59,6 +59,6 @@ How did you organize yourself? Did you use any tools?
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/ChaotingChang/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/1yOcl3giADiH8ZowpZ0dCjOU29xf8S-4IR-fZvfcRfl4/edit?usp=sharing)  
 [Trello](https://trello.com/b/QVHzBE1a/project-4-air-pollution-i-produced-chao)  
