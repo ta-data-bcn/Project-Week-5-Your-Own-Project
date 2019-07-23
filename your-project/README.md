@@ -4,7 +4,7 @@
 *Chao-Ting, Chang*
 
 *[Data Analytics, Barcelona & June 2019]*  
-*Presentation Date: 31st, July, 2019*
+*Presentation Date: 31st - July - 2019*
 
 ## Content
 - [Project Description](#project-description)
