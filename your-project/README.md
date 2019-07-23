@@ -3,8 +3,8 @@
 # How much have I contributed to the air pollution of Barcelona?
 *Chao-Ting, Chang*
 
-*[Data Analytics, Barcelona & June 2019]*
-*[Presentation Date: 31st, July, 2019]*
+*[Data Analytics, Barcelona & June 2019]*  
+*Presentation Date: 31st, July, 2019*
 
 ## Content
 - [Project Description](#project-description)
