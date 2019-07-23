@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# How much have I contributed to the air pollution of Barcelona?
+*Chao-Ting, Chang*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona & June]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,17 +16,24 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+In this project I want to know my carbon footprint (how much carbon I have produced) during the last 2 months by driving to Barcelona instead of using public transportation. 
+
 
 <a name="hypotheses-/-questions"></a>
 
-## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+## Questions (Things I want to know)  
+
+ - How long is my communication time? 
+ - Does it differ before and after July (when people are not in vacation)?
+ - Does the communication time differ by rain event?
+ - How much carbon I have emitted during the last two months by car?
+ - How much carbon I would emitted if I use the public transporation.
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+The data is download from the Google My Timeline and the carbon emission information is from [UK Vehicle Certification Agency]( https://carfueldata.vehicle-certification-agency.gov.uk/) and [Carbon Footprint 
+of Railway Infrastructure](https://uic.org/IMG/pdf/carbon_footprint_of_railway_infrastructure.pdf)
 
 [Dataset]() 
 
@@ -34,6 +41,12 @@ Where did you get your data? What dataset did you use or did you build your own 
 
 ## Workflow
 Outline the workflow you used in your project. What were the steps you went through?
+
+ 1. Decide the topic and roughly the questions
+ 2. Check if I have enough data or not (if not, back to step 1)
+ 3. Download data and relevant information.
+ 4. Data wrangling to desired format and shape.
+ 5. 
 
 <a name="organization"></a>
 
