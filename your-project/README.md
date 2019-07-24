@@ -28,7 +28,7 @@ In this project I want to know my carbon footprint (how much carbon I have produ
  - Does it differ before and after July (when people are in vacation)?
  - Does the commute time differ by rain event?
  - How much carbon I have emitted during the last two months by car?
- - How much carbon I would emitted if I use the public transporation.
+ - How much carbon I would emitted if I use the public transportation.
 
 <a name="dataset"></a>
 
