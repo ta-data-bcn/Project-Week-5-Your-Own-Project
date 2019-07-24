@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Does sustainable development exist?
-*[Miquel Petit]*
+*Miquel Petit*
 
-*[Data Analytics Full-Time Barcelona, July 2019]*
+*Data Analytics Full-Time Barcelona, July 2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -68,7 +68,7 @@ I used Trello for the whole organization of the project.
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
+Related links:
 
 [Repository](https://github.com/miquelpetit/Project-Week-5-Your-Own-Project/)  
 [Slides](https://slides.com/)  
