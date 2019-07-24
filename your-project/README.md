@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Laurent Guerguy]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, June 2019, Barcelona]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,35 +16,44 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+The project looks at the evolution of complaints reported to the police in New York during the last year.
+The goal is to calculate some probabilities of complaints as a function of the district, of time of the day and other parameters to be determined
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+The questions I want to answer are:
+in which district is there the most complaints?
+Are there more complaints at night or during the day?
+What are the complaints hot points in New York City?
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+I got my dataset from the open data website of New York City Police here: https://www1.nyc.gov/site/nypd/stats/crime-statistics/citywide-crime-stats.page
 
-[Dataset]() 
+[https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243]() 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
+The workflow is:
+Ask some questions and think of some answers
+Collect the data
+Clean the data
+Analyse the data
+Visualize the data
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+I organized my work using Trello.
+I used tools like Jupyter Notebook and Matplotlib Seaborn and Tableau for data visualization
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/laurent-guerguy/Project-Week-5-Your-Own-Project/tree/master/your-project)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
