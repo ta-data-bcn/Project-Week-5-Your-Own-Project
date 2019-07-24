@@ -1,9 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Do we know the energy we consume? How is it produced? 
 
-*[Your Cohort, Campus & Date]*
+# Spanish Electricity Market Analysis 
+*Íngrid Munné Collado*
+
+*Data Analytics June 2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,35 +18,57 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+This project wants to analyse the way electricity is produced and hence consumed in Spain. The Spanish TSO (Transmission System Operator) is the entity that regulates the balance between generation and demand. By means of data analytics, an exploratory data analysis is developed, to better understand the behaviour of the Spanish electricity market. 
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+
+The main questions to be answered in this project are these two:  
+- Has the electricity consumption increased since 2014? 
+- Is seasonality electricity consumption significant in the Spanish electricity curve? 
+- Is there an increase on renewable energy sources (RES) in the electricity share? 
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+The data has been collected from the Spanish TSO website, on the transparency platform. The file type is a csv file, containing the data between 2015 and 2018. Data from 2014 has been obtained from Kaggle.
 
-[Dataset]() 
+[Dataset REE](https://www.esios.ree.es/en/analysis/1293?vis=2&start_date=25-07-2019T00%3A00&end_date=25-07-2019T23%3A50&compare_start_date=24-07-2019T00%3A00&groupby=minutes10&compare_indicators=545,544) 
+
+[Dataset Kaggle](https://www.kaggle.com/manualrg/spanish-electricity-market-demand-gen-price) 
+
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+The defined workflow follows different steps:
+1. Topic choice and definition of tasks and questions. 
+2. Data acquisition (REE TSO).
+3. Data cleaning and export to SQL Workbench
+4. Exploratory Data Analysis (EDA)
+5. Hypotheses Testing
+6. Data Visualization
+7. Answering questions 
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+In order to develop this project some organization has been defined:
+- All the tasks have been defined and planified using Trello. 
+- A mentor has been assigned to follow the development of the project, to provide suggestions and feedback throughout the entire project.
+- Good practises has been defined and followed to perform the data analysis:
+    - PEP 8 
+    - snake_case variables definition
+    - All the coding scripts will be done on Jupyter Notebook
+    - Visualization done by means of Matplotlib and Seaborn. 
+    
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/wobniarin/Project-Week-5-Your-Own-Project)  
+[Slides](https://slides.com/ingridmunnecollado/project-4-electricity-market-analysis)  
+[Trello](https://trello.com/b/eMtJ3FEv/project-4-electricity-market-data)  
