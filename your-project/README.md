@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# How much have I contributed to the air pollution of Barcelona?
+# How much have I contributed to the global warming?
 *Chao-Ting, Chang*
 
 *[Data Analytics, Barcelona & June 2019]*  
