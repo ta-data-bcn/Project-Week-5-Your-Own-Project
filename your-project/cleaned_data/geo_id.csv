@@ -1,0 +1,8401 @@
+GEO_ID,NIVEL,NAME
+1,0,Portugal
+2,0,Francia
+3,0,España
+8739,0,Andorra
+8740,0,Marruecos
+8741,1,Península
+8742,1,Canarias
+8745,1,Melilla
+8744,1,Ceuta
+8743,1,Baleares
+8746,2,Melilla
+21,2,Región de Murcia
+5,2,Aragón
+6,2,Cantabria
+7,2,Castilla-La Mancha
+8,2,Castilla y León
+9,2,Cataluña
+10,2,País Vasco
+11,2,Principado de Asturias
+12,2,Ceuta
+13,2,Comunidad de Madrid
+14,2,Comunidad Foral de Navarra
+15,2,Comunidad Valenciana
+16,2,Extremadura
+17,2,Galicia
+18,2,Islas Baleares
+19,2,Islas Canarias
+20,2,La Rioja
+4,2,Andalucía
+68,3,La Rioja
+67,3,Barcelona
+70,3,Vizcaya
+71,3,Asturias
+72,3,Murcia
+8747,3,Tenerife
+22,3,Almería
+23,3,Cádiz
+24,3,Córdoba
+25,3,Granada
+26,3,Huelva
+27,3,Sevilla
+28,3,Huesca
+29,3,Burgos
+30,3,León
+31,3,Madrid
+32,3,Navarra
+33,3,Alicante
+34,3,Castellón
+35,3,Valencia
+36,3,Badajoz
+37,3,Cáceres
+38,3,Teruel
+39,3,Zaragoza
+40,3,Cantabria
+41,3,Lleida
+42,3,Tarragona
+43,3,Lugo
+44,3,Ourense
+45,3,Pontevedra
+46,3,Baleares
+47,3,Las Palmas
+48,3,Salamanca
+49,3,Melilla
+50,3,A Coruña
+51,3,Guipúzcoa
+52,3,Girona
+53,3,Ceuta
+54,3,Segovia
+55,3,Jaén
+56,3,Málaga
+57,3,Albacete
+58,3,Ciudad Real
+59,3,Cuenca
+60,3,Guadalajara
+61,3,Toledo
+62,3,Ávila
+63,3,Palencia
+64,3,Soria
+65,3,Valladolid
+66,3,Zamora
+69,3,Álava
+8800,4,El Hierro
+8801,4,Mallorca - Menorca
+8802,4,Ibiza - Formentera
+8803,4,Ceuta
+8804,4,Melilla
+8823,4,Baleares
+8748,4,Salamanca
+8749,4,A Coruña
+8750,4,Huesca
+8751,4,Burgos
+8752,4,León
+8753,4,Madrid
+8754,4,Navarra
+8755,4,Alicante
+8756,4,Ciudad Real
+8757,4,Cuenca
+8758,4,Valladolid
+8759,4,Teruel
+8760,4,Zamora
+8761,4,Barcelona
+8762,4,Guipúzcoa
+8763,4,Girona
+8764,4,Málaga
+8765,4,Guadalajara
+8766,4,Zaragoza
+8767,4,Cantabria
+8768,4,Lleida
+8769,4,Tarragona
+8770,4,Lugo
+8771,4,Ourense
+8772,4,Pontevedra
+8773,4,Sevilla
+8774,4,Toledo
+8775,4,Almería
+8776,4,Vizcaya
+8777,4,Cádiz
+8778,4,Córdoba
+8779,4,Granada
+8780,4,Huelva
+8781,4,Asturias
+8782,4,Murcia
+8783,4,Jaén
+8784,4,Albacete
+8785,4,Ávila
+8786,4,Segovia
+8787,4,Palencia
+8788,4,Soria
+8789,4,La Rioja
+8790,4,Álava
+8791,4,Castellón
+8792,4,Valencia
+8793,4,Badajoz
+8794,4,Cáceres
+8795,4,Gran Canaria
+8796,4,Lanzarote y Fuerteventura
+8797,4,Tenerife
+8798,4,La Palma
+8799,4,La Gomera
+7088,5,Otero
+7089,5,Cardeña
+7090,5,Argecilla
+7091,5,El Arenal
+7092,5,Arrecife
+7093,5,Melgar de Abajo
+7094,5,Mambrilla de Castrejón
+7095,5,Sardón de Duero
+7096,5,Monterroso
+7097,5,Carcastillo
+7098,5,Obejo
+7099,5,Daya Vieja
+7100,5,Almuñécar
+7101,5,Miengo
+7102,5,Torlengua
+7103,5,Laxe
+7104,5,Torremontalbo
+7105,5,Fuentes de Andalucía
+7106,5,Genovés
+7107,5,Lecrín
+7108,5,El Mirón
+7109,5,Vila de Cruces
+7110,5,Osorno la Mayor
+7111,5,Fornells de la Selva
+7112,5,Arellano
+7113,5,Los Palacios y Villafranca
+7114,5,Villar de Samaniego
+7115,5,Alcolea de Cinca
+7116,5,Cerezo de Arriba
+7117,5,Torres del Carrizal
+7118,5,Morón de la Frontera
+7119,5,Bahabón
+7120,5,Bernedo
+7121,5,Cabeza del Buey
+7122,5,Oña
+7123,5,Collbató
+7124,5,O Porriño
+7125,5,Oyón
+7126,5,Mura
+7127,5,Buenavista de Valdavia
+7128,5,El Casar
+7129,5,Oroz-Betelu
+7130,5,Andavías
+7131,5,Benferri
+7132,5,Candelario
+7133,5,Hontangas
+7134,5,Casar de Cáceres
+7135,5,Arevalillo de Cega
+7136,5,Aljucén
+7137,5,Tordelrábano
+7138,5,Durón
+7139,5,Titaguas
+7140,5,Amorebieta-Etxano
+7141,5,Brea de Aragón
+7142,5,Embid
+7143,5,Quintana Redonda
+7144,5,Villanueva de Gormaz
+7145,5,Les Valls d'Aguilar
+7146,5,Santa Maria d'Oló
+7147,5,L'Albiol
+7148,5,Quartell
+7149,5,Martiherrero
+7150,5,Corral de Calatrava
+7151,5,Quintana del Marco
+7152,5,Casas de Ves
+7153,5,Guareña
+7154,5,Nueno
+7155,5,El Masnou
+7156,5,Sacecorbo
+7157,5,Presencio
+7158,5,Pobladura de Valderaduey
+7159,5,Benitachell
+7160,5,Aldeanueva del Camino
+7161,5,Villafáfila
+7162,5,Villaverde de Trucíos
+7163,5,Brincones
+7164,5,Ujué
+7165,5,Alcalá de Gurrea
+7166,5,Nava de Roa
+7167,5,Atapuerca
+7168,5,Belmonte de Campos
+7169,5,Manzanal de Arriba
+7170,5,Piera
+7172,5,Aulesti
+7173,5,Mediona
+7174,5,Carcedo de Burgos
+7175,5,Orejana
+7176,5,Uclés
+7177,5,San Bartolomé de Corneja
+7178,5,Artazu
+7179,5,Veciana
+7180,5,Villar de Fallaves
+7181,5,Arlanzón
+7182,5,Foncea
+7183,5,Cobos de Cerrato
+7184,5,Villafranca de los Barros
+7185,5,San Nicolás del Puerto
+7186,5,Pedrosa de Duero
+7187,5,La Carrera
+7188,5,La Yunta
+7189,5,Congosto
+7190,5,Benacazón
+7191,5,Valdeande
+7192,5,Yecla de Yeltes
+7193,5,Alfarràs
+7194,5,Xunqueira de Espadanedo
+7195,5,Zarzuela de Jadraque
+7196,5,Carpio
+7197,5,Navascués
+7198,5,Herbés
+7199,5,Ramirás
+7200,5,Abanilla
+7201,5,Archidona
+7202,5,Aigües
+7203,5,Pruna
+7204,5,Cijuela
+7205,5,Zuñeda
+7206,5,Cortes de Aragón
+7207,5,Blascomillán
+7208,5,Retuerta del Bullaque
+7209,5,Belbimbre
+7210,5,Espinoso del Rey
+7211,5,Villaluenga de la Vega
+7212,5,La Cellera de Ter
+7213,5,Facería 36
+7214,5,Ciruelos
+7215,5,Santa María Rivarredonda
+7216,5,Torrelles de Foix
+7217,5,Vilamartín de Valdeorras
+7218,5,Valverde de la Virgen
+7219,5,La Zaida
+7220,5,Santa Cruz de la Serós
+7222,5,Madarcos
+7223,5,Aia
+8343,5,La Serna del Monte
+8344,5,Villares de la Reina
+8345,5,Alcañiz
+8346,5,Encinacorba
+8347,5,Villalengua
+8348,5,Lozoyuela-Navas-Sieteiglesias
+8349,5,Navales
+8350,5,La Matanza de Acentejo
+8351,5,Melgar de Tera
+8352,5,Castellfollit del Boix
+8353,5,Ribeira de Piquín
+8354,5,Ogíjares
+8355,5,Blanca
+8356,5,Jorquera
+8357,5,Monistrol de Montserrat
+8358,5,Catoira
+8359,5,Caminomorisco
+8360,5,Llers
+8361,5,Portillo
+8362,5,La Mata
+8363,5,Cabezabellosa
+8364,5,Oliva de Mérida
+8365,5,Sariego
+8366,5,Robres
+8367,5,Casas de Lázaro
+7545,5,Pelahustán
+7546,5,La Torre
+7547,5,Orís
+7548,5,Benizalón
+7549,5,Cuarte de Huerva
+7550,5,Peñamellera Baja
+7551,5,Sant Pere Sallavinera
+7552,5,Paredes
+7553,5,Isuerre
+7554,5,Valle de Zamanzas
+7555,5,Fogars de Montclús
+7556,5,Arenales de San Gregorio
+7557,5,Valverde del Majano
+7558,5,Tortuero
+7559,5,Tiñosillos
+7560,5,Els Pallaresos
+7561,5,Padrón
+7562,5,Tronchón
+7563,5,Olivares de Júcar
+7564,5,Telde
+7565,5,Vega de Liébana
+7566,5,Valdepiélago
+7567,5,Antas de Ulla
+7568,5,Albaida
+7569,5,Gallinero de Cameros
+7570,5,Naval
+7571,5,Tórtoles de Esgueva
+7572,5,Gorliz
+7573,5,Santa María de los Caballeros
+7574,5,Fuentecén
+7575,5,El Cogul
+7576,5,Pétrola
+7577,5,Libros
+7578,5,Santa María de Guía de Gran Canaria
+7579,5,Trigueros del Valle
+7580,5,Favara
+7581,5,Angón
+7582,5,Tui
+7583,5,Alloza
+7584,5,Foixà
+7585,5,Zapardiel de la Ribera
+7586,5,Nigrán
+7587,5,Fontioso
+7588,5,Respenda de la Peña
+7589,5,Tábara
+7590,5,Tales
+7591,5,Tosantos
+7592,5,Torquemada
+7593,5,Guijuelo
+7594,5,Campillo de Dueñas
+7595,5,Lascellas-Ponzano
+7596,5,Seròs
+7597,5,Burbáguena
+7598,5,Rollán
+7599,5,Baños de Rioja
+7600,5,Sotalbo
+7601,5,Quintanilla del Monte
+7602,5,Esquivias
+7603,5,Villalonga
+7604,5,Llano de Olmedo
+7605,5,Almonacid de la Cuba
+7606,5,Viniegra de Arriba
+7607,5,Chía
+7608,5,Maguilla
+7609,5,Aldeanueva de Ebro
+7610,5,Alhama de Almería
+7611,5,El Villar de Arnedo
+7612,5,Codos
+7613,5,Canals
+7614,5,Barrio de Muñó
+7615,5,Bohoyo
+7616,5,Hellín
+7617,5,Ceuta
+7618,5,Carrascosa de la Sierra
+7619,5,Verín
+7620,5,Vistabella del Maestrazgo
+7621,5,Mancor de la Vall
+7622,5,Cabezón de la Sal
+7623,5,Felix
+7624,5,Dílar
+7625,5,La Torre del Valle
+7626,5,Gualba
+7627,5,Miramar
+7628,5,Cepeda
+7629,5,Villaescusa de Haro
+7630,5,A Fonsagrada
+7631,5,Llaurí
+7632,5,Mohernando
+7633,5,Rioseco de Tapia
+7634,5,Comunidad de Barbadillo del Pez y Jaramillo de la Fuente
+7635,5,Comunidad de Palacios de la Sierra y Vilviestre del Pinar
+7636,5,Lucillos
+7637,5,Fréscano
+7638,5,Castellar de la Ribera
+7639,5,Baquerín de Campos
+7640,5,Huerta de Rey
+7641,5,Avellanosa de Muñó
+7642,5,Itero de la Vega
+7643,5,Polaciones
+7644,5,Vadocondes
+7645,5,Ejeme
+7646,5,Chodos
+7647,5,Villasdardo
+7648,5,Besalú
+7649,5,Retiendas
+7650,5,Les
+7651,5,Ivars de Noguera
+7652,5,Vertavillo
+7653,5,Bañobárez
+7654,5,La Nucia
+7655,5,Bolbaite
+7656,5,Navafría
+7657,5,Castroverde de Campos
+7658,5,La Sentiu de Sió
+7659,5,Lourenzá
+7660,5,Arbancón
+7661,5,Kuartango
+7662,5,Amusquillo
+7663,5,San Asensio
+7664,5,Maçanet de Cabrenys
+7665,5,Torrecilla del Rebollar
+7666,5,Pesquera de Duero
+7667,5,La Almarcha
+7668,5,Ulldecona
+7669,5,Puerto del Rosario
+7670,5,Valdelarco
+7671,5,Abrucena
+7672,5,Moreruela de Tábara
+7673,5,Abaurregaina
+7674,5,Cadaqués
+7675,5,Tulebras
+7676,5,Vall-llobrega
+7677,5,Martín Muñoz de las Posadas
+7678,5,Santa Cruz de Bezana
+7679,5,Alcázar de San Juan
+7680,5,Lagunaseca
+7681,5,Villamuriel de Campos
+7682,5,Alique
+7683,5,Villarroya de la Sierra
+7684,5,Sancedo
+7685,5,Maire de Castroponce
+7686,5,Júzcar
+7687,5,Espinosa del Camino
+7688,5,Aldeamayor de San Martín
+7689,5,Rincón de la Victoria
+7690,5,La Horra
+7691,5,Guijo de Ávila
+7692,5,Quel
+7693,5,Mont-ral
+7694,5,Puebla del Prior
+7695,5,"Mancomunidad de Nalda, Sorzana y Viguera"
+7696,5,Pozuel de Ariza
+7697,5,Gualchos
+7698,5,Pedrosillo de los Aires
+7699,5,La Guingueta d'Àneu
+7700,5,El Pueyo de Araguás
+1002,5,Arroyo de la Encomienda
+1003,5,"Comunidad de Quintanaortuño, Sotopalacios y Villanueva de Río-Ubierna"
+1004,5,Velilla de Jiloca
+1005,5,Villageriz
+1006,5,La Bóveda de Toro
+1007,5,Tormón
+1008,5,Fuente el Olmo de Fuentidueña
+1009,5,Coruña del Conde
+1010,5,Arcos de la Polvorosa
+1011,5,Santa María de la Isla
+1012,5,Quintana del Castillo
+1013,5,Sant Andreu de la Barca
+1014,5,Beizama
+1015,5,Castilruiz
+1016,5,Peñas de San Pedro
+1017,5,Campo
+1018,5,Parada de Rubiales
+1019,5,San Agustín
+1020,5,La Rambla
+1021,5,Rebollosa de Jadraque
+1022,5,Brime de Sog
+1023,5,Valderrábano
+1024,5,Madroñal
+1025,5,Alfafara
+1026,5,Torrehermosa
+1027,5,Ribas de Campos
+1028,5,Viñas
+1029,5,Wamba
+1030,5,Galve
+1031,5,La Guardia de Jaén
+1032,5,Poleñino
+1033,5,Castromembibre
+1034,5,Casasbuenas
+1035,5,Puerto de la Cruz
+1036,5,Soria
+1037,5,Granja de Moreruela
+1038,5,Uruñuela
+1039,5,"Comunidad de Los Ausines, Quintanalara y Revilla del Campo"
+1040,5,Monserrat
+1041,5,Facería de Suarbe (Ultzama) y Beuntza (Atez)
+1042,5,La Hoz de la Vieja
+1043,5,Jalón
+1044,5,Regencós
+1045,5,Hinojosa de San Vicente
+1047,5,Palomar de Arroyos
+1048,5,Cubo de la Solana
+1049,5,La Llagosta
+1050,5,Sant Cugat Sesgarrigues
+1051,5,Callosa d'En Sarrià
+1052,5,Cilleruelo de Abajo
+1053,5,Cañamero
+1054,5,Alcublas
+1055,5,Els Guiamets
+1056,5,Orendain
+1057,5,Nabarniz
+1058,5,Altura
+1059,5,Toral de los Guzmanes
+1060,5,Facería 32
+1061,5,Velilla de Ebro
+1062,5,Chulilla
+1063,5,Odieta
+1064,5,Alcañices
+1065,5,Aras
+1066,5,Igriés
+1067,5,Agres
+1068,5,Confrides
+1069,5,Ráfol de Salem
+1070,5,La Bisbal d'Emporda
+1071,5,Almansa
+1072,5,Les Llosses
+1073,5,Arrabalde
+1074,5,Rocafort de Queralt
+1075,5,Canillas de Esgueva
+1076,5,Bèlgida
+1077,5,Buitrago
+1078,5,Fuentes de Nava
+1079,5,Cañas
+1080,5,Berriz
+1081,5,Navamorcuende
+1082,5,Facería 52
+1083,5,Facería Aristregui (Juslapeña) y Sarasa (Iza)
+1084,5,Remondo
+1085,5,Torre-Pacheco
+1086,5,Puigpunyent
+1087,5,Cogollor
+1088,5,Villamediana de Iregua
+1089,5,Salvaleón
+1090,5,Ausejo
+1091,5,Villamuera de la Cueza
+1092,5,La Torre de l'Espanyol
+1093,5,Trasmiras
+1094,5,Lobras
+1095,5,Frades de la Sierra
+1096,5,San Miguel de Aguayo
+1097,5,Fornelos de Montes
+1098,5,Milagro
+1099,5,Buciegas
+1100,5,Facería de Lerga y Ujué
+1101,5,Sada
+1102,5,Hostalric
+1103,5,Navarcles
+1104,5,Josa
+1105,5,Calzadilla de los Barros
+1106,5,Pozalmuro
+1107,5,Baldellou
+1108,5,Velilla de los Ajos
+1109,5,Torrelapaja
+1110,5,Zahínos
+1111,5,Petrés
+1112,5,Castañares de Rioja
+1113,5,"Facería de Berriosuso (Ansoain), Cildoz y Orrio (Ezcabarte) y Unzu (Juslapeña)"
+1114,5,Terriente
+1115,5,Villaminaya
+1116,5,Villalcázar de Sirga
+1117,5,Bascuñana
+1118,5,L'Albagés
+1119,5,Meñaka
+1120,5,Fuente-Olmedo
+1121,5,Pinilla del Campo
+1122,5,Perales del Alfambra
+1123,5,Llerena
+1124,5,Grisén
+1125,5,Villasbuenas
+1126,5,Las Navas de Jadraque
+1127,5,Villarejo de Órbigo
+1128,5,Montamarta
+1129,5,Bagà
+1130,5,Torrechiva
+1131,5,Armuña de Tajuña
+1132,5,Arama
+1133,5,Miño de San Esteban
+1134,5,Arrúbal
+1135,5,Espinosa de Cervera
+1136,5,Arakaldo
+1137,5,Casas de Juan Núñez
+1138,5,Pájara
+1139,5,Villagarcía del Llano
+1140,5,Manises
+1141,5,San Juan de Énova
+1142,5,Boborás
+1143,5,Bronchales
+1144,5,Villalba de Duero
+1145,5,Granucillo
+1146,5,El Casar de Escalona
+1147,5,San Martín de Valdeiglesias
+1148,5,Cogollos
+1149,5,Santa Eugènia
+1150,5,Santaliestra y San Quílez
+1151,5,Castronuño
+1152,5,San Cristóbal de Boedo
+1153,5,Santed
+1154,5,Quintanilla de la Mata
+1654,5,Facheca
+1655,5,Ulea
+1656,5,Chiclana de Segura
+1657,5,Villambistia
+1658,5,Higuera de las Dueñas
+1659,5,Noia
+1660,5,Benafarces
+1661,5,Campoo de Enmedio
+1662,5,Valverdón
+1663,5,Agullana
+1664,5,Anadón
+1665,5,Valdecasa
+1666,5,Palma de Mallorca
+1667,5,Lagrán
+1668,5,Orbaitzeta
+1669,5,Urroz
+1670,5,Valdeprado del Río
+1671,5,A Capela
+1672,5,Buenache de la Sierra
+1673,5,Errenteria
+1674,5,Mediana de Aragón
+1675,5,Salt
+1676,5,Alcoletge
+1677,5,Unzué
+1678,5,Dos Torres
+1679,5,Santiago del Collado
+1680,5,Huévar del Aljarafe
+1681,5,Portaje
+1682,5,A Pobra do Brollón
+1683,5,Gascones
+1684,5,Somontín
+1685,5,Tajueco
+1686,5,Castiliscar
+1687,5,Almoines
+1688,5,Linares
+1689,5,Campillo de Azaba
+1690,5,Baños de Río Tobía
+1691,5,Mesía
+1692,5,Vinebre
+1693,5,Navacarros
+1694,5,Cabezas Rubias
+1695,5,Aldealseñor
+1696,5,Lakuntza
+1697,5,Santa María del Camí
+1698,5,Larraun
+1699,5,Bañares
+1700,5,Premià de Dalt
+1701,5,Miño
+1702,5,Abadín
+1703,5,Castrillo de la Reina
+1704,5,Antequera
+1705,5,Fuente de Santa Cruz
+1706,5,Ventrosa
+1707,5,Talavera de la Reina
+1708,5,Cabezarrubias del Puerto
+1709,5,Tamurejo
+1710,5,Olmeda de Cobeta
+1711,5,Melgar de Fernamental
+1712,5,Torrecilla sobre Alesanco
+1713,5,Garlitos
+1714,5,Cuevas del Valle
+1715,5,Zapardiel de la Cañada
+1716,5,Anguix
+1717,5,Térmens
+1718,5,Almaraz
+1719,5,Llíria
+1720,5,Pozo de Urama
+1721,5,Requena
+1722,5,Mingorría
+1723,5,Ucar
+1724,5,Salcedillo
+1725,5,Sorihuela del Guadalimar
+1726,5,Vimbodí
+1727,5,Álora
+1728,5,La Redonda
+1729,5,Soto de la Vega
+1730,5,Santa María del Arroyo
+1731,5,Alhama de Aragón
+1732,5,Villota del Páramo
+1733,5,El Perdigón
+1734,5,Uña de Quintana
+1735,5,Montánchez
+1736,5,Berrocalejo
+1737,5,Corral de Almaguer
+1738,5,Lasarte-Oria
+1739,5,Pinos Genil
+1740,5,Láujar de Andarax
+1741,5,San Fernando
+1742,5,Layos
+1743,5,Petra
+1744,5,Mascaraque
+1745,5,Nestares
+1746,5,Alberite de San Juan
+1747,5,"Comunidad de Barbadillo del Mercado, Cascajares de la Sierra y La Revilla"
+1748,5,La Fresneda
+1749,5,Torre del Bierzo
+1750,5,Zestoa
+1751,5,Sant Vicenç dels Horts
+1752,5,Torre Endoménech
+1753,5,Montemayor del Río
+1754,5,Les Coves de Vinromà
+1755,5,Calvarrasa de Abajo
+1756,5,Peñaflor de Hornija
+1757,5,Gaianes
+1758,5,Aguilar de Codés
+1759,5,Santa Cruz de la Palma
+1760,5,La Pernía
+1761,5,Calatañazor
+1762,5,Malpartida de Cáceres
+1763,5,El Romeral
+1764,5,Vimianzo
+1765,5,Perarrúa
+1766,5,Gimenells i el Pla de la Font
+1767,5,Loporzano
+1768,5,Chercos
+1769,5,Cassà de la Selva
+1770,5,Sanchidrián
+1771,5,Puerto de Santa Cruz
+1772,5,Vélez-Málaga
+1773,5,Peromingo
+1774,5,Brabos
+1775,5,Corçà
+1776,5,Buitrago del Lozoya
+1777,5,Montanuy
+1778,5,Fuentesoto
+1779,5,Talavera la Real
+1780,5,Medinaceli
+1781,5,Segura de los Baños
+1782,5,Valtajeros
+1783,5,San Fernando de Henares
+1784,5,Martos
+1785,5,Lomas
+4011,5,Torregalindo
+4012,5,La Alberguería de Argañán
+4013,5,Espeja de San Marcelino
+4014,5,San Vicente de la Sonsierra
+4015,5,Petrer
+4016,5,Vielha e Mijaran
+4017,5,Alcobendas
+4018,5,Sevilla
+4019,5,Torralba de Calatrava
+4020,5,La Sierpe
+4021,5,La Romana
+4022,5,Matilla de los Caños del Río
+4023,5,Faraján
+4024,5,Tudanca
+4025,5,Villatobas
+4026,5,Laguna de Contreras
+4027,5,Urraul Alto
+4028,5,La Haba
+4029,5,Ciria
+4030,5,Bellaguarda
+4031,5,Castellanos de Villiquera
+4032,5,Buenache de Alarcón
+4033,5,Moaña
+4034,5,La Mojonera
+4035,5,Las Mesas
+8368,5,Sant Julià de Ramis
+8369,5,Albiztur
+8370,5,Grandas de Salime
+8371,5,Fasnia
+8372,5,San Rafael del Río
+8373,5,Zugarramurdi
+8374,5,Castell de Cabres
+8375,5,Minas de Riotinto
+8376,5,La Iglesuela
+8377,5,Villameriel
+8378,5,Albaida del Aljarafe
+8379,5,Agramunt
+8380,5,Benifallet
+8381,5,Ribera Alta
+8382,5,Navasfrías
+8383,5,El Rubio
+8384,5,Lerma
+8385,5,Cortes
+8386,5,Moriles
+8387,5,Casas de Benítez
+8388,5,Corullón
+8389,5,Villaseca de Uceda
+8390,5,Benissanet
+8391,5,Sartaguda
+8392,5,Huerto
+8393,5,Valdelaguna
+8394,5,La Portellada
+8395,5,Común de Riaza y Sepúlveda
+8396,5,Ciempozuelos
+8397,5,Córdoba
+8398,5,Huarte
+8399,5,Ansó
+8400,5,Moral de Hornuez
+8401,5,Moreruela de los Infanzones
+8402,5,Castrojeriz
+8403,5,Villasarracino
+8404,5,Alovera
+8405,5,Zarratón
+8406,5,Frómista
+8407,5,Penàguila
+8408,5,Cuacos de Yuste
+8409,5,Facería 2
+8410,5,Catí
+8411,5,Berbinzana
+8412,5,Santo Domingo de Silos
+8413,5,San Amaro
+8414,5,Arano
+8415,5,Otívar
+8416,5,Les Cabanyes
+8417,5,La Llosa
+8418,5,Alborge
+8419,5,Igúzquiza
+8420,5,Luque
+8421,5,Casares
+8422,5,Arnes
+8423,5,Pajarón
+8424,5,Bañuelos de Bureba
+8425,5,Arquillos
+8426,5,Comares
+8427,5,Sant Llorenç Savall
+8428,5,La Villa de Don Fadrique
+8429,5,Salillas de Jalón
+8430,5,Aitona
+8431,5,Torres Torres
+8432,5,San Martín de Pusa
+8433,5,Cabeza la Vaca
+8434,5,Talaveruela de la Vera
+8435,5,Santa Cruz de Marchena
+8436,5,Sorzano
+8437,5,Berrocalejo de Aragona
+8438,5,Riello
+8439,5,Villar de Plasencia
+8440,5,Vandellòs i l'Hospitalet de l'Infant
+8441,5,Facería 88
+8442,5,Conquista de la Sierra
+8443,5,Esparragosa de la Serena
+8444,5,Sabiote
+8445,5,Quintanilla de Onésimo
+8446,5,Cendejas de la Torre
+8447,5,Vecinos
+8448,5,Fuente de Cantos
+8449,5,Azanuy-Alins
+8450,5,Canencia
+8451,5,Abla
+8452,5,Villatorres
+8453,5,Losar de la Vera
+8454,5,Facería 37
+8455,5,Plentzia
+8456,5,Antas
+8457,5,Zucaina
+8458,5,Vallejera
+8459,5,Jatiel
+8460,5,Sanchonuño
+8461,5,Villacarriedo
+8462,5,Rascafría
+8463,5,San Justo
+8464,5,Coto Mancomunado de Pedrosillo el Ralo y Villaverde de Guareña
+8465,5,Santibáñez de Tera
+8466,5,Joarilla de las Matas
+8467,5,Argujillo
+8468,5,Quintana del Puente
+8469,5,L'Alcora
+8470,5,Arapiles
+8471,5,Requejo
+8472,5,Mas de las Matas
+8473,5,Yeste
+8474,5,Merindad de Valdeporres
+8475,5,Adrada de Pirón
+8476,5,Bercimuel
+8477,5,Martorell
+8478,5,Herce
+8479,5,Cilleros de la Bastida
+8480,5,Morelábor
+8481,5,Santa María de los Llanos
+8482,5,Castronuevo
+8483,5,Borja
+8484,5,Villagarcía de la Torre
+8485,5,Aveinte
+8486,5,Carabaña
+8487,5,Valles de Palenzuela
+8488,5,Olocau
+8489,5,Navalvillar de Ibor
+8490,5,Zamora
+8491,5,La Nava
+8492,5,Arredondo
+8493,5,Zumaia
+8494,5,Castellar de n'Hug
+8495,5,San Pedro Bercianos
+8496,5,Prado del Rey
+8497,5,Bergondo
+8498,5,Villahán
+8499,5,La Atalaya
+8500,5,Escacena del Campo
+2423,5,Castrejón de la Peña
+2424,5,El Campillo de la Jara
+2425,5,Benilloba
+2426,5,Tubilla del Agua
+2427,5,Fulleda
+2428,5,Tricio
+2429,5,Cercedilla
+2430,5,Aldeaquemada
+2431,5,Gormaz
+2432,5,Estaràs
+2433,5,Hinojares
+2434,5,Valdunciel
+2435,5,Centenera
+2436,5,Orísoain
+2437,5,Tordómar
+2438,5,San Pedro del Valle
+2439,5,Sant Climent de Llobregat
+2440,5,Berrocal
+2441,5,Bernardos
+2442,5,Leaburu
+2443,5,Sant Quirze de Besora
+2444,5,Benamaurel
+2445,5,Cóbdar
+2446,5,Orera
+2447,5,Rionansa
+2448,5,Mondéjar
+441,5,Comunidad de Canicosa de la Sierra y Casarejos (Soria)
+442,5,Tirapu
+443,5,Cenes de la Vega
+444,5,Tabanera de Valdavia
+445,5,Moguer
+446,5,El Alamús
+447,5,Villaharta
+448,5,El Pedregal
+449,5,Tarifa
+450,5,Formentera
+451,5,Regueras de Arriba
+452,5,Almería
+453,5,Punta Umbría
+454,5,Torrubia del Castillo
+455,5,Retortillo
+456,5,Sant Carles de la Ràpita
+457,5,Sayalonga
+458,5,Geldo
+459,5,Salas Bajas
+460,5,Abanto
+461,5,Arcones
+462,5,Hueva
+463,5,El Hito
+464,5,Alfara del Patriarca
+465,5,Moreda de Álava
+466,5,Alquería de la Condesa
+467,5,Facería 35
+468,5,Bolaños de Campos
+469,5,Facería 63
+470,5,Lobera de Onsella
+471,5,Piqueras del Castillo
+472,5,Aldealcorvo
+473,5,Artieda
+474,5,Villafranca de Duero
+475,5,Cervera de Buitrago
+476,5,Fuente Encalada
+477,5,Villalba de la Loma
+478,5,Cubillas de los Oteros
+479,5,Castellserà
+480,5,Pesquera
+481,5,Facería 11
+482,5,Quintanilla de Urz
+483,5,Taragudo
+484,5,Serra
+485,5,Cihuri
+486,5,Montesquiu
+487,5,Arriate
+488,5,El Rourell
+489,5,Irura
+490,5,Olmeda de la Cuesta
+491,5,Beniflá
+492,5,Esparza de Salazar
+493,5,Añe
+494,5,Barcial de la Loma
+495,5,Arija
+496,5,Tirgo
+497,5,Cincovillas
+498,5,Jódar
+499,5,Náquera
+500,5,Meira
+501,5,Motilleja
+502,5,Jirueque
+503,5,Igorre
+504,5,Autillo de Campos
+505,5,El Vilosell
+506,5,Posadas
+507,5,Alconchel de la Estrella
+508,5,Cartagena
+509,5,Almajano
+510,5,Cobos de Fuentidueña
+511,5,Reinosa
+512,5,Valdegovía
+513,5,Sotillo
+514,5,Gimileo
+515,5,"Comunidad de Quintanilla-Vivar, Sotopalacios, Sotragero y Villanueva de Río Ubierna"
+516,5,Granyena de les Garrigues
+517,5,Larva
+518,5,Letux
+519,5,Pozuelo de Aragón
+520,5,Abrera
+521,5,Villaconejos de Trabaque
+522,5,Castañar de Ibor
+523,5,Valdemoro-Sierra
+524,5,"Ledanía de Barbadillo del Mercado, La Revilla, Salas de los Infantes y Villanueva de Río Ubierna"
+525,5,Garrigàs
+526,5,Bellcaire d'Urgell
+527,5,Portell de Morella
+528,5,Valluércanes
+529,5,Micieces de Ojeda
+530,5,Bellvei
+531,5,Sotoserrano
+532,5,El Pego
+533,5,San Miguel del Pino
+3380,5,Vilanova de Meià
+3381,5,Belauntza
+3382,5,Villangómez
+3383,5,Portillo de Soria
+3384,5,Monforte de Moyuela
+3385,5,Sunyer
+3386,5,Carrascosa
+3387,5,Villacarrillo
+3388,5,Griegos
+3389,5,Ardón
+3390,5,Cobreros
+3391,5,Santa Maria de Martorelles
+3392,5,Taboadela
+3393,5,Altafulla
+3394,5,Tardajos
+3395,5,Cigudosa
+3396,5,Foios
+3397,5,Bustillo del Páramo de Carrión
+3398,5,Segura de Toro
+3399,5,Samir de los Caños
+3400,5,Orellana la Vieja
+3401,5,Santa Fe del Penedès
+3402,5,Vall de Almonacid
+3403,5,Rasines
+3404,5,Girona
+3405,5,Fresnedillas de la Oliva
+3406,5,Arroyomolinos de la Vera
+3407,5,Arbizu
+3408,5,Huétor de Santillán
+3409,5,Andilla
+3410,5,Aldeanueva de Barbarroya
+3411,5,Torre la Ribera
+3412,5,Setiles
+3413,5,Colunga
+3414,5,Zuia
+3415,5,Aracena
+3416,5,Galapagar
+3417,5,El Ronquillo
+3418,5,La Granadella
+3419,5,San Juan del Puerto
+3420,5,Villacid de Campos
+3421,5,Madrigalejo
+3422,5,Manzanares
+3423,5,Alpedrete
+3424,5,Hervás
+3425,5,El Recuenco
+3426,5,La Quar
+3427,5,Canal de Berdún
+3428,5,Atzeneta d'Albaida
+3429,5,Gata de Gorgos
+3430,5,Loja
+3431,5,Villar del Pozo
+3432,5,Bot
+3433,5,Pego
+3434,5,Deyá
+3435,5,Vall de Gallinera
+3436,5,La Gineta
+3437,5,Palomera
+3438,5,Navaquesera
+3439,5,Alcalá de la Vega
+3440,5,Sahún
+3441,5,Rodezno
+3442,5,Cueva de Ágreda
+3443,5,Frigiliana
+3444,5,Torrejón de Velasco
+3445,5,Almáchar
+3446,5,Ortigosa de Pestaño
+3447,5,Ahillones
+3448,5,Valderrodilla
+3449,5,Barbate
+3450,5,Comunidad de Quintanalara (Revilla del Campo) y Torrelara
+3451,5,Les Masies de Voltregà
+3452,5,Sant Esteve de la Sarga
+3453,5,Mendaza
+3454,5,Castellnou de Bages
+3455,5,Matet
+3456,5,Pedro Bernardo
+3457,5,Santa Lucía de Tirajana
+3458,5,Covarrubias
+3459,5,Santa Cristina d'Aro
+3460,5,Albuñuelas
+3461,5,Lascuarre
+3462,5,Embid de Ariza
+3463,5,Laguna del Marquesado
+3464,5,Cañaveral de León
+3465,5,Cubla
+3466,5,Luzón
+3467,5,Donamaria
+3468,5,Torres de Albánchez
+3469,5,Hontanar
+3470,5,Pueblonuevo del Guadiana
+3471,5,Cadalso
+3472,5,Azaila
+3473,5,Algarrobo
+3474,5,Comunidad de Cotillas y Villaverde de Guadalimar
+3475,5,Carataunas
+3476,5,Cacabelos
+3477,5,L'Aldea
+3478,5,Sada
+3479,5,Saelices de Mayorga
+3480,5,Huelma
+3481,5,Utiel
+3482,5,Cidones
+3483,5,Berga
+3484,5,Cástaras
+3485,5,Navas de San Antonio
+3486,5,San Esteban de Gormaz
+3487,5,Alarilla
+3488,5,Carboneros
+3489,5,Perafort
+3490,5,Villalar de los Comuneros
+3491,5,Roncal
+3492,5,Sant Climent Sescebes
+3493,5,Coles
+3494,5,Castellanos de Moriscos
+3495,5,Doñinos de Ledesma
+3496,5,La Vajol
+3497,5,Turleque
+3498,5,Laguna de Duero
+3499,5,Garriguella
+3500,5,Valdepeñas de la Sierra
+3501,5,Fuentesecas
+3502,5,Vilagrassa
+3503,5,Cañada Vellida
+3504,5,Bobadilla del Campo
+3505,5,Busot
+3506,5,Facería 26
+3507,5,Castellar del Riu
+3508,5,Mucientes
+3509,5,Rupit i Pruit
+3510,5,Comunidad de Quintanilla del Agua (Quintanilla-Tordueles) y Puentedura
+3511,5,Arucas
+3512,5,Santiago del Tormes
+3513,5,Higueruela
+3514,5,Sant Pere de Torelló
+3515,5,La Alamedilla
+3516,5,Arnuero
+3517,5,Muñico
+3518,5,Cotanes del Monte
+3519,5,Férez
+3520,5,Sarrión
+3521,5,Budia
+3522,5,Santo Domingo de la Calzada
+3523,5,Villaralto
+3524,5,Sorihuela
+3525,5,Triacastela
+3526,5,Bijuesca
+3527,5,Barcarrota
+3528,5,San Millán de los Caballeros
+3529,5,Taroda
+3530,5,Santurtzi
+3531,5,Castrocalbón
+3532,5,Rubí
+3533,5,San Sadurniño
+3534,5,La Estrella
+3535,5,Lucena de Jalón
+3536,5,Barruecopardo
+4036,5,Navalmoral de la Mata
+4037,5,Villagarcía de Campos
+4038,5,Cetina
+4039,5,Fuente Obejuna
+4040,5,Fayón
+4041,5,El Bruc
+4042,5,La Codosera
+4043,5,Casla
+4044,5,El Saucejo
+4045,5,Ocentejo
+4046,5,Pareja
+4047,5,Meruelo
+4048,5,Navès
+4049,5,Binaced
+4050,5,Trebujena
+4051,5,Vigo
+4052,5,Benalauría
+4053,5,Azután
+4054,5,Pinell de Solsonès
+4055,5,Monflorite-Lascasas
+4056,5,Torre del Compte
+4057,5,Val do Dubra
+4058,5,Sepúlveda
+4059,5,Senés
+4060,5,Casasimarro
+4061,5,Totalán
+4062,5,Pomer
+4063,5,Torrecilla de Alcañiz
+4064,5,Lezuza
+4065,5,Junciana
+4066,5,Fuentelespino de Moya
+4067,5,Bareyo
+4068,5,Llanos del Caudillo
+4069,5,Artesa de Segre
+4070,5,Cardeñosa
+4071,5,Burjassot
+4072,5,Navahermosa
+4073,5,Pampaneira
+4074,5,Teià
+4075,5,Higuera de la Serena
+4076,5,Masalavés
+4077,5,Cordovilla la Real
+4078,5,Suances
+4079,5,Avión
+4080,5,Vilanova d'Escornalbou
+4081,5,Fuentes de Oñoro
+4082,5,Villanueva de Argaño
+4083,5,Zaratamo
+4084,5,Navas de Jorquera
+4085,5,Vallehermoso
+4086,5,Valle de las Navas
+4087,5,Paracuellos de la Ribera
+4088,5,Bárcena de Cicero
+4089,5,Vallgorguina
+4090,5,Mirafuentes
+4091,5,Benissa
+4092,5,Valdeobispo
+4093,5,El Poal
+4094,5,Dosrius
+4095,5,Vegaquemada
+4096,5,Huéscar
+4097,5,Baleira
+4098,5,Jayena
+4099,5,Villanueva del Rebollar
+4100,5,Robledillo de Mohernando
+4101,5,Chipiona
+4102,5,Villagalijo
+4103,5,Población de Campos
+4104,5,Sant Martí Sarroca
+4105,5,Escalona
+4106,5,Blascosancho
+4107,5,Almarza
+4108,5,Polanco
+4109,5,San Llorente
+4110,5,Corbera de Llobregat
+4111,5,Espadilla
+4112,5,Pinilla de Molina
+4113,5,O Pino
+4114,5,Arándiga
+4115,5,Quart de les Valls
+4116,5,La Bastida
+4117,5,Valverde de Llerena
+4118,5,Castronuevo de Esgueva
+4119,5,Bayarque
+4120,5,Burgos
+4121,5,Valverde de Valdelacasa
+4122,5,O Páramo
+4123,5,Masquefa
+4124,5,Real de Montroi
+4125,5,Campaspero
+4126,5,Friol
+4127,5,Santa Margalida
+4128,5,Genalguacil
+4129,5,Trabanca
+4130,5,Siero
+4131,5,La Vilavella
+4132,5,Nambroca
+4133,5,Barlovento
+4134,5,Les Masies de Roda
+4135,5,Carbonero el Mayor
+4136,5,Valderrobres
+4137,5,Alobras
+4138,5,Malón
+4139,5,Arganda del Rey
+4140,5,Fuentesaúco
+4141,5,Molina de Segura
+4142,5,Anievas
+4143,5,Torrecaballeros
+4144,5,Asturianos
+4146,5,Fuencaliente de la Palma
+4147,5,Sant Sadurní d'Osormort
+4148,5,Lledó
+4149,5,Juarros de Riomoros
+4150,5,Ondarroa
+4151,5,Ingenio
+4152,5,Gualta
+4153,5,Albinyana
+4154,5,Rubió
+4155,5,Tejadillos
+4156,5,Campillo de Aragón
+4157,5,Madrid
+4158,5,Valencia de las Torres
+4159,5,Alba de Tormes
+4160,5,Mazuela
+4161,5,Navaleno
+4162,5,Velascálvaro
+4163,5,Valverde de Leganés
+4164,5,Pinilla de Jadraque
+4165,5,Horcajo de las Torres
+4166,5,Banyeres de Mariola
+4167,5,Henche
+4168,5,Fuentesaúco de Fuentidueña
+4169,5,Escorihuela
+4170,5,Santa María del Páramo
+6414,5,Casbas de Huesca
+6415,5,Porreres
+6416,5,La Pobla de Benifassà
+6417,5,Cascante del Río
+6418,5,Hornachos
+6419,5,Ibarra
+6420,5,Castelflorite
+6421,5,Súria
+6422,5,La Hinojosa
+6423,5,Santa Elena
+6424,5,Cogeces del Monte
+6425,5,Portomarín
+6426,5,"Mancomunidad de Santa María del Monte de Cea, Villamol y Villaselán"
+6427,5,Bercianos del Páramo
+6428,5,Mayalde
+6429,5,Riogordo
+6430,5,Riofrío
+6431,5,Villaseco del Pan
+6432,5,Gaztelu
+6433,5,Martín Miguel
+6434,5,Canet d'Adri
+6435,5,Gérgal
+6436,5,Ayora
+6437,5,Fuente el Saúz
+6438,5,Solivella
+2449,5,Fuentes de Carbajal
+2450,5,Sempere
+2451,5,Bonilla de la Sierra
+2452,5,El Tiemblo
+2453,5,Pleitas
+2454,5,La Granada
+2455,5,Maià de Montcal
+2456,5,Líjar
+2457,5,Zarza de Montánchez
+2458,5,Chillarón de Cuenca
+2459,5,Belmonte de Miranda
+2460,5,Languilla
+2461,5,Garralda
+2462,5,Anguita
+2463,5,Arenas del Rey
+2464,5,Comunidad de Arauzo de Miel y Huerta del Rey
+2465,5,La Llosa de Ranes
+2466,5,Comunidad de Cubillo del Campo y Hontoria de la Cantera
+2467,5,Páramo del Sil
+2468,5,Torroella de Fluvià
+2469,5,Sant Hipòlit de Voltregà
+2470,5,San Martín de Valderaduey
+2471,5,Torroja del Priorat
+2472,5,La Vilueña
+2473,5,Guils de Cerdanya
+2474,5,Begonte
+2475,5,Villariezo
+2476,5,Terrinches
+2477,5,Pedrosillo el Ralo
+2478,5,Nava de la Asunción
+2479,5,Sora
+2480,5,Esplegares
+2481,5,San Justo de la Vega
+2482,5,Añón de Moncayo
+2483,5,Fuentespina
+2484,5,Almudévar
+2485,5,Arauzo de Torre
+2486,5,Quéntar
+2487,5,Armuña de Almanzora
+2488,5,Santovenia
+2489,5,Parlavà
+2490,5,Fene
+2491,5,Trazo
+2492,5,Alesanco
+2493,5,Zorita del Maestrazgo
+2494,5,Peleagonzalo
+2495,5,Torrepadre
+2496,5,San Pedro Manrique
+2497,5,Albal
+2498,5,Algarinejo
+2499,5,A Peroxa
+2500,5,San Pedro Palmiches
+2501,5,Melide
+2502,5,Val de San Martín
+2503,5,Alange
+2504,5,Montgai
+2505,5,Hinojos
+2506,5,Ciadoncha
+2507,5,Cudillero
+2508,5,Casas de Fernando Alonso
+2509,5,Cerveruela
+2510,5,La Sotonera
+2511,5,Estercuel
+2512,5,Toses
+2513,5,Villares de Órbigo
+2514,5,Villanueva de la Vera
+2515,5,Campofrío
+2516,5,Valle del Zalabí
+2517,5,Crespos
+2518,5,Cazalegas
+2519,5,Vilalba dels Arcs
+2520,5,Aranarache
+2521,5,Sesma
+2522,5,Lladorre
+2523,5,Maella
+2524,5,Grijota
+2525,5,Getaria
+2526,5,Alhaurín el Grande
+2527,5,Medinilla
+2528,5,Emperador
+2529,5,Navalafuente
+2530,5,San Juan de la Rambla
+2531,5,Bretocino
+2532,5,Beneixama
+2533,5,Abadiño
+2534,5,Encinasola
+2535,5,Begues
+2536,5,Sencelles
+2537,5,Terrassa
+2538,5,Peñafiel
+2539,5,Sigeres
+2540,5,Tremp
+2541,5,Almadrones
+2542,5,Tormellas
+2543,5,Vindel
+2544,5,Dalías
+2545,5,Estadilla
+2546,5,Tornos
+2547,5,Miranda de Arga
+2548,5,Marganell
+2549,5,Trigueros
+2550,5,Villafranca de los Caballeros
+2551,5,Torremocha de Jarama
+2552,5,Gernika-Lumo
+2553,5,Escañuela
+2554,5,Benidoleig
+2555,5,Monfero
+2556,5,Villamañán
+2557,5,Facería 87
+2558,5,Castilleja del Campo
+2560,5,Cordovín
+2561,5,Arcicóllar
+2562,5,Benicasim
+2563,5,Tordellego
+2564,5,Olmillos de Muñó
+2565,5,Baliarrain
+2566,5,Monzón de Campos
+2567,5,Tírvia
+2568,5,Noreña
+2569,5,Valle de Hecho
+2570,5,Berberana
+2571,5,Santa Maria de Merlès
+2572,5,Alcabón
+2573,5,Iniéstola
+2574,5,Riotorto
+2575,5,Ibrillos
+2576,5,Monterrubio de la Serena
+2577,5,Periana
+2578,5,San Felices de los Gallegos
+2579,5,L'Alqueria d'Asnar
+2580,5,Arona
+2581,5,Pozoantiguo
+2582,5,Mengabril
+2583,5,Hontecillas
+4814,5,Autilla del Pino
+4815,5,Moclín
+4816,5,Monreal de Ariza
+4817,5,Vallclara
+4818,5,Marañón
+4819,5,Bueña
+4820,5,San Juan de Gredos
+4821,5,Aspe
+4822,5,Villanázar
+4823,5,Sant Llorenç d'Hortons
+4824,5,Arboleas
+4825,5,Granada
+4826,5,La Masó
+4827,5,Santurdejo
+4828,5,Villamiel de la Sierra
+4829,5,Comunidad de Quintanar de la Sierra y Vilviestre del Pinar
+4830,5,Riego de la Vega
+4831,5,Oropesa
+4832,5,Villadepera
+4833,5,Villaseco de los Gamitos
+4834,5,Copons
+4835,5,San Vicente de la Cabeza
+4836,5,Calzada del Coto
+4837,5,Villacastín
+2747,5,Sargentes de la Lora
+2748,5,Fuentepinilla
+2749,5,Martinamor
+2750,5,Villanueva de la Condesa
+2751,5,Sevilla la Nueva
+2752,5,Curiel de Duero
+2753,5,Villagonzalo
+2754,5,Ramiro
+2755,5,San Martín de Trevejo
+2756,5,Horcajo de Montemayor
+2757,5,Los Gallardos
+2758,5,Sotorribas
+2759,5,Pino del Río
+2760,5,Pozal de Gallinas
+2761,5,Cumbres de Enmedio
+2762,5,Arcos de las Salinas
+2763,5,Cangas
+2764,5,Ababuj
+2765,5,Soba
+2766,5,Berzocana
+2767,5,Les Franqueses del Vallès
+2768,5,Villar del Pedroso
+2769,5,Villar de Ciervo
+2770,5,Rielves
+2771,5,Vallirana
+2772,5,Palomares del Río
+2773,5,La Fueva
+2774,5,San Miguel de Serrezuela
+2775,5,Navezuelas
+2776,5,La Matilla
+2777,5,Chumillas
+2778,5,Isla Cristina
+2779,5,Carbajo
+2780,5,Benaguasil
+2781,5,Ávila
+2782,5,La Victoria de Acentejo
+2783,5,Tollos
+2784,5,Quirós
+2785,5,Atienza
+2786,5,Etxalar
+2787,5,Vizmanos
+2788,5,Viver i Serrateix
+2789,5,Aielo de Rugat
+2790,5,Villalbarba
+2791,5,El Berrueco
+2792,5,Pradejón
+2793,5,Marbella
+2794,5,Pinto
+2795,5,Hornos de Moncalvillo
+2796,5,Boecillo
+2797,5,Torremolinos
+2798,5,Mohedas de Granadilla
+2799,5,Albalate de Cinca
+2800,5,Calonge
+2801,5,Pradell de la Teixeta
+2802,5,Botija
+2803,5,La Luisiana
+2804,5,Vallat
+2805,5,Almagro
+2806,5,Coria
+2807,5,Prádena del Rincón
+2808,5,Alcocer
+2809,5,Fresneña
+2810,5,Belver de los Montes
+2811,5,Aranguren
+2812,5,Orrios
+2813,5,Aranga
+2814,5,Matamala de Almazán
+2815,5,Mallabia
+2816,5,Negreira
+2817,5,Salamanca
+2818,5,Sigüenza
+2819,5,Yebra de Basa
+2820,5,Malpartida de Plasencia
+2821,5,Suflí
+2822,5,Santervás de Campos
+2823,5,Guardiola de Berguedà
+2824,5,San Miguel de Valero
+2825,5,Barberà de la Conca
+2826,5,Valle de Manzanedo
+2827,5,Vitigudino
+2828,5,Lumbrales
+2829,5,Breda
+2830,5,Tortuera
+2831,5,Vallelado
+2832,5,Guadalcanal
+2833,5,Facería 55
+2834,5,Sinlabajos
+2835,5,Alconada
+2836,5,"Comunidad de Barbadillo del Mercado, Hacinas, La Revilla, Salas de los Infantes y"
+2837,5,Lekunberri
+2838,5,Berbegal
+2839,5,Estepa
+2840,5,Carbajales de Alba
+2841,5,Ascó
+2842,5,El Cuervo de Sevilla
+2843,5,Murero
+2844,5,Facería 65
+2845,5,La Riba
+2846,5,Fuente Palmera
+2847,5,Rebolledo de la Torre
+2848,5,La Victoria
+2849,5,Benifairó de les Valls
+2850,5,Olivares
+2851,5,Castellar de la Muela
+2852,5,La Línea de la Concepción
+2853,5,Valdeolmillos
+2854,5,Rada de Haro
+2855,5,Lomoviejo
+2856,5,Llocnou de Sant Jeroni
+2857,5,Crecente
+2858,5,Salillas
+2859,5,Deba
+2860,5,Escorca
+2861,5,Rosal de la Frontera
+2862,5,Baix Pallars
+2863,5,Cifuentes
+2864,5,Lanteira
+2865,5,Goñi
+2866,5,Villanueva del Arzobispo
+2867,5,Tella-Sin
+2868,5,Sant Mateu
+2869,5,Matadeón de los Oteros
+2870,5,Costur
+2871,5,Godella
+2872,5,Areso
+2873,5,El Real de la Jara
+2874,5,Ribera d'Ondara
+2875,5,Santomera
+2876,5,Coslada
+2877,5,Peralejos de las Truchas
+2878,5,Aldeavieja de Tormes
+2879,5,San Mamés de Burgos
+2880,5,Masueco
+2881,5,Padules
+2882,5,Cabezamesada
+2883,5,Javier
+2884,5,Casillas
+2885,5,Mombuey
+2886,5,Villasur de Herreros
+2887,5,Albatàrrec
+2888,5,Fresno el Viejo
+2889,5,Salmerón
+2890,5,Barakaldo
+2891,5,Tres Cantos
+2892,5,Chozas de Abajo
+2893,5,Pinilla Trasmonte
+2894,5,Agaete
+2895,5,Tierzo
+2896,5,Isla Mayor
+2897,5,Colmenarejo
+2898,5,Malagón
+2899,5,Moncada
+2900,5,Redueña
+2901,5,Encinas de Esgueva
+2902,5,Almedina
+2903,5,Préjano
+2904,5,Cártama
+2905,5,San Vicente de Arévalo
+5774,5,Arroyomolinos
+5775,5,San Esteban de Zapardiel
+5776,5,Casasola de Arión
+5777,5,Villanueva de las Peras
+5779,5,Tuineje
+5780,5,Jorcas
+5781,5,Calzadilla
+5782,5,Chalamera
+5783,5,Arbúcies
+5784,5,Casasola
+5785,5,La Mudarra
+5786,5,Salomó
+5787,5,Arroyomolinos
+5788,5,Vegacervera
+5789,5,Brunyola
+5790,5,Berrocal de Huebra
+5791,5,Villar de la Yegua
+5792,5,Fuentecantos
+5793,5,Híjar
+5794,5,Valdelacasa
+5795,5,Martorelles
+5796,5,Acehúche
+5797,5,Mañeru
+5798,5,Beniparrell
+5799,5,Estellencs
+5800,5,Huércal de Almería
+5801,5,Montefrío
+5802,5,Vellisca
+5803,5,Paterna
+5804,5,Villanueva de Gómez
+5805,5,Novales
+5806,5,Mancera de Abajo
+5807,5,La Pobla de Segur
+5808,5,Iturmendi
+5809,5,Berantevilla
+5810,5,Minglanilla
+5811,5,Boadilla de Rioseco
+5812,5,Bérchules
+5813,5,Torrebesses
+5814,5,Puerto Seguro
+5815,5,Rubena
+5816,5,Montellano
+5817,5,Comunidad de Quintanaortuño y Celadilla-Sotobrín (Merindad de Río Ubierna)
+5818,5,Peralta de Alcofea
+5819,5,Rellinars
+5820,5,Galdakao
+5821,5,Sancti-Spíritus
+5822,5,Villanueva de Gumiel
+5823,5,Tomelloso
+5824,5,Cabañas de Yepes
+5825,5,Daya Nueva
+5826,5,Badalona
+5827,5,Galar
+5828,5,Moscardón
+5829,5,Uña
+5830,5,Bicorp
+5831,5,Aldehuela de Jerte
+5832,5,Moral de Calatrava
+5833,5,Vinaceite
+5834,5,Zorita de la Frontera
+5835,5,Llanera
+5836,5,Pegalajar
+5837,5,Gavilanes
+5838,5,Pereña de la Ribera
+5839,5,Belchite
+5840,5,Vallcebre
+5841,5,Cabanelles
+5842,5,El Pozuelo
+5843,5,Bellús
+5844,5,Almedinilla
+5845,5,Foz-Calanda
+5846,5,Quismondo
+5848,5,El Pobo de Dueñas
+5849,5,Ayódar
+5850,5,Portillo de Toledo
+5851,5,Salàs de Pallars
+5852,5,Golosalvo
+5853,5,Cañizares
+5854,5,Espinosa de los Monteros
+5855,5,Mota del Cuervo
+5856,5,Casas de Millán
+5857,5,Sigüés
+5858,5,Huérguina
+5859,5,El Cerro de Andévalo
+5860,5,Campos
+5861,5,Santa Eufemia
+5862,5,Odèn
+5863,5,Benicolet
+5864,5,Osornillo
+5865,5,Villamayor
+5866,5,Monasterio de Rodilla
+5867,5,Baztan
+5868,5,Villarcayo de Merindad de Castilla la Vieja
+5869,5,Colmenar del Arroyo
+5870,5,Huércanos
+5871,5,Rociana del Condado
+5872,5,Narros
+5873,5,Picanya
+5874,5,Peñaranda de Duero
+5875,5,Tordesillas
+5876,5,Garganta la Olla
+5877,5,Alaró
+5878,5,Boñar
+5879,5,Siurana
+5880,5,La Font d'En Carròs
+5881,5,Anaya
+5882,5,Marinaleda
+5883,5,Gelsa
+5884,5,Granyena de Segarra
+5885,5,Villanueva de Duero
+5886,5,Villanueva de Sigena
+5887,5,Alcalá del Obispo
+5888,5,Monóvar
+5889,5,Robledillo de la Vera
+5890,5,Okondo
+5891,5,Belalcázar
+5892,5,Carbajosa de la Sagrada
+5893,5,Santa Colomba de Somoza
+5894,5,Villaturde
+5895,5,Cipérez
+5896,5,Pedrosa del Rey
+5897,5,El Far d'Empordà
+5898,5,Munera
+5899,5,Alerre
+5900,5,Millanes
+5901,5,Marracos
+5902,5,Partido de la Sierra en Tobalina
+5903,5,Millares
+5904,5,Entrín Bajo
+5905,5,Villanueva de Oscos
+5906,5,Tramacastiel
+5907,5,Reus
+5908,5,Leza de Río Leza
+5909,5,Monachil
+5910,5,Umbrete
+5911,5,Tarragona
+5912,5,Piedramillera
+5913,5,Almoharín
+5914,5,Campillo de Deleitosa
+5915,5,Itrabo
+5916,5,Banyeres del Penedès
+5917,5,Muro de Aguas
+5918,5,Hormigos
+5919,5,Fogars de la Selva
+5920,5,Castejón de Alarba
+5921,5,Los Hinojosos
+5922,5,Izagre
+5923,5,Pajaroncillo
+5924,5,Bermellar
+5925,5,Toro
+5926,5,Frías de Albarracín
+5927,5,Arauzo de Miel
+5928,5,Barbarin
+5929,5,Valencia de Don Juan
+5930,5,Quintela de Leirado
+5931,5,Hornillos de Cameros
+5932,5,Luciana
+5933,5,Hita
+6439,5,Valle de Valdelucio
+6440,5,Sarratella
+6441,5,Agüimes
+6442,5,Vega de Pas
+6443,5,La Pobla de Montornès
+6444,5,Deleitosa
+6445,5,Herrera de Pisuerga
+6446,5,Sierra de Yeguas
+6447,5,Porto do Son
+6448,5,Cordobilla de Lácara
+6449,5,Población de Arroyo
+6450,5,Sorvilán
+6451,5,Sax
+6452,5,Villaciervos
+6453,5,Illas
+6454,5,Fuentelespino de Haro
+6455,5,Lucena del Cid
+6456,5,Caudete de las Fuentes
+6458,5,Ibahernando
+6459,5,Los Barrios de Bureba
+6460,5,Tiedra
+6461,5,Tapia de Casariego
+6462,5,Formentera del Segura
+6463,5,Mañaria
+6464,5,Sant Cugat del Vallès
+6465,5,Gallués
+6466,5,Rapariegos
+6467,5,Cantabrana
+6468,5,Villatoro
+6469,5,Palacios del Sil
+6470,5,Jarandilla de la Vera
+6471,5,Castrillo Matajudíos
+6472,5,Aldeanueva del Codonal
+6473,5,Ivars d'Urgell
+6474,5,Cardona
+6475,5,Camuñas
+6476,5,Chozas de Canales
+6477,5,Pozuelo de la Orden
+6478,5,El Escorial
+6479,5,Castellar de Santiago
+6480,5,L'Espluga Calba
+6481,5,Alconera
+6482,5,Las Cabezas de San Juan
+6483,5,Benagéber
+6484,5,Gallegos del Pan
+6485,5,Villadiego
+6486,5,Alba de Yeltes
+6487,5,Mozoncillo
+6488,5,Orxeta
+6489,5,Luyego
+6490,5,Santa María de Ordás
+6491,5,Cabrerizos
+6492,5,Cádiar
+6493,5,Riodeva
+6494,5,Oteiza
+6495,5,Villar de Peralonso
+6496,5,L'Ènova
+6497,5,Navalvillar de Pela
+6498,5,Valle de Abdalajís
+6499,5,Pálmaces de Jadraque
+6500,5,La Alberca
+6501,5,Algorfa
+6502,5,Churriana de la Vega
+6503,5,Palau-solità i Plegamans
+6504,5,Navalosa
+6505,5,Arico
+6506,5,La Roca de la Sierra
+6507,5,Corcubión
+6508,5,Gestalgar
+6509,5,Gaucín
+6510,5,Ossó de Sió
+6511,5,Selva
+6512,5,Torralba
+6513,5,Solera de Gabaldón
+6514,5,Casas de Garcimolina
+6515,5,Valdemierque
+6516,5,Maruri-Jatabe
+6517,5,Llanes
+6518,5,Peral de Arlanza
+6519,5,Arteixo
+6520,5,Atxondo
+6521,5,Numancia de la Sagra
+6522,5,Los Navalmorales
+6523,5,Facero Aldape (Irañeta y Uharte-Arakil)
+6524,5,Aldeanueva de la Sierra
+6525,5,Valdevacas y Guijar
+6526,5,Ares
+6527,5,La Pobla de Cérvoles
+6528,5,Gumiel de Mercado
+6529,5,Santiago Millas
+6530,5,Canales de la Sierra
+6531,5,Mugardos
+6532,5,Oviedo
+6533,5,Miravet
+6534,5,Tabera de Abajo
+6535,5,Cervera
+6536,5,Matapozuelos
+6537,5,Orbaneja Riopico
+6538,5,Muxía
+6540,5,Almadenejos
+6541,5,A Merca
+6542,5,Arahuetes
+6543,5,Jurisdicción de Segura de los Baños y Vivel del Río Martín
+6544,5,Vilaller
+6545,5,Villanueva de Huerva
+6546,5,Olmedo
+6547,5,Setcases
+6548,5,Valdeolea
+6549,5,Pedro Martínez
+6550,5,Guarromán
+6551,5,Fuenferrada
+6552,5,Basaburua
+6553,5,La Febró
+6554,5,Bilbao
+6555,5,El Fresno
+6556,5,Ribota
+6557,5,Villar del Olmo
+6558,5,Moralina
+6559,5,Siétamo
+6560,5,Murillo de Gállego
+6561,5,Zuera
+6562,5,Llardecans
+6563,5,Romanones
+6564,5,Forallac
+6565,5,Castellanos de Zapardiel
+6566,5,Cambre
+6567,5,Bozoó
+6568,5,Fuente el Sol
+6569,5,Capilla
+6570,5,Calders
+6571,5,Facería 106
+6572,5,Alfara de Algimia
+1786,5,La Ginebrosa
+1787,5,Anna
+1788,5,Pineda de Gigüela
+1789,5,Castropol
+1790,5,Paterna del Río
+1791,5,Alfoz de Quintanadueñas
+1792,5,Samper del Salz
+1793,5,Almenar de Soria
+1794,5,Igüeña
+1795,5,Ajofrín
+1796,5,La Garrovilla
+1797,5,Barbens
+1798,5,Villajoyosa
+1799,5,Garafía
+1800,5,Ortigosa del Monte
+1801,5,Cervillego de la Cruz
+1802,5,Biscarrués
+1803,5,Urzainqui
+1804,5,Solana del Pino
+1805,5,Labastida
+1806,5,Armiñón
+1807,5,Villarrubia de los Ojos
+1808,5,San Carlos del Valle
+1809,5,Hontoria del Pinar
+1810,5,Aldehuela de Yeltes
+4838,5,Puigpelat
+4839,5,Villarino de los Aires
+4840,5,Rollamienta
+4841,5,Ateca
+4842,5,Honrubia de la Cuesta
+4843,5,Cañete la Real
+4845,5,Les Avellanes i Santa Linya
+4846,5,Savallà del Comtat
+4847,5,Benamocarra
+4848,5,Botarell
+4849,5,Muros de Nalón
+4850,5,La Vall de Bianya
+4851,5,Navajas
+4852,5,Valdemoro
+4853,5,Castañeda
+4854,5,Elorrio
+4855,5,Alhaurín de la Torre
+4856,5,Bunyola
+4857,5,Getxo
+4858,5,Ojós
+4859,5,Sanlúcar la Mayor
+4860,5,Karrantza Harana
+4861,5,Torremejía
+4862,5,San Bartolomé
+4863,5,La Roca del Vallès
+4864,5,Fresno de Torote
+4865,5,La Granja de la Costera
+4866,5,Almaluez
+4867,5,Losacino
+4868,5,Kortezubi
+4869,5,Somolinos
+4870,5,Irueste
+4871,5,Aldeaseca de la Frontera
+4872,5,San Millán de Yécora
+4873,5,Almargen
+4874,5,Anquela del Pedregal
+4875,5,Las Aldehuelas
+4876,5,Cerezo
+4877,5,Holguera
+4878,5,Sierra Aralar
+4879,5,Llanera de Ranes
+4880,5,Villar del Campo
+4881,5,Torelló
+4882,5,Cabrillas
+4883,5,Encinas de Arriba
+4884,5,Gilena
+4885,5,Villamoratiel de las Matas
+4886,5,Henarejos
+4887,5,Cabezas del Pozo
+4888,5,Elvillar
+4889,5,Almodóvar del Campo
+4890,5,Peligros
+4891,5,La Solana
+4892,5,Priego de Córdoba
+4893,5,Creixell
+4894,5,Aznalcázar
+4895,5,La Hija de Dios
+4896,5,Capolat
+4897,5,Huerta de Arriba
+4898,5,Blanes
+4899,5,Los Pozuelos de Calatrava
+4900,5,Campillos-Sierra
+4901,5,Lopera
+4902,5,Guardamar del Segura
+4903,5,Carrocera
+4904,5,Ardales
+4905,5,Fanzara
+4906,5,Robledo de Chavela
+4907,5,Gema
+4908,5,Capella
+4909,5,"Comunidad de Herrera de Soria, Navafría de Ucero y Ucero"
+4910,5,Honrubia
+4911,5,Chiclana de la Frontera
+4912,5,Santa María del Invierno
+4914,5,Coscurita
+4915,5,Saldón
+4916,5,Villafranca de Córdoba
+4917,5,Seva
+4918,5,El Maderal
+4919,5,Valldemossa
+4920,5,Pujalt
+4921,5,Rodonyà
+4922,5,Lora de Estepa
+4923,5,Liceras
+4925,5,Coomonte
+4926,5,Laukiz
+4927,5,Pontevedra
+4928,5,Villoldo
+4929,5,Fígols i Alinyà
+4930,5,Cornellà de Llobregat
+4931,5,La Font de la Figuera
+4932,5,Armallones
+4933,5,Segura
+4934,5,Llançà
+4935,5,Anchuelo
+4936,5,Campos del Paraíso
+4937,5,Alcóntar
+4938,5,Macael
+4939,5,Brieva
+4940,5,Sort
+4941,5,Godojos
+4942,5,Camariñas
+4943,5,Parrillas
+4944,5,A Guarda
+4945,5,Villaseca de la Sagra
+4946,5,Ontinyent
+4947,5,Villarrobledo
+4948,5,Juslapeña
+4949,5,La Hoya
+4950,5,Hinojosa del Valle
+4951,5,Hernansancho
+4952,5,Mironcillo
+4953,5,Ezkurra
+4954,5,Olvena
+4955,5,Torres de Berrellén
+4956,5,Melgar de Arriba
+4957,5,Sobradiel
+4958,5,Castrodeza
+4959,5,Parada de Arriba
+4960,5,Prado de la Guzpeña
+4961,5,Piedrahíta
+4962,5,L'Escala
+4963,5,Casas de los Pinos
+4964,5,Canillas de Aceituno
+4965,5,Burgui
+4966,5,Mejorada del Campo
+4967,5,Bercero
+4968,5,Castigaleu
+4969,5,Pedroche
+4970,5,Yuncos
+4971,5,Rábade
+4972,5,Eskoriatza
+4973,5,Piña de Campos
+4974,5,Villalba de los Llanos
+7224,5,Masegoso
+7225,5,Villanueva de Cameros
+7226,5,La Almolda
+7227,5,El Vellón
+7228,5,Fornalutx
+7229,5,Carballeda de Avia
+7230,5,Neda
+7231,5,Morales de Rey
+7232,5,Huétor Tájar
+7233,5,San Tirso de Abres
+7235,5,Gerena
+7236,5,Fuentelmonge
+7237,5,Castellar de la Frontera
+7239,5,Lorquí
+7240,5,Tartanedo
+7241,5,Ultzama
+7242,5,Casas de Don Antonio
+7243,5,Talayuela
+7244,5,Los Fayos
+7245,5,Sedella
+7246,5,Ataun
+7247,5,Sant Jaume de Frontanyà
+7248,5,Porzuna
+7249,5,Alfoz de Lloredo
+7250,5,Garaballa
+7251,5,Vilamalla
+5132,5,La Campana
+5133,5,Gotarrendura
+5134,5,Zaldibar
+5135,5,Guadamur
+5136,5,Machacón
+5137,5,Pallejà
+5138,5,La Parra de las Vegas
+5139,5,Escalona del Prado
+5140,5,Valenzuela de Calatrava
+5141,5,Redondela
+5142,5,Fuenterrobles
+5143,5,Santa María la Real de Nieva
+5144,5,Pelayos de la Presa
+5145,5,Aguilar del Alfambra
+5146,5,Oquillas
+5147,5,Castrillo de Cabrera
+5148,5,Palenzuela
+5149,5,Cuerva
+5150,5,Cabrera d'Igualada
+5151,5,Villaquirán de los Infantes
+5152,5,Regumiel de la Sierra
+5153,5,Villares de Yeltes
+5154,5,Valdemadera
+5155,5,La Palma de Cervelló
+5156,5,Bernuy-Zapardiel
+5157,5,Valmadrid
+5158,5,Fisterra
+5159,5,Castellgalí
+5160,5,Torás
+5161,5,Jaén
+5162,5,Algodonales
+5163,5,Cuevas de Almudén
+5164,5,Cillaperlata
+5165,5,Santa Pola
+5166,5,Fuenlabrada
+5167,5,Cubas de la Sagra
+5168,5,Galve de Sorbe
+5169,5,Garvín
+5170,5,Puntallana
+5171,5,Cortes de Baza
+5172,5,Vélez de Benaudalla
+5173,5,Arguedas
+5174,5,Navalperal de Tormes
+5175,5,Espinosa de Cerrato
+5176,5,Sant Joan de Labritja
+5177,5,Castrillo de Riopisuerga
+5178,5,Carracedelo
+5179,5,La Puebla de Híjar
+5180,5,Rocafort
+5181,5,Veracruz
+5182,5,Santa Margarida i els Monjos
+5183,5,Banastás
+5184,5,Bardenas Reales
+5185,5,Candilichera
+5186,5,Ventalló
+5187,5,Castrillo de la Guareña
+5188,5,Martín del Río
+5189,5,Hoyos del Collado
+5190,5,Arantza
+5191,5,Os de Balaguer
+5192,5,Quesa
+5193,5,El Verger
+5194,5,Canena
+5196,5,Gavarda
+5197,5,Bolaños de Calatrava
+5198,5,Sollana
+5199,5,Villarroya de los Pinares
+5200,5,Castellbisbal
+5201,5,Jubrique
+5202,5,Linares de la Sierra
+5203,5,Mirueña de los Infanzones
+5204,5,Olocau del Rey
+5205,5,Espelúy
+5206,5,Bocairent
+5207,5,Comunidad de Cilleruelo de Arriba y Pineda-Trasmonte
+5208,5,Pulianas
+5209,5,La Torre de Esteban Hambrán
+5210,5,A Gudiña
+5211,5,Modúbar de la Emparedada
+5212,5,Rasquera
+5213,5,Navas del Rey
+5214,5,Llorenç del Penedès
+5215,5,Torrecilla de la Abadesa
+5216,5,Benimeli
+5217,5,San Vicente del Raspeig
+5218,5,Cenicero
+5219,5,Lozoya
+5220,5,Figueruela de Arriba
+5221,5,Mas de Barberans
+5222,5,Almazora
+5223,5,Arañuel
+5224,5,Martínez
+5225,5,Cuevas de San Marcos
+5226,5,Quintanilla del Molar
+5227,5,Navaluenga
+5228,5,Passanant
+5229,5,Arens de Lledó
+5230,5,Velilla de la Sierra
+5231,5,Cabolafuente
+5232,5,Luelmo
+5233,5,Castelló de Farfanya
+5234,5,Mancera de Arriba
+5235,5,La Vall d'en Bas
+5236,5,Los Silos
+5237,5,Castro-Urdiales
+5238,5,San Cristóbal de la Cuesta
+5239,5,San Pelayo
+5240,5,Ventosa
+5241,5,Betancuria
+5242,5,Mezalocha
+5243,5,Grisel
+5244,5,Farlete
+5245,5,Dévanos
+5246,5,Milagros
+5247,5,Pedro Abad
+5248,5,Monforte del Cid
+5249,5,O Grove
+5250,5,Santa María de las Hoyas
+5251,5,Cútar
+5252,5,Pomar de Valdivia
+5253,5,Mazaleón
+5254,5,Roales de Campos
+5255,5,Sonseca
+5256,5,Vega de Infanzones
+5257,5,Hernán-Pérez
+5258,5,Cobeña
+5259,5,Vespella de Gaià
+5260,5,Estremera
+5261,5,Huesa
+5262,5,Palanques
+5263,5,Astigarraga
+5264,5,Ponte Caldelas
+5265,5,La Garriga
+5266,5,Sansol
+5267,5,Rioseco de Soria
+5268,5,Villanueva de Argecilla
+5269,5,Siete Aguas
+5270,5,Oliva
+5271,5,Olmeda del Rey
+5272,5,Benarrabá
+5273,5,Gatón de Campos
+5274,5,Balsareny
+5275,5,Vilar de Santos
+5276,5,Cabranes
+5277,5,Nogueira de Ramuín
+5278,5,Castro Caldelas
+5279,5,Samos
+5280,5,Puendeluna
+5281,5,Nerja
+5282,5,Sant Martí de Tous
+5283,5,Fiñana
+5284,5,Trijueque
+5285,5,Genevilla
+5286,5,Robledillo de la Jara
+5287,5,Sienes
+5288,5,Campo de Criptana
+8501,5,Pujerra
+8502,5,Alcorisa
+8503,5,Sudanell
+8504,5,Navas de San Juan
+8505,5,Calera y Chozas
+8506,5,Berzosilla
+8507,5,Encinas de Abajo
+8508,5,Lagata
+8509,5,Rezmondo
+8510,5,Valdelugueros
+8511,5,Alcuéscar
+8512,5,Rebollar
+8513,5,Arnedo
+8514,5,Almodóvar del Río
+8515,5,Oria
+8516,5,Bercianos del Real Camino
+8517,5,Zorita
+8518,5,Albuñol
+8519,5,Collado
+8520,5,Ilche
+8521,5,Marazoleja
+8522,5,Enguera
+8523,5,Aldea del Fresno
+8524,5,Mudá
+8525,5,Zahara
+8526,5,Belver de Cinca
+8527,5,Hinojosas de Calatrava
+8528,5,Abánades
+8529,5,Fortaleny
+8530,5,Vedra
+8531,5,La Pera
+8532,5,Soses
+8533,5,Pals
+8534,5,Santa Cecília de Voltregà
+8535,5,Ferreras de Abajo
+8536,5,Quiñonería
+8537,5,Casarrubios del Monte
+8538,5,Morón de Almazán
+8539,5,Laguna Dalga
+8540,5,Sanxenxo
+8541,5,Cerezo de Abajo
+8542,5,Arrancacepas
+8543,5,Jávea
+8544,5,Caudete
+8545,5,Tarazona de Guareña
+8546,5,Dólar
+8547,5,Vinaròs
+8548,5,Guijo de Santa Bárbara
+8549,5,Peñascosa
+8550,5,Almendral de la Cañada
+8551,5,Momblona
+8552,5,Calella
+8553,5,Benifallim
+8554,5,Comunidad de Hacinas y Pinilla de los Barruecos
+8555,5,Ibieca
+8556,5,Jabalquinto
+8557,5,Nonaspe
+8558,5,Benegiles
+8559,5,Beceite
+8560,5,Torralba de los Frailes
+8561,5,Sabero
+8562,5,La Pobla de Farnals
+8563,5,Almonacid de la Sierra
+8564,5,Quintana de la Serena
+8565,5,Higuera la Real
+8566,5,Buenavista
+8567,5,La Selva del Camp
+8568,5,Cullera
+8569,5,Prádena
+8570,5,Llívia
+8571,5,Comunidad de Albalate de Zorita e Illana (Aldovera)
+8572,5,Alcalá la Real
+8573,5,Camarma de Esteruelas
+8574,5,Panticosa
+8575,5,Pesaguero
+8576,5,Ribamontán al Monte
+8577,5,Terque
+8578,5,Potes
+8579,5,Ejulve
+8580,5,Belmonte de Gracián
+8581,5,Castilblanco
+8582,5,Maraña
+8583,5,Calvarrasa de Arriba
+8584,5,Barriopedro
+8585,5,Puebla de Azaba
+8586,5,Tielmes
+8587,5,Castel de Cabra
+8588,5,Pelabravo
+8589,5,Las Inviernas
+8590,5,Cihuela
+8591,5,Ahigal
+8592,5,Pozuelo
+8593,5,Peralejos de Arriba
+8594,5,Casas de Miravete
+8595,5,Masllorenç
+8596,5,Peñalba
+8597,5,Josa i Tuixén
+8598,5,Villamor de los Escuderos
+8599,5,Larrodrigo
+8600,5,Montbrió del Camp
+8601,5,Tudela
+8602,5,Sena
+8603,5,Pedrosa del Páramo
+8604,5,San Cebrián de Mazote
+8605,5,Medina de Pomar
+8606,5,Torre de Esgueva
+8608,5,Los Olmos
+8609,5,Villatuelda
+8610,5,Villamalea
+8611,5,Jaramillo Quemado
+8612,5,Rionegro del Puente
+8613,5,San Cristovo de Cea
+8614,5,Gines
+8615,5,Sasamón
+8616,5,Canet de Mar
+8617,5,Torrefeta i Florejacs
+8618,5,Villarroya del Campo
+8619,5,Gaià
+8620,5,Bargas
+8621,5,La Guancha
+8622,5,Angüés
+8623,5,Sant Lluís
+8624,5,Baeza
+8625,5,Fuentealbilla
+8626,5,Manzanillo
+8627,5,Binigembla
+8628,5,Gallegos de Solmirón
+8629,5,Mérida
+8630,5,Quintanar de la Sierra
+8631,5,San Sebastián de los Ballesteros
+8632,5,Castillejo de Martín Viejo
+8633,5,El Manzano
+8634,5,Alcaudete de la Jara
+8635,5,Aldea del Cano
+8636,5,Tineo
+8637,5,Casarabonela
+8638,5,Hurones
+8639,5,Muñoveros
+8640,5,Alameda del Valle
+8641,5,Puebla de Obando
+8642,5,Ulldemolins
+8643,5,Valdelinares
+8644,5,Alcaraz
+8645,5,Brazacorta
+8646,5,Navas del Madroño
+8647,5,Valderrodrigo
+8648,5,Búger
+8649,5,Bezas
+8650,5,Monzón
+8651,5,Taravilla
+8652,5,Gajanejos
+8653,5,Lantadilla
+8654,5,Babilafuente
+8655,5,Jijona
+8656,5,Zigoitia
+8657,5,Alfántega
+8658,5,Las Palmas de Gran Canaria
+8659,5,Villasequilla
+8660,5,Peñarandilla
+1811,5,Villatuerta
+1812,5,Andoain
+1813,5,Durango
+1814,5,San Sebastián de los Reyes
+1815,5,Sagunto
+1816,5,Arruazu
+1817,5,Nules
+1818,5,Olmos de Peñafiel
+1819,5,Quintanilla del Agua y Tordueles
+1820,5,Valfermoso de Tajuña
+1821,5,Carreño
+1822,5,Morales de Valverde
+1823,5,Ojos Negros
+1824,5,Villavieja de Yeltes
+1825,5,Madrigal del Monte
+1826,5,Gotor
+1827,5,San Clemente
+1828,5,Jafre
+1829,5,Alegia
+1830,5,Ayala
+1831,5,Chinchón
+1832,5,Nuez de Ebro
+1833,5,Moral de Sayago
+1834,5,Retascón
+1835,5,Niebla
+1836,5,Carlet
+1837,5,Garrigoles
+1838,5,Canales
+1839,5,San Vicente de la Barquera
+1840,5,Roda de Ter
+1841,5,San Martín del Rey Aurelio
+1842,5,Quiroga
+1843,5,Villalobos
+1844,5,Huércal-Overa
+1845,5,Tiana
+1846,5,Cáceres
+1847,5,Cabizuela
+1848,5,Arevalillo
+1849,5,Saldaña de Burgos
+1850,5,Vera
+1851,5,Establés
+1852,5,Bimenes
+1853,5,Maqueda
+1854,5,Navaconcejo
+1855,5,Villafranca de Ebro
+1856,5,Lidón
+1857,5,Nívar
+1858,5,Alhambra
+1859,5,Aldealpozo
+1860,5,Comunidad de Campoo-Cabuérniga (Hermandad de Campoo de Suso y Cabuérniga
+1861,5,Gomecello
+1862,5,Matalebreras
+1863,5,Belmez
+1864,5,Cadalso de los Vidrios
+1865,5,Sant Pere de Vilamajor
+1866,5,Cervelló
+1867,5,Huécija
+1868,5,Toques
+1869,5,La Zarza
+1870,5,Calzada de Oropesa
+1871,5,Valdealgorfa
+1872,5,Aspariegos
+1873,5,Bocigas
+1874,5,Yunclillos
+1875,5,Guadahortuna
+1876,5,Voto
+1877,5,Mont-roig del Camp
+1878,5,Matilla de Arzón
+1879,5,Lizoáin
+1880,5,Chiprana
+1881,5,San Miguel de Abona
+1882,5,La Codoñera
+1883,5,Tornadizos de Ávila
+1884,5,Arévalo de la Sierra
+1885,5,Aguilafuente
+1886,5,Reyero
+1887,5,Santa Eulalia de Gállego
+1888,5,Casserres
+1889,5,La Pobla de Lillet
+1890,5,Zúñiga
+1891,5,Aguaviva
+1892,5,Móstoles
+1893,5,Lizartza
+1894,5,Os Blancos
+1895,5,Cerezo de Río Tirón
+1896,5,Magallón
+1897,5,Samaniego
+1898,5,Derio
+1899,5,Villanueva de Azoague
+1900,5,Susqueda
+1901,5,Comunidad de Rabé de las Calzadas y Tardajos
+1902,5,Cosa
+1903,5,Negredo
+1904,5,Viana do Bolo
+1905,5,A Lama
+1906,5,Sotragero
+1907,5,El Pont d'Armentera
+1908,5,Torrelodones
+1909,5,Piles
+1910,5,Vinuesa
+1911,5,Ameyugo
+1912,5,Santa Pau
+1913,5,Granja de Rocamora
+1914,5,Arcos
+1915,5,Llocnou d'En Fenollet
+1916,5,Fuencemillán
+1917,5,Merindad de Cuesta-Urria
+1918,5,Valle de Valdebezana
+1919,5,Enériz
+1920,5,Escobar de Campos
+1921,5,Riaño
+1922,5,Fuentes de Ropel
+1923,5,Cabezón de la Sierra
+1924,5,Sopeira
+1925,5,Gomezserracín
+1926,5,Almoster
+1927,5,Añana
+1928,5,Fuentes de Béjar
+1929,5,Jabugo
+1930,5,Alboraya
+1931,5,Cerdido
+1932,5,Alameda
+1933,5,Azagra
+1934,5,Nogal de las Huertas
+1935,5,El Provencio
+1936,5,Malanquilla
+1937,5,Palazuelos de Eresma
+1938,5,Sineu
+1939,5,Narros del Castillo
+1940,5,Candín
+1941,5,Estriégana
+1942,5,Triollo
+1943,5,Valdeprado
+1944,5,Hoyales de Roa
+4171,5,Igea
+4172,5,Las Rozas de Valdearroyo
+4173,5,Gea de Albarracín
+4174,5,Almoguera
+4175,5,La Peza
+4176,5,Cerceda
+4177,5,Mieza
+4178,5,Beuda
+4179,5,Lituénigo
+4180,5,Villadoz
+4181,5,Valfarta
+4182,5,Ciudad Real
+4183,5,Rasueros
+4184,5,Romanillos de Atienza
+4185,5,Ocaña
+4186,5,Peñalsordo
+4187,5,Vilafamés
+4188,5,Megina
+4189,5,Avilés
+4190,5,Bossòst
+4191,5,Mendexa
+4192,5,Quintanilla de Arriba
+4193,5,Vallfogona de Ripollès
+4194,5,Villamuriel de Cerrato
+4195,5,Ariño
+4196,5,La Losilla
+4197,5,Pozaldez
+7701,5,Tribaldos
+7702,5,Salinas de Pisuerga
+7703,5,Valdecuenca
+7704,5,Llobera
+7705,5,Perdiguera
+7706,5,Muro en Cameros
+7707,5,Ronda
+7708,5,Castejón de Monegros
+7709,5,Banyoles
+7710,5,Toril y Masegoso
+7711,5,Navahondilla
+7712,5,Bisaurri
+7713,5,Cariñena
+7714,5,Odón
+7715,5,Gáldar
+7716,5,San Mateo de Gállego
+7717,5,Montilla
+7718,5,Margalef
+7719,5,Albaladejo
+7720,5,Nueva Villa de las Torres
+7721,5,Lloseta
+7722,5,Puntagorda
+7723,5,Quintanavides
+7724,5,Museros
+7725,5,Alcolea de las Peñas
+7726,5,Cordovilla
+7727,5,Nava del Rey
+7728,5,Treviana
+7729,5,Villanueva del Rey
+7730,5,Càrcer
+7731,5,Cármenes
+7732,5,Montehermoso
+7733,5,Valdehorna
+7734,5,Olesa de Montserrat
+7735,5,San Vicente del Valle
+7736,5,Lemoiz
+7737,5,Lupión
+7738,5,Pedrera
+7739,5,Bulbuente
+7740,5,Colindres
+7741,5,Bargota
+7742,5,Sordillos
+7743,5,Jadraque
+7744,5,Pinilla del Valle
+7745,5,Castejón de Tornos
+7746,5,Villalgordo del Marquesado
+7747,5,La Seca
+7748,5,Illar
+7749,5,Corpa
+7750,5,Freila
+7751,5,San Adrián
+7752,5,Sant Gregori
+7753,5,Comunidad de Quintanaortuño y Villanueva de Río Ubierna (Merindad de Río Ubierna)
+7754,5,Jarafuel
+7755,5,Isòvol
+7756,5,Herramélluri
+7757,5,Los Tojos
+7758,5,Castil de Vela
+7759,5,Monterrubio de la Sierra
+7760,5,Viloria
+7761,5,Vallejera de Riofrío
+7762,5,Gamiz-Fika
+7763,5,Torre del Burgo
+7764,5,A Rúa
+7765,5,Iznájar
+7766,5,Cellorigo
+7767,5,Facería 76
+7768,5,Labajos
+7769,5,Gutierre-Muñoz
+7770,5,El Montmell
+7771,5,Navalcán
+7772,5,Lónguida
+7773,5,Borobia
+7774,5,Viana de Jadraque
+7775,5,Frumales
+7776,5,Cantalojas
+7777,5,Destriana
+7778,5,Puebla de Don Rodrigo
+7779,5,Bera
+7780,5,Estivella
+7781,5,San Román de Hornija
+7782,5,Atea
+7783,5,La Orotava
+7784,5,Berriatua
+7785,5,Villar de la Encina
+7786,5,Villaquirán de la Puebla
+7787,5,Guadix
+7788,5,Sorlada
+7789,5,Barrax
+7790,5,Palaciosrubios
+7791,5,Sanlúcar de Barrameda
+7792,5,Villar de los Navarros
+7793,5,Villalán de Campos
+7794,5,Imotz
+7795,5,Espinosa de Villagonzalo
+7796,5,Juarros de Voltoya
+7797,5,Catarroja
+7798,5,Cañada de Benatanduz
+7799,5,Proaza
+7800,5,Astorga
+7801,5,Molinicos
+7802,5,Gajates
+7803,5,La Unión
+7804,5,Villagómez la Nueva
+7805,5,Prat de Comte
+7806,5,Bonastre
+7807,5,L'Albi
+7808,5,Parla
+7809,5,Guaro
+7810,5,Villalba del Rey
+7811,5,Vita
+7812,5,Santa Coloma de Queralt
+7813,5,Maluenda
+7814,5,Santa Eufemia del Arroyo
+7815,5,Bellprat
+7816,5,La Mierla
+7817,5,Alcoroches
+7818,5,Cabanillas
+7819,5,Alfauir
+7820,5,Sant Quirze del Vallès
+7821,5,Villalgordo del Júcar
+7822,5,Galdames
+7823,5,Almonaster la Real
+7824,5,Segorbe
+7825,5,Cabañas de la Sagra
+7826,5,Arenas de San Pedro
+7827,5,Albanchez de Mágina
+7828,5,Torre de las Arcas
+7829,5,Otura
+7830,5,Martín de Yeltes
+7831,5,Abezames
+7832,5,Torla
+7833,5,Villegas
+7834,5,Marina de Cudeyo
+7835,5,Roda de Barà
+7836,5,Daganzo de Arriba
+7837,5,Xermade
+7838,5,Herrera de Valdecañas
+7839,5,Mequinenza
+7840,5,Alcarràs
+7841,5,Castrillo de Don Juan
+7842,5,Vilada
+7843,5,Tierz
+7844,5,Coaña
+7845,5,Trevélez
+7846,5,Cervera de Pisuerga
+7847,5,L'Armentera
+7848,5,Aldea en Cabo
+7849,5,Cimanes del Tejar
+7850,5,Picassent
+7851,5,Valhermoso
+7852,5,Villarta de los Montes
+7853,5,Ortigosa de Cameros
+7854,5,Ventosilla y Tejadilla
+7855,5,Salobre
+7856,5,Matute
+7857,5,Quintanapalla
+7858,5,Gordaliza del Pino
+7859,5,Lanzahíta
+1155,5,Facería 14
+1156,5,Campillo de Aranda
+1157,5,Teror
+1158,5,Aldeaseca
+1159,5,Fonz
+1160,5,Fregenal de la Sierra
+1161,5,Riofrío de Riaza
+1162,5,Borjabad
+1163,5,Atalaya del Cañavate
+1165,5,El Astillero
+1166,5,Villaco
+1167,5,Beniel
+1168,5,Tazacorte
+1169,5,Beniardá
+1170,5,El Ràfol d'Almúnia
+1171,5,Bufali
+1172,5,La Vall de Laguar
+1173,5,Paradinas de San Juan
+1174,5,Olmedilla de Alarcón
+1175,5,Canet d'En Berenguer
+1176,5,Aliud
+1177,5,Huérmeces del Cerro
+1178,5,Castejón de Henares
+1179,5,El Atazar
+1180,5,Zerain
+1181,5,Dolores
+1182,5,Monterde
+1183,5,Matilla de los Caños
+1184,5,Leza
+1185,5,Gordoncillo
+1186,5,Villablanca
+1187,5,Portilla
+1188,5,Arenys de Munt
+1189,5,Cabra de Mora
+1190,5,Aoiz
+1191,5,Beneixida
+1192,5,Duesaigües
+1193,5,Cascajares de la Sierra
+1194,5,Hoyos de Miguel Muñoz
+1195,5,Pioz
+1196,5,Nalda
+1197,5,Puebla del Príncipe
+1198,5,Paniza
+1199,5,Padrones de Bureba
+1200,5,Comunidad de Torrelara y Villoruebo
+1201,5,Comunidad de Canicosa de la Sierra y Vilviestre del Pinar
+1202,5,Viñuelas
+1203,5,Aldealengua
+1204,5,Camós
+1205,5,Cádiz
+1206,5,Lascuarre (Sagarras Altas)
+1207,5,Valle de Bardají
+1208,5,Puértolas
+1209,5,Bascuñana de San Pedro
+1210,5,Azara
+1211,5,Azlor
+1212,5,Castejón del Puente
+1213,5,Osso de Cinca
+1214,5,Velilla de Cinca
+1215,5,Arguis
+1216,5,La Cuba
+1217,5,Pitarque
+1218,5,Olba
+1219,5,Torres de Albarracín
+1220,5,Visiedo
+1221,5,Villel
+1222,5,Valbona
+1223,5,Villastar
+1224,5,Barrachina
+1225,5,Los Pintanos
+1226,5,Torralba de Ribota
+1227,5,Albeta
+1228,5,Mallén
+1229,5,Alforque
+1230,5,Bujaraloz
+1231,5,San Felices de Buelna
+1232,5,Campoo de Yuso
+1233,5,Fresneda de Altarejos
+1234,5,Aliaguilla
+1235,5,Villafrades de Campos
+1236,5,Piélagos
+1237,5,Mazcuerras
+1238,5,Almendros
+1239,5,Alcázar del Rey
+1240,5,Montalbanejo
+1241,5,Pinarejo
+1242,5,Zarza de Tajo
+1243,5,La Revilla y Ahedo
+1244,5,Navas de Bureba
+1245,5,Rillo de Gallo
+1246,5,"Ledanía de Hacinas, Salas de los Infantes y Villanueva de Carazo"
+1247,5,Copernal
+1248,5,Yélamos de Abajo
+1249,5,Chillarón del Rey
+1250,5,Escamilla
+1251,5,Albares
+1252,5,Prádanos de Bureba
+1253,5,Galápagos
+1254,5,Fuentelahiguera de Albatages
+1255,5,Mazuecos
+1256,5,Torrejón del Rey
+1257,5,Navatejares
+1258,5,Bugedo
+1259,5,Comunidad de Caleruega y Coruña del Conde
+1260,5,Reinoso
+1261,5,Trespaderne
+1262,5,Santa Cruz del Valle Urbión
+1263,5,Mahamud
+1264,5,Tejada
+1265,5,Santibáñez de Esgueva
+1266,5,Arandilla
+1267,5,Villalbilla de Gumiel
+1268,5,Mancomunidad de Quintana del Castillo Y Villagatón
+1269,5,Algadefe
+1270,5,Santa Cristina de Valmadrigal
+1271,5,Villademor de la Vega
+1272,5,Castrotierra de Valmadrigal
+1273,5,Villaeles de Valdavia
+1274,5,Castromocho
+1275,5,Villarmentero de Campos
+1276,5,Payo de Ojeda
+1277,5,Santibáñez de la Peña
+1278,5,Las Casas del Conde
+1279,5,Monforte de la Sierra
+1280,5,Castroserna de Abajo
+1281,5,Valero
+1282,5,Valdehijaderos
+1283,5,Gallegos de Argañán
+1284,5,Ituero de Azaba
+1285,5,Morasverdes
+1286,5,Pastores
+1287,5,Tenebrón
+1288,5,Arenillas
+1289,5,Bustillo de Chaves
+1290,5,Cabezón de Valderaduey
+1291,5,Vadillo
+1292,5,Castrobol
+1293,5,Morales de Campos
+1294,5,Cistérniga
+1295,5,Gallegos de Hornija
+1296,5,Olmos de Esgueva
+1297,5,Ollauri
+1298,5,San Martín de Valvení
+1299,5,Camporredondo
+1300,5,Montemayor de Pililla
+1301,5,Mojados
+1302,5,Villaveza de Valverde
+1303,5,Molezuelas de la Carballeda
+1304,5,Peque
+1305,5,Villardeciervos
+1306,5,Ferreruela
+1307,5,Faramontanos de Tábara
+4198,5,Cantavieja
+4199,5,Marcilla
+4200,5,Ponteceso
+4201,5,Villasila de Valdavia
+4202,5,Laviana
+4203,5,Mamblas
+4204,5,Pedraza
+4205,5,Robledo del Mazo
+4206,5,Cabrillanes
+4207,5,Sant Miquel de Campmajor
+4208,5,Galilea
+4209,5,Moya
+4210,5,Sant Guim de Freixenet
+4211,5,Madroñera
+4212,5,Abarca de Campos
+4213,5,Sellent
+4214,5,Zafrilla
+4215,5,Pinós
+4216,5,Hermisende
+4217,5,Pueyo
+4218,5,Olmedilla de Eliz
+4219,5,Badolatosa
+4220,5,Castellonet de la Conquesta
+4221,5,Moyuela
+4222,5,Alfaro
+4224,5,San Juan de la Encinilla
+4225,5,Loranca de Tajuña
+4226,5,Villanueva del Río y Minas
+4227,5,Vegas del Condado
+4228,5,Robladillo
+4229,5,Ibarrangelu
+4230,5,La Pesquera
+4231,5,Revilla de Collazos
+4232,5,Campillo de Arenas
+4233,5,Daroca de Rioja
+4234,5,Quintanilla San García
+4235,5,Pedrosa de Río Úrbel
+4236,5,Quicena
+4237,5,Alàs i Cerc
+4238,5,Villanueva de Viver
+4239,5,Abárzuza
+4240,5,Renera
+4241,5,Turrillas
+4242,5,Alfarp
+4243,5,Barajas de Melo
+4244,5,Santibáñez de Valcorba
+4245,5,Carrascalejo
+4246,5,Villalpando
+4248,5,Estepona
+4249,5,Punxín
+4250,5,Pasaia
+4251,5,Torre de Don Miguel
+4252,5,Rabanera del Pinar
+4253,5,Forcarei
+4254,5,Pepino
+4255,5,Golpejas
+4256,5,Molinos de Duero
+4257,5,Villarreal de Huerva
+4258,5,Zumarraga
+4259,5,Sobrado
+4260,5,Castro de Fuentidueña
+4261,5,Aguilar de Segarra
+4262,5,Elciego
+4263,5,Las Valeras
+4264,5,Penagos
+4265,5,Cosuenda
+4266,5,Astudillo
+4267,5,Trujillanos
+4268,5,Paracuellos de Jarama
+4269,5,Forès
+4270,5,Frías
+4271,5,Santa Cruz de Yanguas
+4272,5,Cogollos de la Vega
+4273,5,Bollullos de la Mitación
+4274,5,Membrío
+4275,5,Mutriku
+4276,5,Daroca
+4277,5,Torre de Miguel Sesmero
+4278,5,Solanillos del Extremo
+4279,5,Jaraíz de la Vera
+4280,5,Zarzosa
+4281,5,Guadramiro
+4282,5,Viacamp y Litera
+4283,5,Mata de Cuéllar
+4284,5,Hormilla
+4285,5,Villalba de Perejil
+4286,5,Ezcabarte
+4287,5,Alcollarín
+4288,5,Saceda-Trasierra
+4289,5,Vezdemarbán
+4290,5,Purchena
+4291,5,Ferreras de Arriba
+4292,5,El Piñero
+4293,5,Gilbuena
+4294,5,Setenil de las Bodegas
+4295,5,Rossell
+4296,5,Villahermosa del Río
+4297,5,Torrefarrera
+4298,5,Covelo
+4299,5,Láncara
+4300,5,Chucena
+4301,5,Alegría-Dulantzi
+4302,5,Tamariz de Campos
+4303,5,Santa Cecilia del Alcor
+4304,5,Meis
+4305,5,Harana
+4306,5,Beas de Guadix
+4307,5,Valga
+4308,5,Costitx
+4309,5,Becerril de Campos
+4310,5,Iruelos
+4311,5,Bergasillas Bajera
+4312,5,Puras
+4313,5,La Puebla de Cazalla
+4314,5,Ibargoiti
+4315,5,Buenavista del Norte
+4316,5,Cheste
+4317,5,San Cibrao das Viñas
+4318,5,Maicas
+4319,5,Cornago
+4320,5,Palacios de Sanabria
+4321,5,Valleruela de Sepúlveda
+4322,5,La Vid de Bureba
+4323,5,Torralba del Río
+4324,5,La Morera
+4325,5,Vélez-Blanco
+4326,5,Los Cortijos
+4327,5,Torreiglesias
+4328,5,La Cañada de Verich
+4329,5,Graus
+4330,5,Finestrat
+4331,5,Albaladejo del Cuende
+6573,5,Alfambra
+6574,5,Llinars del Vallès
+6575,5,La Sénia
+6576,5,Pardos
+6577,5,Peraltilla
+6578,5,Huelva
+6579,5,Balmaseda
+6580,5,Quintanilla del Olmo
+6581,5,Navalpino
+6582,5,Cubo de Bureba
+6583,5,Villanueva de los Castillejos
+6584,5,Masdenverge
+6585,5,Villacarralón
+6586,5,Montillana
+6587,5,Jimena
+6588,5,Los Corrales
+6589,5,Toreno
+6590,5,Cesuras
+6591,5,Sant Feliu de Buixalleu
+6592,5,La Vansa i Fórnols
+6593,5,Albalat de la Ribera
+6594,5,Tolbaños
+6595,5,Rialp
+6596,5,Gallegos del Río
+6597,5,Eibar
+6598,5,Motilla del Palancar
+7407,5,Villaquilambre
+7408,5,Elche
+7409,5,Solosancho
+7410,5,Venta del Moro
+7411,5,Xove
+7412,5,Montoro
+7413,5,Basconcillos del Tozo
+7414,5,Lobios
+7415,5,Vilaplana
+7416,5,Riudecanyes
+7417,5,Cubells
+7418,5,Niharra
+7419,5,Avinyó
+7420,5,Villárdiga
+7421,5,Navaridas
+7422,5,Segura de la Sierra
+7423,5,Olite
+7424,5,Santa Cruz del Valle
+7425,5,Villarejo de Salvanés
+7426,5,Castro de Rei
+7427,5,Bellmunt d'Urgell
+7428,5,Caldes de Montbui
+7429,5,Sils
+7430,5,Pinillos
+7431,5,Villaverde de Íscar
+7432,5,Salduero
+7433,5,San Lorenzo de la Parrilla
+7434,5,Bétera
+7435,5,Alocén
+7436,5,Alba
+7437,5,La Granada de Río-Tinto
+7438,5,Carcedo de Bureba
+7439,5,Garbayuela
+7440,5,Cómpeta
+7441,5,La Lastrilla
+7442,5,Fuentearmegil
+7443,5,Fresno del Río
+7444,5,Castell de Mur
+7445,5,Alfoz de Bricia
+7446,5,Benavides
+7447,5,Castellcir
+7448,5,Cabezón de Pisuerga
+7449,5,Tembleque
+7450,5,Algueña
+7451,5,Montuïri
+7452,5,Arzúa
+7453,5,Ollo
+7454,5,Vilablareix
+7455,5,El Cubillo de Uceda
+7456,5,Viladecans
+7457,5,Librilla
+7458,5,Fontanals de Cerdanya
+7459,5,Yesa
+7460,5,Cuevas Labradas
+7461,5,Galisancho
+7462,5,Colomera
+7463,5,Brazatortas
+7464,5,Medio Cudeyo
+7465,5,Selas
+7466,5,Cazalilla
+7467,5,Argavieso
+7468,5,El Valle
+7469,5,Dueñas
+7470,5,La Taha
+7471,5,Agullent
+7472,5,La Algaba
+7473,5,Linyola
+7474,5,Bordalba
+7475,5,Paüls
+7476,5,Castellnou de Seana
+7477,5,Almorox
+7478,5,Maceda
+7479,5,Fiscal
+7480,5,Comunidad de la Pardina del Mercadal (Loscos)
+7481,5,Alcalá del Júcar
+7482,5,Beade
+7483,5,Llanars
+7484,5,Rueda de Jalón
+7485,5,Carrión de Calatrava
+7486,5,Asteasu
+7487,5,Guardo
+7488,5,Rabós
+7489,5,Torralbilla
+7490,5,Simat de la Valldigna
+7491,5,Totana
+7492,5,Sisamón
+7493,5,Pancorbo
+7494,5,Aledo
+7495,5,Lagueruela
+7496,5,Alba de Cerrato
+7497,5,Blacos
+7498,5,Sieteiglesias de Tormes
+7500,5,Frontera
+7501,5,Moral de la Reina
+7502,5,Orcoyen
+7503,5,Vallibona
+7504,5,Ogassa
+7505,5,Milles de la Polvorosa
+7506,5,Celanova
+7507,5,Manjarrés
+7508,5,Níjar
+7509,5,Corteconcepción
+7510,5,Dúrcal
+7511,5,Collado Villalba
+7512,5,Cortegada
+7513,5,Tordillos
+7514,5,Cervera del Llano
+7515,5,Cabra del Santo Cristo
+7516,5,Brea de Tajo
+7517,5,Alcanar
+7518,5,Alfarnatejo
+7519,5,San Cristóbal de Entreviñas
+7520,5,Corral de Ayllón
+7521,5,Zarzuela del Monte
+7522,5,Cabrero
+7523,5,Quintanaortuño
+7524,5,Béjar
+7525,5,Fuentelcésped
+7526,5,Cañete de las Torres
+7527,5,El Payo
+7528,5,Viguera
+7529,5,Villanuño de Valdavia
+7530,5,Navalmanzano
+7531,5,Abajas
+7532,5,Castrillo de Onielo
+7533,5,Benidorm
+7534,5,Ibeas de Juarros
+7535,5,Valbuena de Duero
+7536,5,Trescasas
+7537,5,Itsasondo
+7538,5,Teguise
+7539,5,Alborea
+7540,5,Monfarracinos
+7541,5,Teresa de Cofrentes
+7542,5,Òrrius
+7543,5,Les Useras
+7544,5,Casillas de Coria
+534,5,Malpartida
+535,5,El Toro
+536,5,La Iglesuela del Cid
+537,5,San Morales
+538,5,Tramaced
+539,5,Bureta
+540,5,Villar y Velasco
+541,5,Pazos de Borbén
+542,5,Villaverde de Guadalimar
+543,5,Canalejas de Peñafiel
+544,5,Cárcar
+545,5,Amayuelas de Arriba
+546,5,Villaescusa de Roa
+547,5,Beire
+548,5,Villava
+549,5,Fuentespreadas
+550,5,Zizur Mayor
+551,5,Almacelles
+552,5,Milmarcos
+553,5,Valdemanco
+554,5,Benirredrà
+555,5,Cárdenas
+556,5,La Pobla del Duc
+557,5,Canillas de Río Tuerto
+558,5,Pratdip
+559,5,Comunidad de Riego de la Vega y Villamontán de la Valduerna
+560,5,Casas del Monte
+561,5,Puigdàlber
+562,5,Facería 45
+563,5,Moríñigo
+564,5,Murchante
+565,5,Barbadillo del Mercado
+566,5,Huéneja
+567,5,Artajona
+568,5,Folgoso de la Ribera
+569,5,Alsodux
+570,5,Castellanos de Castro
+571,5,Albatana
+572,5,San Andrés del Rabanedo
+573,5,Benisanó
+574,5,Ribeira
+575,5,Villahermosa del Campo
+576,5,Xinzo de Limia
+577,5,Badajoz
+578,5,Montenegro de Cameros
+579,5,Rábano
+580,5,Hervías
+581,5,Estepa de San Juan
+582,5,Cereceda de la Sierra
+583,5,Castilleja de la Cuesta
+584,5,Pedro-Rodríguez
+585,5,Tolocirio
+586,5,Cantimpalos
+587,5,Villarrasa
+588,5,Getafe
+589,5,San Pascual
+590,5,Lazagurría
+591,5,Plasencia de Jalón
+592,5,Pinilla de los Moros
+593,5,Villalobón
+594,5,El Gastor
+595,5,Navamorales
+596,5,Málaga
+597,5,Poza de la Vega
+598,5,Muro de Alcoy
+599,5,El Campo de Peñaranda
+600,5,Vilarmaior
+601,5,Jimera de Líbar
+602,5,Facería 24
+603,5,Lobeira
+604,5,Bardallur
+605,5,Ucero
+606,5,Cardeñajimeno
+607,5,Puebla de la Sierra
+608,5,Umbrías
+609,5,Arconada
+610,5,Cazorla
+611,5,Ceutí
+612,5,Santa María del Tiétar
+613,5,Càlig
+614,5,Barásoain
+615,5,Maleján
+616,5,Pardines
+617,5,Salares
+618,5,Rupià
+619,5,Muriel Viejo
+620,5,Colmenar
+621,5,Salinas de Oro
+622,5,Facería 21
+623,5,Tiurana
+624,5,Ciudad Rodrigo
+625,5,Condemios de Abajo
+626,5,Móra la Nova
+627,5,Cerbón
+628,5,Villafrechós
+629,5,San Martín del Castañar
+630,5,Pozo de Guadalajara
+631,5,Santa Maria de Palautordera
+632,5,Buberos
+634,5,Biure
+635,5,Truchas
+636,5,Rafal
+637,5,Balconchán
+638,5,Palacios del Pan
+639,5,Jarilla
+640,5,Utebo
+641,5,Puigverd d'Agramunt
+642,5,Ansoáin
+643,5,Fresnedilla
+644,5,Hormilleja
+645,5,Manchita
+646,5,Azkoitia
+647,5,Caracena
+648,5,Ricla
+649,5,Fontcoberta
+650,5,Jabaloyas
+651,5,La Calzada de Béjar
+652,5,Sádaba
+653,5,Serinyà
+654,5,Cerecinos del Carrizal
+655,5,Ciutadella de Menorca
+656,5,Mengamuñoz
+657,5,La Hiruela
+658,5,Villarramiel
+659,5,Encinas
+660,5,Tinajo
+661,5,Puebla del Maestre
+662,5,Montarrón
+663,5,Ferrol
+664,5,Facería 16
+665,5,Fuendetodos
+666,5,Villaconejos
+667,5,Pradilla de Ebro
+668,5,Tavernes Blanques
+669,5,Ajangiz
+670,5,Torrelles de Llobregat
+671,5,Villanueva de Gállego
+672,5,El Palau d'Anglesola
+673,5,Dehesas de Guadix
+674,5,Nigüelas
+675,5,Laspuña
+676,5,Peracense
+677,5,Espinelves
+678,5,Cañizo
+679,5,Villalba de Guardo
+680,5,Graja de Campalbo
+681,5,Lastras del Pozo
+682,5,Leache
+683,5,Peñaranda de Bracamonte
+684,5,"Comunidad de Barbadillo de Herreros, Valderrubio y Villajimeno"
+685,5,Becilla de Valderaduey
+686,5,Martiago
+687,5,Facería 91
+688,5,La Riera de Gaià
+689,5,Fuentepiñel
+690,5,Pinilla de los Barruecos
+691,5,San Bartolomé de Béjar
+3537,5,San Martín de la Virgen de Moncayo
+3538,5,Fuentelsaz
+3539,5,"Comunidad de Castrillo de la Reina, Hacinas y Salas de los Infantes"
+3540,5,Pozuelo de Alarcón
+3541,5,Castrillo-Tejeriego
+3542,5,San Juan del Monte
+3543,5,Atalaya
+3544,5,Chapinería
+3545,5,La Zarza de Pumareda
+3546,5,Villar de Rena
+3547,5,Fresno Alhándiga
+3548,5,Robledo
+3549,5,O Rosal
+3550,5,Sestrica
+3551,5,El Buste
+3552,5,Maldà
+3553,5,Sesa
+3554,5,Grañón
+3555,5,Candasnos
+3556,5,Roa
+3557,5,Rábanos
+3558,5,Vall d'Alba
+3559,5,Gavà
+3560,5,Montesa
+3561,5,Pozoamargo
+3562,5,Guadalix de la Sierra
+3563,5,El Borge
+3564,5,La Pobla Llarga
+3565,5,Mambrillas de Lara
+3566,5,Santa Amalia
+3567,5,Madrigal de las Altas Torres
+3568,5,San Román de los Montes
+3569,5,Riofrío del Llano
+3570,5,Casavieja
+3571,5,Villalmanzo
+3572,5,Tomiño
+3573,5,Villayón
+3574,5,Guadalmez
+3575,5,Cervera del Maestre
+3576,5,Puigverd de Lleida
+3577,5,Lubrín
+3578,5,Lechón
+3579,5,Oseja
+3580,5,Almensilla
+3581,5,L'Eliana
+3582,5,Vera de Moncayo
+3583,5,Traiguera
+3584,5,Castelnou
+3585,5,Los Arcos
+3586,5,Camporrélls
+3587,5,Sant Celoni
+3588,5,El Hoyo de Pinares
+3589,5,Sanchón de la Sagrada
+3590,5,Hinojales
+3591,5,Valencina de la Concepción
+3592,5,San Miguel del Arroyo
+3593,5,Zarzalejo
+3594,5,Rugat
+3595,5,Soportújar
+3596,5,Yuncler
+3597,5,Santa Cruz de Paniagua
+3598,5,La Tallada d'Empordà
+3599,5,Cànoves i Samalús
+3600,5,El Frago
+3601,5,Meneses de Campos
+3602,5,Chamartín
+3603,5,Peñaflor
+3604,5,Curtis
+3605,5,Solana de Ávila
+3606,5,Godall
+3607,5,Moncofa
+3608,5,Pelarrodríguez
+3609,5,Camarillas
+3610,5,Cuenca de Campos
+3611,5,Herradón de Pinares
+3612,5,Illana
+3613,5,Palacios de la Sierra
+3614,5,Mos
+3615,5,Cabezón de Cameros
+3616,5,Pozuelo de Calatrava
+3617,5,Gizaburuaga
+3618,5,Villar de Domingo García
+3619,5,Leiva
+3620,5,Santorcaz
+3621,5,Bárboles
+3622,5,Puebla de Don Francisco
+3623,5,Albalate de las Nogueras
+3624,5,A Pobra do Caramiñal
+3625,5,Corrales
+3626,5,Torregamones
+3627,5,Santa Clara de Avedillo
+3628,5,El Garrobo
+3629,5,Mesones de Isuela
+3630,5,Carnota
+3631,5,Baños de Montemayor
+3632,5,Ujados
+3633,5,Vallada
+3634,5,Villaescusa la Sombría
+3635,5,San José del Valle
+3636,5,Palo
+3637,5,Villamanta
+3638,5,Monte Común de las Amescoas
+3639,5,Sant Vicenç de Montalt
+3640,5,Benitagla
+3641,5,Cebrones del Río
+3642,5,Gorafe
+3643,5,Pinos Puente
+3644,5,Villavieja del Lozoya
+3645,5,Barbadillo del Pez
+3646,5,Villamayor de Santiago
+3647,5,Torreadrada
+3648,5,Sant Feliu de Guíxols
+3649,5,Calera de León
+3650,5,Bádenas
+3651,5,Torrejón de Ardoz
+3652,5,Ribatejada
+3653,5,Tordera
+3654,5,El Bonillo
+3655,5,Fuertescusa
+3656,5,Carrizosa
+3657,5,Chueca
+3658,5,Los Villares de Soria
+3659,5,Cucalón
+3660,5,Santa Comba
+3661,5,Anaya de Alba
+3662,5,Verdú
+3663,5,Beniarbeig
+3664,5,La Puebla del Río
+3665,5,Santervás de la Vega
+3666,5,Santiago del Campo
+3667,5,Lamasón
+3668,5,Vega de Valdetronco
+3669,5,Granja de Torrehermosa
+3670,5,Muñomer del Peco
+3671,5,Montejo
+3672,5,Villanueva del Trabuco
+3673,5,Rodeiro
+3674,5,Zaratán
+3675,5,Manganeses de la Polvorosa
+3676,5,El Pino de Tormes
+3677,5,Villabrázaro
+3678,5,Montferrer i Castellbò
+3679,5,Valdefuentes del Páramo
+3680,5,Oñati
+3681,5,La Granja d'Escarp
+3682,5,Las Majadas
+3683,5,Torremormojón
+3684,5,Sant Quintí de Mediona
+3685,5,Castrejón de Trabancos
+3686,5,Organyà
+3687,5,Higuera
+3688,5,Yernes y Tameza
+3689,5,Villaverde de Rioja
+3690,5,Fuenllana
+3691,5,Caspe
+6599,5,Marlín
+6600,5,El Morell
+6601,5,Villaflor
+6602,5,Fuentidueña de Tajo
+6603,5,Almaraz de Duero
+6604,5,Hinojosa de Jarque
+6605,5,Trucios-Turtzioz
+6607,5,Molvízar
+6608,5,Collado de Contreras
+6609,5,Betanzos
+6610,5,Erro
+6611,5,Oseja de Sajambre
+6612,5,Torreorgaz
+6613,5,Alcalalí
+6614,5,Magaz de Cepeda
+6615,5,Cee
+6616,5,Berrueces
+6617,5,A Veiga
+6618,5,Peñausende
+6619,5,Ágreda
+6620,5,La Riba de Escalote
+6621,5,Navia
+6622,5,Salas Altas
+6623,5,La Pola de Gordón
+6624,5,Villanueva de Bogas
+6625,5,Alpera
+6626,5,Los Balbases
+6627,5,El Picazo
+6628,5,Castelldefels
+6629,5,Cirueña
+6630,5,Pesoz
+6631,5,Hombrados
+6632,5,San Lorenzo de El Escorial
+6633,5,Alcaracejos
+6634,5,Fuentes de Rubielos
+6635,5,Gumiel de Izán
+6636,5,Hontoria de Valdearados
+6637,5,Corvera de Toranzo
+6638,5,Villena
+6639,5,Los Yébenes
+6640,5,Bustillo del Páramo
+6641,5,Malva
+6642,5,Salou
+6643,5,Palafrugell
+6644,5,Barbadillo
+6645,5,Urduña-Orduña
+6646,5,Navianos de Valverde
+6647,5,Paredes de Sigüenza
+6648,5,Gúdar
+6649,5,Cubillos
+6650,5,Grazalema
+6651,5,Somiedo
+6652,5,Alcanó
+6653,5,Tajahuerce
+6654,5,Tordehumos
+6655,5,Pozuel del Campo
+6656,5,Nava de Arévalo
+6657,5,Víllora
+6658,5,Castillo de Locubín
+6659,5,Orexa
+6660,5,Beniarrés
+6661,5,Yátova
+6662,5,San Esteban del Valle
+6663,5,Balenyà
+6664,5,Ramales de la Victoria
+6665,5,Noblejas
+6666,5,Àger
+6667,5,Villamanrique
+6668,5,Longás
+6669,5,Facería 15
+6670,5,Alanís
+6671,5,Nava de Béjar
+6672,5,Soto y Amío
+6673,5,Villamayor de Campos
+6674,5,Sóller
+6675,5,La Sagrada
+6676,5,Obanos
+6677,5,Villafeliche
+6679,5,Urdiain
+6680,5,Peraleda del Zaucejo
+6682,5,Palau-sator
+6683,5,El Port de la Selva
+6684,5,Amposta
+6685,5,Rojas
+6686,5,Alguazas
+6687,5,Melque de Cercos
+6688,5,Villa del Río
+6689,5,Salvatierra de Tormes
+6690,5,Collado Mediano
+6691,5,Robres del Castillo
+6692,5,Cornellà del Terri
+6693,5,Casas-Ibáñez
+6694,5,Carballeda de Valdeorras
+6695,5,Montaverner
+6696,5,Barreiros
+6697,5,Úrbel del Castillo
+6698,5,Santa Elena de Jamuz
+6699,5,Aldea del Obispo
+6700,5,Cisla
+6701,5,El Tejado
+6702,5,San Bartolomé de las Abiertas
+6703,5,Calahorra
+6704,5,Albalate del Arzobispo
+6705,5,Viveiro
+6706,5,Villanueva del Rebollar de la Sierra
+6707,5,La Adrada
+6708,5,Beires
+6709,5,Albánchez
+6710,5,Istán
+6711,5,Pinedas
+6712,5,Trabazos
+6713,5,Torroella de Montgrí
+6714,5,Aria
+6715,5,Villagonzalo de Tormes
+6716,5,Valdestillas
+6717,5,Bernuy de Porreros
+6718,5,Villasabariego
+6719,5,Acered
+6720,5,Uncastillo
+6721,5,Chillón
+6722,5,Noáin
+6723,5,Sant Jaume dels Domenys
+6724,5,Arévalo
+6725,5,Acebo
+6726,5,Pina de Montalgrao
+6727,5,Matallana de Torío
+6728,5,San Pedro del Pinatar
+6729,5,Las Tres Villas
+6730,5,Crivillén
+6731,5,Monleón
+6732,5,Valdetorres
+6733,5,Jumilla
+6734,5,Massanes
+6735,5,Cachorrilla
+8182,5,El Pinell de Brai
+8183,5,Cabreros del Río
+8184,5,Los Corrales de Buelna
+8185,5,Sant Quirze Safaja
+8186,5,El Soleràs
+8187,5,Blesa
+8188,5,Barbadillo de Herreros
+8189,5,Oco
+8190,5,Pozondón
+8191,5,Belascoáin
+8192,5,Villarrubia de Santiago
+8193,5,Villanubla
+8194,5,Bailo
+8195,5,Cedillo del Condado
+8196,5,Alp
+8197,5,Els Torms
+8198,5,Alcolea de Calatrava
+8199,5,Hermigua
+8200,5,Puerto Lumbreras
+8201,5,El Busto
+8202,5,Valderredible
+8203,5,Sant Guim de la Plana
+8204,5,Barceo
+8205,5,Montejo de la Sierra
+8206,5,Villabraz
+2906,5,La Roda
+2907,5,Hontanas
+2908,5,Berceo
+2909,5,Fresno de la Vega
+2910,5,Santiago del Teide
+2911,5,Villardompardo
+2912,5,Ourense
+2913,5,Montalbo
+2914,5,Barrios de Colina
+2915,5,Zarza de Granadilla
+2916,5,La Bouza
+2917,5,Campotéjar
+2918,5,Alzira
+2919,5,Logroño
+2920,5,Polinyà
+2921,5,Adra
+2922,5,Paredes de Escalona
+2923,5,Carrascal del Río
+2924,5,Hinojosa del Campo
+2925,5,Aguatón
+2926,5,La Antigua
+2927,5,Boniches
+2928,5,Arenillas de Riopisuerga
+2929,5,Petilla de Aragón
+2930,5,Cuntis
+2931,5,Alcàntera de Xúquer
+2932,5,Xeraco
+2933,5,Salvatierra de Esca
+2934,5,Ribadavia
+2935,5,Don Álvaro
+2936,5,El Ballestero
+2937,5,Rubí de Bracamonte
+2938,5,Mollina
+2939,5,Tapioles
+2940,5,Villaverde del Río
+2941,5,Loiu
+2942,5,Sequera de Fresno
+2943,5,As Neves
+2944,5,Camaleño
+2945,5,Palacios del Arzobispo
+2946,5,Esgos
+2947,5,San Roque
+2948,5,Santa Susanna
+2949,5,Monteagudo
+2950,5,La JoyosaJ
+2951,5,San Juan del Olmo
+2952,5,Garcihernández
+2953,5,Pozo Cañada
+2954,5,Fresno de Río Tirón
+2955,5,Villafranca Montes de Oca
+2956,5,Navalcarnero
+2957,5,Facería 22
+2958,5,Albuñán
+2959,5,Navas de Estena
+2960,5,La Calahorra
+2961,5,Arroyomolinos de León
+2962,5,Rubite
+2963,5,Xerta
+2964,5,Legutiano
+2965,5,Barberà del Vallès
+2966,5,El Burgo de Ebro
+2967,5,Arrigorriaga
+2968,5,Santa Olalla de Bureba
+2969,5,Turón
+2970,5,Villarrín de Campos
+2971,5,Terrateig
+2972,5,Lentegí
+2973,5,Congosto de Valdavia
+2974,5,Cumbres de San Bartolomé
+2975,5,San Pedro de Gaíllos
+2976,5,Tudelilla
+2977,5,Munitibar-Arbatzegi Gerrikaitz
+2978,5,Mesegar de Corneja
+2979,5,Marchamalo
+2980,5,Valdesamario
+2981,5,Valverde de los Arroyos
+2982,5,La Póveda de Soria
+2983,5,Valle de Cerrato
+2984,5,L'Espunyola
+2985,5,Monroyo
+2986,5,Cilleruelo de Arriba
+2987,5,San Pedro de Latarce
+2988,5,Kanpezu
+2989,5,Callús
+2990,5,Alhama de Granada
+2991,5,Juviles
+2992,5,Benquerencia
+2993,5,Burgo de Osma-Ciudad de Osma
+2994,5,Mirabel
+2995,5,Lerín
+2996,5,Barcial del Barco
+2997,5,Santa Magdalena de Pulpis
+2998,5,Espino de la Orbada
+2999,5,El Espinar
+3000,5,Piqueras
+3001,5,Riosa
+3002,5,Cangas del Narcea
+3003,5,Sant Joan de les Abadesses
+3004,5,Albalá
+3005,5,Salas
+3006,5,Torrevelilla
+3007,5,Rello
+3008,5,Villanueva de las Torres
+3009,5,Cortegana
+3010,5,Villavelayo
+3011,5,Daimús
+3012,5,Miño de Medinaceli
+3013,5,Casas de Don Pedro
+3014,5,Utande
+3015,5,Arrankudiaga
+3016,5,Retuerta
+3017,5,Villamantilla
+3018,5,Lena
+3019,5,Lora del Río
+3020,5,Higueras
+3021,5,Villarejo de Fuentes
+3022,5,Moratalla
+3023,5,Puiggròs
+3024,5,Orpí
+3025,5,Sant Joan Despí
+3026,5,Lantarón
+3027,5,Yunquera
+3028,5,Talarn
+3029,5,Santa Marta
+3030,5,La Cumbre
+3031,5,Villaseco de los Reyes
+3032,5,San Martín de Boniches
+3033,5,Villabona
+3034,5,Undués de Lerda
+3035,5,Fuentes Calientes
+3036,5,Palomares del Campo
+3037,5,Molinillo
+3038,5,Vilalba Sasserra
+3039,5,Casatejada
+3040,5,Cazalla de la Sierra
+3041,5,Casar de Palomero
+3042,5,Herrerías
+3043,5,Torrevieja
+3044,5,Encío
+3045,5,Monroy
+3046,5,Riudaura
+3047,5,Serradilla del Llano
+3048,5,Villanueva de Carazo
+3049,5,Agüero
+3050,5,Moraleja de Enmedio
+3051,5,San Martín y Mudrián
+3052,5,Murueta
+3053,5,Teresa
+3054,5,San Bartolomé de Tirajana
+3055,5,Murtas
+3056,5,Herrín de Campos
+3057,5,Els Poblets
+3058,5,Buniel
+3059,5,Salmoral
+3060,5,Sarriés
+3061,5,Crevillent
+3062,5,Fuente el Olmo de Íscar
+5289,5,Baños de Tajo
+5934,5,Pías
+5935,5,Castrelo do Val
+5936,5,Revellinos
+5937,5,Rillo
+5938,5,Alfondeguilla
+5939,5,Dosbarrios
+5940,5,Villar del Arzobispo
+5941,5,Benamejí
+5942,5,Algarra
+5943,5,Robledollano
+5944,5,Vicién
+5945,5,Cartes
+5946,5,Camas
+5947,5,Langa del Castillo
+5948,5,Alcaucín
+5949,5,Añover de Tormes
+5950,5,Royuela
+5951,5,Elche de la Sierra
+5952,5,Riells i Viabrea
+5953,5,Tudela de Duero
+5954,5,Dehesa de Montejo
+5955,5,Torre los Negros
+5956,5,Busto de Bureba
+5957,5,Zalla
+5958,5,El Puerto de Santa María
+5959,5,Chauchina
+5960,5,Riudoms
+5961,5,Camarles
+5962,5,Alcampell
+5963,5,Benalúa de las Villas
+5964,5,La Alameda de Gardón
+5965,5,Valseca
+5966,5,Abella de la Conca
+5967,5,Santiago de Calatrava
+5968,5,Purujosa
+5969,5,Olaibar
+5970,5,Marugán
+5971,5,Cartaya
+5972,5,Collazos de Boedo
+5973,5,Ourol
+5974,5,Zizurkil
+5975,5,Alcoy
+5976,5,Yeles
+5977,5,Bedmar y Garcíez
+5978,5,Rabanera
+5979,5,Navadijos
+5980,5,Barxeta
+5981,5,Corbins
+5982,5,San Martín de Oscos
+5983,5,Castillo de Bayuela
+5984,5,Priego
+5985,5,Arres
+5986,5,Muñogrande
+5987,5,Mula
+5988,5,Torreblanca
+5989,5,Écija
+5990,5,Requena de Campos
+5991,5,Fuenteguinaldo
+5992,5,Campazas
+5993,5,Agoncillo
+5994,5,Elduain
+5995,5,Valdemeca
+5996,5,Santiago de la Puebla
+5997,5,Valdeavero
+5998,5,Humilladero
+5999,5,San Vicente del Palacio
+6000,5,Doña Mencía
+6001,5,Torrelavega
+6002,5,Torre-Cardela
+6003,5,Flaçà
+6004,5,Benafigos
+6005,5,Alcudia de Veo
+6006,5,Heras de Ayuso
+6007,5,Viniegra de Abajo
+6008,5,Bustillo del Oro
+6009,5,Entrena
+6010,5,Fuensanta de Martos
+6011,5,Cuevas de San Clemente
+6012,5,Villahoz
+6013,5,Navata
+6014,5,Talaván
+6015,5,Almàssera
+6016,5,Tórtoles
+6017,5,Cuzcurrita de Río Tirón
+6018,5,Huesa del Común
+6019,5,Terrer
+6020,5,Eskuernaga
+6021,5,Covaleda
+6022,5,Morga
+6023,5,Piedratajada
+6024,5,Culla
+6025,5,San Ildefonso
+6026,5,Manganeses de la Lampreana
+6027,5,Bohonal de Ibor
+6028,5,Muñopepe
+6029,5,Cáñar
+6030,5,Amieva
+6031,5,Antzuola
+6032,5,Senan
+6033,5,O Irixo
+6034,5,Masegoso de Tajuña
+6035,5,Fuente Vaqueros
+6036,5,Ponga
+6037,5,Cantagallo
+6038,5,Cisneros
+6039,5,Domingo García
+6040,5,Malgrat de Mar
+6041,5,Tivissa
+6042,5,Boquiñeni
+6043,5,Fontanar
+6044,5,Martín Muñoz de la Dehesa
+6045,5,Tébar
+6046,5,Plasenzuela
+6047,5,Monleras
+6048,5,Abenójar
+6049,5,Cabó
+6050,5,Alcudia de Monteagud
+6051,5,Novallas
+6052,5,Riner
+6053,5,El Viso de San Juan
+6054,5,Navalilla
+6055,5,Monterrubio
+6056,5,Brime de Urz
+6057,5,Loscorrales
+6058,5,Sant Andreu de Llavaneres
+6059,5,Vadillo de la Guareña
+6060,5,Avinyonet de Puigventós
+6061,5,Algora
+6062,5,Lles de Cerdanya
+6063,5,Narrillos del Rebollar
+6064,5,Villaselán
+6065,5,El Pinar
+6066,5,Ribera d'Urgellet
+6067,5,Benifairó de la Valldigna
+6068,5,Palacios de Goda
+6069,5,Cabacés
+6070,5,San Pedro del Romeral
+6071,5,Leitza
+6072,5,Santpedor
+6073,5,Recas
+6074,5,Sant Jaume d'Enveja
+6075,5,Pobladura de Pelayo García
+6076,5,Sallent
+6077,5,Brieva de Cameros
+6078,5,Puente de Montañana
+6079,5,Villanueva de los Infantes
+6080,5,Torrelaguna
+6081,5,Fontellas
+6082,5,El Boalo
+6083,5,Baños de Molgas
+6084,5,Laroya
+6085,5,Breña Baja
+6086,5,Montanejos
+6087,5,Valle de Lierp
+6088,5,Logrosán
+6089,5,Cabezón de Liébana
+6090,5,Ador
+6091,5,Casafranca
+6092,5,Fuentes Claras
+6093,5,L'Aleixar
+6094,5,Encinedo
+8207,5,Alcantud
+8208,5,Serranillos del Valle
+8209,5,Moros
+8210,5,Ereño
+8211,5,Irixoa
+8212,5,San Pedro de la Nave-Almendra
+8214,5,Santa Cruz de Pinares
+8215,5,Aguasal
+8216,5,Munébrega
+8217,5,Campins
+8218,5,Rioja
+8219,5,La Secuita
+8220,5,Escalonilla
+8221,5,Amezketa
+8222,5,Chirivel
+8223,5,El Castellar
+8224,5,Casas de Don Gómez
+8225,5,Cristina
+8226,5,Cortes de la Frontera
+8227,5,Perales de Tajuña
+8228,5,Cabanes
+8229,5,Bidegoian
+8230,5,Llodio
+8231,5,Santaella
+8232,5,Tabanera la Luenga
+8233,5,Alonsotegi
+8234,5,Quero
+8235,5,Sant Llorenç de la Muga
+8236,5,Huecas
+8237,5,Els Omells de na Gaia
+8238,5,Corbera d'Ebre
+8239,5,Muduex
+8240,5,Marzales
+8241,5,Alguaire
+8242,5,Aller
+8243,5,Alt Àneu
+8245,5,Gósol
+8246,5,Hoyocasero
+8247,5,Berastegi
+8248,5,Tejeda
+8249,5,Cabanes
+8250,5,Galbarros
+8251,5,Saelices el Chico
+8252,5,Santoña
+8253,5,Tocina
+8254,5,Jorba
+8255,5,Coria del Río
+8256,5,Fonollosa
+8258,5,Berninches
+8259,5,Villanueva del Campo
+8260,5,Alpartir
+8261,5,La Bañeza
+8262,5,Oiartzun
+8263,5,Abia de la Obispalía
+8264,5,Teruel
+8265,5,Riu de Cerdanya
+8266,5,"Comunidad de Castrillo de la Reina, Hacinas, Monasterio de la Sierra y Salas de los Infantes"
+8267,5,Sagra
+8268,5,Egüés
+8269,5,Zambrana
+8270,5,Villanúa
+8271,5,Es Bòrdes
+8272,5,Tivenys
+8273,5,El Royo
+8275,5,Bélmez de la Moraleda
+8276,5,Vara de Rey
+8277,5,Beariz
+8278,5,Chañe
+8279,5,Esplús
+8280,5,Torres de Alcanadre
+8281,5,Hoyorredondo
+8282,5,Lugo
+8283,5,El Rosario
+8284,5,Lanjarón
+8285,5,Bellpuig
+8286,5,Albacete
+8287,5,Garde
+8288,5,Santa Cecilia
+8289,5,Banyalbufar
+8290,5,Facería 39
+8291,5,La Puebla de los Infantes
+8292,5,Zarzuela
+8293,5,Ruiloba
+8294,5,Oitz
+8295,5,Cañaveral
+8296,5,Altea
+8297,5,Valdenebro de los Valles
+8298,5,Robleda
+8299,5,Alfarrasí
+8300,5,Peñalver
+8301,5,Santa María de la Vega
+8302,5,Torrent
+8303,5,Castellví de la Marca
+8304,5,Negrilla de Palencia
+8305,5,Membribe de la Sierra
+8306,5,Revillarruz
+8307,5,Lagunilla del Jubera
+8308,5,Aielo de Malferit
+8309,5,Condado de Treviño
+8310,5,Camarenilla
+8311,5,Sarracín
+8312,5,Aldearrubia
+8313,5,Albanyà
+8314,5,Maçanet de la Selva
+8315,5,Jurisdicción Mancomunada de Bascuñana y Viloria de Rioja
+8316,5,Fuensaldaña
+8317,5,Ares del Maestre
+8318,5,Onzonilla
+8319,5,Castellterçol
+8320,5,Hoya-Gonzalo
+8321,5,"Comunidad de Laño (Condado de Treviño), Pipaón (Lagrán) y Peñacerrada-Urizaharra"
+8322,5,Villanueva del Duque
+8323,5,Sant Vicenç de Castellet
+8324,5,Monterrubio de la Demanda
+8325,5,Sobrescobio
+8326,5,Olazti
+8327,5,Benavente
+8328,5,El Bohodón
+8329,5,Sant Julià del Llor i Bonmatí
+8330,5,Gascueña de Bornova
+8331,5,Barchín del Hoyo
+8332,5,Aguilar de Campos
+8333,5,Cañamaque
+8334,5,Vilanova i la Geltrú
+8335,5,Gargallo
+8336,5,Garciotum
+8337,5,Reina
+8338,5,Manresa
+8339,5,Albalate de Zorita
+8340,5,Buenamadre
+8341,5,Bisimbre
+8342,5,Fuenteliante
+1945,5,El Burgo
+1946,5,Aldehuela de Liestos
+1947,5,Íscar
+1948,5,Santa Cruz de los Cáñamos
+1949,5,Ayna
+1950,5,Vegadeo
+1951,5,Facería 56
+1952,5,Valdehúncar
+1953,5,Trasmoz
+1954,5,Cristóbal
+1955,5,Riaguas de San Bartolomé
+1956,5,Carpio de Azaba
+1957,5,Olea de Boedo
+1958,5,Touro
+1959,5,Aguadulce
+1960,5,Coca de Alba
+1961,5,Facería 43
+1962,5,Iniesta
+1963,5,Pitillas
+1964,5,Remolinos
+1965,5,San Cebrián de Campos
+1966,5,Los Rábanos
+1967,5,Palma de Gandía
+1968,5,Borau
+1969,5,Quart de Poblet
+7252,5,San Bartolomé de la Torre
+7253,5,Bularros
+7254,5,Candelaria
+7255,5,La Torre de Cabdella
+7256,5,Canejan
+7257,5,Albero Alto
+7258,5,La Vecilla
+7259,5,Arakil
+7260,5,Revenga de Campos
+7261,5,Salinas del Manzano
+7262,5,Iglesiarrubia
+7263,5,Alcolea
+7264,5,Santa Gadea del Cid
+7265,5,Vila-seca
+7266,5,Villar de Torre
+7267,5,Villanueva de las Cruces
+7268,5,Villanueva de la Jara
+7269,5,Cardeñadijo
+7270,5,Castillo de Villamalefa
+7271,5,Luesma
+7272,5,"Cruïlles, Monells i Sant Sadurní de l'Heura"
+7273,5,Enix
+7274,5,Hortigüela
+7275,5,Fresno de Rodilla
+7276,5,Vilanova de Sau
+7277,5,Acebedo
+7278,5,Villaobispo de Otero
+7279,5,Valdenebro
+7280,5,Siles
+7281,5,Sot de Ferrer
+7282,5,Miranda de Azán
+7283,5,Molledo
+7284,5,Villarejo-Periesteban
+7285,5,Jurisdicción de San Zadornil
+7286,5,Nogales
+7287,5,Zeberio
+7288,5,Alhendín
+7289,5,Carmena
+7290,5,Capafonts
+7291,5,Cabreros del Monte
+7292,5,Vilviestre del Pinar
+7293,5,Vilopriu
+7294,5,Selaya
+7295,5,Alpens
+7296,5,Ispaster
+7297,5,Calañas
+7298,5,Mesas de Ibor
+7299,5,Doneztebe
+7300,5,Alosno
+7301,5,Valdeganga
+7302,5,La Pueblanueva
+7303,5,Viladrau
+7304,5,Moradillo de Roa
+7305,5,Cabrejas del Campo
+7306,5,Bugarra
+7307,5,Villanueva del Río Segura
+7308,5,Tíjola
+7309,5,Herguijuela de Ciudad Rodrigo
+7310,5,Valdefuentes
+7311,5,Mondariz-Balneario
+7312,5,Alcalá de Ebro
+7313,5,Hornachuelos
+7314,5,Abengibre
+7315,5,Pozuelo del Rey
+7316,5,Villabaruz de Campos
+7317,5,Sant Boi de Lluçanès
+7318,5,Castellnovo
+7319,5,Valsalobre
+7320,5,Villabuena del Puente
+7321,5,Maside
+7322,5,Fuentenava de Jábaga
+7323,5,Fuembellida
+7324,5,Nava de Sotrobal
+7325,5,Torrijos
+7326,5,Santa Cruz de Tenerife
+7327,5,Castro de Filabres
+7328,5,Benlloch
+7329,5,Diezma
+7330,5,Caldes d'Estrac
+7331,5,"Comunidad de Barbadillo del Mercado, La Revilla y Villanueva de Carazo"
+7332,5,Villoruebo
+7333,5,Lucena
+7334,5,Iurreta
+7335,5,Soto del Barco
+7336,5,Sober
+7337,5,Castellón de la Plana
+7338,5,Talamantes
+7339,5,Aranda de Duero
+7340,5,Seira
+7341,5,Cantoria
+7342,5,Mediana de Voltoya
+7343,5,Pozo Alcón
+7344,5,Poyatos
+7345,5,La Figuera
+7346,5,Navalagamella
+7347,5,San Román de la Cuba
+7348,5,Cervera de los Montes
+7349,5,San Esteban de Litera
+7350,5,Villanueva de Ávila
+7351,5,Ordis
+7352,5,Villalaco
+7353,5,La Pobla Tornesa
+7354,5,San Martín de Montalbán
+7355,5,Belmontejo
+7356,5,Alginet
+7357,5,O Barco de Valdeorras
+7358,5,Argamasilla de Calatrava
+7359,5,Orcera
+7360,5,Longares
+7361,5,Limpias
+7362,5,Todolella
+7363,5,Porqueres
+7364,5,Salvacañete
+7365,5,Villarluengo
+7366,5,Adeje
+7367,5,Picón
+7368,5,Camprodon
+7369,5,Cueva del Hierro
+7370,5,Ituren
+7371,5,Aguilón
+7372,5,Nulles
+7373,5,Arróniz
+7374,5,Valdelageve
+7375,5,Belianes
+7376,5,Bakio
+7377,5,Bordón
+7378,5,Donvidas
+7379,5,Gorga
+7380,5,Alcoba
+7381,5,Quinto
+7382,5,Moratinos
+7383,5,Reocín
+2584,5,Valdeconcha
+2585,5,Belinchón
+2586,5,Palomero
+2587,5,La Jana
+2588,5,Sant Jordi
+2589,5,Vega de Espinareda
+2590,5,Saus
+2591,5,Robledillo de Gata
+2592,5,Outeiro de Rei
+2593,5,La Zoma
+2594,5,Metauten
+2595,5,Olvés
+2596,5,Silleda
+2597,5,Altorricón
+2598,5,Villanueva de los Infantes
+2599,5,Paymogo
+2600,5,Bobadilla
+2601,5,Usagre
+2602,5,Villanueva Mesía
+2603,5,Puente de Génave
+2604,5,Nuévalos
+2605,5,Algimia de Almonacid
+2606,5,Sant Julià de Vilatorta
+2607,5,Puebla de Pedraza
+2608,5,El Robledo
+2609,5,Duruelo
+5290,5,Moraña
+5291,5,Cañada Juncosa
+5292,5,Sabiñán
+5293,5,Narros de Matalayegua
+5294,5,Langayo
+5295,5,Pedralba de la Pradería
+5296,5,Palafolls
+5297,5,Fresno de Sayago
+5298,5,Cespedosa de Tormes
+5299,5,Comunidad de Jaramillo de la Fuente y Vizcaínos
+5300,5,San Juan de Aznalfarache
+5301,5,Alcaine
+5302,5,Manuel
+5303,5,Manzanal de los Infantes
+5304,5,Lagartera
+5305,5,Carazo
+5306,5,Vallmoll
+5307,5,Montemayor
+5308,5,Conil de la Frontera
+5309,5,O Pereiro de Aguiar
+5310,5,Fraga
+5311,5,La Palma del Condado
+5312,5,Baños de Valdearados
+5313,5,Frailes
+5314,5,Arafo
+5315,5,Galinduste
+5316,5,Berlanga de Duero
+5317,5,Canicosa de la Sierra
+5318,5,Noguera de Albarracín
+5319,5,Villaviciosa de Córdoba
+5320,5,Beintza-Labaien
+5321,5,Pina de Ebro
+5322,5,Carrias
+5323,5,Las Gabias
+5324,5,Madridejos
+5325,5,Comunidad de Hontoria del Pinar y Palacios de la Sierra
+5326,5,Tossa de Mar
+5327,5,Paracuellos de Jiloca
+5328,5,Sangarrén
+5329,5,Narón
+5330,5,Preixana
+5331,5,Carballedo
+5332,5,Fresnedoso de Ibor
+5333,5,Valhermoso de la Fuente
+5334,5,Navas de Oro
+5335,5,Salvadiós
+5336,5,Piña de Esgueva
+5337,5,Abadía
+5338,5,Rincón de Soto
+5339,5,Congostrina
+5340,5,Revilla Vallejera
+5341,5,Dos Hermanas
+5342,5,Rucandio
+5343,5,Salas de Bureba
+5344,5,Saldeana
+5345,5,Berrueco
+5346,5,Osa de la Vega
+5347,5,Poveda
+5348,5,Santa Maria de Besora
+5349,5,Población de Cerrato
+5350,5,Riolobos
+5351,5,Ezkio-Itsaso
+5352,5,La Gallega
+5353,5,Hontanares de Eresma
+5354,5,Palamós
+5355,5,Robledo de Corpes
+5356,5,Campdevànol
+5358,5,Zarzosa de Río Pisuerga
+5359,5,El Perelló
+5360,5,Escalante
+5361,5,Tordoia
+5362,5,Albentosa
+5363,5,Esplugues de Llobregat
+5364,5,La Orbada
+5365,5,Frechilla de Almazán
+5366,5,Carrascosa de Haro
+5367,5,Santa Cruz de la Salceda
+5368,5,L'Arboç
+5369,5,Yecla
+5370,5,Santa Cruz de Mudela
+5371,5,Artés
+5372,5,Parres
+5373,5,Aroche
+5374,5,Botorrita
+5375,5,Totanés
+5376,5,La Pobla de Massaluca
+5377,5,Bellreguard
+5378,5,Boltaña
+5379,5,Markina-Xemein
+5380,5,Almatret
+5381,5,Lerga
+5382,5,Lorcha
+5383,5,Polop
+5384,5,Camargo
+5385,5,Vilabella
+5386,5,Fuendejalón
+5387,5,Alcolea del Río
+5388,5,Navas de Riofrío
+5389,5,Zalduondo
+5390,5,Riba-roja d'Ebre
+5391,5,Santa Oliva
+5392,5,San Sebastián de la Gomera
+5393,5,Las Navas de la Concepción
+5394,5,Bujalaro
+5395,5,Torrejoncillo
+5396,5,Eulate
+5397,5,Camarena de la Sierra
+5398,5,Acedera
+5399,5,Iruña Oka
+5400,5,Carrión de los Condes
+5401,5,Garaioa
+5402,5,Muniesa
+5403,5,Bràfim
+5404,5,San Martín de Unx
+5405,5,Ezcaray
+5406,5,Villanueva de la Fuente
+5407,5,Cillorigo de Liébana
+5408,5,Carcabuey
+5409,5,Arbeca
+5410,5,Canredondo
+5411,5,Villarreal
+5412,5,Burguillos
+5413,5,Facería 70
+5414,5,Vallanca
+5415,5,Bea
+5416,5,Villamol
+5417,5,Vilvestre
+5418,5,Mogarraz
+5419,5,Sangarcía
+5420,5,Sardón de los Frailes
+5421,5,Oliva de la Frontera
+5422,5,Cúllar Vega
+5423,5,Cascante
+5424,5,Aiguamúrcia
+5425,5,Las Parras de Castellote
+5426,5,Leganiel
+5427,5,Peñalén
+5428,5,Nogueruelas
+5429,5,Allepuz
+5430,5,Guijo de Granadilla
+5431,5,Sant Pol de Mar
+5432,5,Rois
+5433,5,Ocón
+5434,5,El Coronil
+5435,5,Alfaraz de Sayago
+5436,5,Pajares de la Lampreana
+5437,5,Arandilla del Arroyo
+5438,5,Condado de Castilnovo
+5439,5,Yelo
+5440,5,Sant Esteve de Palautordera
+5441,5,Ubide
+5442,5,Santa Marta de Magasca
+5443,5,Becedillas
+5444,5,Ontiñena
+5445,5,Carriches
+5446,5,Bejís
+7860,5,Boceguillas
+1308,5,Pozuelo de Tábara
+1309,5,Santa Coloma de Cervelló
+1310,5,Santa Eufemia del Barco
+1311,5,Arquillinos
+1312,5,San Vitero
+1313,5,Prado
+1315,5,San Agustín del Pozo
+1316,5,Villalba de la Lampreana
+1317,5,Villavendimio
+1318,5,Almeida de Sayago
+1319,5,Gamones
+1320,5,Roelos de Sayago
+1321,5,Cuelgamures
+1322,5,Vilobí del Penedès
+1323,5,Arenzana de Arriba
+1324,5,Vilallonga de Ter
+1325,5,Castellfollit de la Roca
+1326,5,Novelé
+1327,5,Borrassà
+1328,5,Mollet de Peralada
+1329,5,Palau de Santa Eulàlia
+1330,5,Bàscara
+1331,5,Boadella d'Empordà
+1332,5,Cantallops
+1333,5,Capmany
+1334,5,Pedret i Marzà
+1335,5,Senyera
+1336,5,Palau-saverdera
+1337,5,Riumors
+1338,5,Vilamacolum
+1339,5,Vilajuïga
+1340,5,Caldes de Malavella
+1341,5,Riudellots de la Selva
+1342,5,Santa Coloma de Farners
+1343,5,Olmeda de las Fuentes
+1344,5,Mahón
+1345,5,Vilobí d'Onyar
+1346,5,Vidreres
+1347,5,La Floresta
+1348,5,Tarrés
+1349,5,Vinaixa
+1350,5,Arsèguel
+1351,5,Pollença
+1352,5,Estamariu
+1353,5,Prats i Sansor
+1354,5,Montoliu de Lleida
+1355,5,Fondarella
+1356,5,Sidamon
+1357,5,Ivorra
+1358,5,Tarroja de Segarra
+1359,5,Benavent de Segrià
+1360,5,Llorac
+1361,5,Boadilla del Monte
+1362,5,Villalbilla
+1363,5,Brunete
+1364,5,Velilla de San Antonio
+1365,5,Navacerrada
+1366,5,Ambite
+1367,5,Villamanrique de Tajo
+1368,5,Atez
+1369,5,Valencia
+1370,5,Beniarjó
+1371,5,Benifaió
+1372,5,Cofrentes
+1373,5,Tous
+1374,5,Xàtiva
+1375,5,Benicull de Xúquer
+1376,5,Riola
+1377,5,Alpuente
+1378,5,Losa del Obispo
+1379,5,Pinet
+1380,5,Albudeite
+1381,5,Zarra
+1382,5,Jalance
+1383,5,El Carrascalejo
+1384,5,Trasierra
+1385,5,Mata de Alcántara
+1386,5,Sant Josep de sa Talaia
+1387,5,Abaltzisketa
+1388,5,Altzaga
+1389,5,Aretxabaleta
+1390,5,Arratzu
+1391,5,Berango
+1392,5,Garay
+1393,5,Mendata
+1394,5,Orozko
+1395,5,Urduliz
+1396,5,Olaberria
+1397,5,Candamo
+1398,5,Peñamellera Alta
+1399,5,Ribadedeva
+1400,5,Benalúa
+1401,5,Onís
+1402,5,Morcín
+1403,5,Archena
+1404,5,Alcantarilla
+1405,5,Murcia
+1406,5,Alhama de Murcia
+1407,5,Montorio
+1408,5,Medina de Rioseco
+1409,5,Santibáñez de Ecla
+1410,5,Villalpardo
+1411,5,Olejua
+1412,5,Valverdejo
+1413,5,Valdevacas de Montejo
+1414,5,Vilamòs
+1415,5,Villasayas
+1416,5,La Fuliola
+1417,5,Valdelacasa de Tajo
+1418,5,Facería 44
+1419,5,Pontons
+1420,5,Alcalá de la Selva
+1421,5,Piedrabuena
+1422,5,Peguerinos
+1423,5,Cabezas del Villar
+1425,5,Escobar de Polendos
+1426,5,Bande
+1427,5,Gallur
+1428,5,Poio
+1429,5,Quer
+1430,5,Tavertet
+1431,5,Alpujarra de la Sierra
+1432,5,Zurgena
+1433,5,Aranzueque
+1434,5,Navalmoral de Béjar
+1435,5,Chequilla
+1436,5,Brazuelo
+1437,5,Aldeaseca de Alba
+1438,5,Cabañas del Castillo
+1439,5,Canet lo Roig
+1440,5,Canillas de Abajo
+1442,5,San Pedro de Rozados
+1443,5,Aceuchal
+1444,5,Benasque
+1445,5,Talveila
+1446,5,Jambrina
+1447,5,Pozos de Hinojo
+1448,5,Puebla de la Calzada
+1449,5,Comunidad de Quintanarraya y Huerta del Rey
+1450,5,Sanchotello
+1451,5,Valdecañas de Tajo
+1452,5,San Martín del Pimpollar
+1453,5,Fuentes de Ayódar
+1454,5,Santa María del Mercadillo
+1455,5,Fórnoles
+1456,5,Albero Bajo
+1457,5,La Puerta de Segura
+1458,5,Nájera
+1459,5,Torrecilla del Pinar
+1460,5,Los Llanos de Aridane
+1461,5,Peñarrubia
+1462,5,Valleruela de Pedraza
+1463,5,La Galera
+1464,5,El Real de San Vicente
+1465,5,Briones
+1466,5,Sunbilla
+1467,5,Nuñomoral
+1468,5,Comunidad de Riocavado de la Sierra y Barbadillo del Pez
+1970,5,Duruelo de la Sierra
+1971,5,Terrades
+1972,5,Castilleja de Guzmán
+1973,5,Bustillo de la Vega
+1974,5,Bonansa
+1975,5,Cubillo del Campo
+1976,5,Antella
+1977,5,El Grado
+1978,5,Vidrà
+1979,5,Iznate
+1980,5,Deza
+1981,5,Torres del Río
+1982,5,Sant Mateu de Bages
+1983,5,Calanda
+1984,5,Peramola
+1985,5,La Yesa
+1986,5,San Isidro
+1987,5,Páramo de Boedo
+1988,5,Facería 74
+1989,5,Inca
+1990,5,Serón de Nágima
+1991,5,Albarracín
+1992,5,Comunero de Ansó y Fago
+1993,5,Camarena
+1994,5,Benillup
+1995,5,Cea
+1996,5,Caballar
+1997,5,Ullastret
+1998,5,Uharte-Arakil
+1999,5,Beratón
+2000,5,Villanueva de San Carlos
+2001,5,Sant Boi de Llobregat
+2002,5,Sumacàrcer
+2003,5,Berzosa del Lozoya
+2004,5,Quintanilla del Coco
+2005,5,Sueca
+2006,5,Calabazas de Fuentidueña
+2007,5,Parada de Sil
+2008,5,Sant Martí de Riucorb
+2009,5,Torrejón de la Calzada
+2010,5,Ladrillar
+2011,5,Muel
+2012,5,Llombai
+2013,5,Cantalapiedra
+2014,5,Montseny
+2015,5,El Burgo Ranero
+2016,5,El Álamo
+2017,5,Santa Coloma de Gramenet
+2018,5,Vilches
+2019,5,Buendía
+2020,5,Argés
+2021,5,Valverde
+2022,5,Paradas
+2023,5,Mazuecos de Valdeginate
+2024,5,Villar del Buey
+2025,5,Pravia
+2026,5,Piracés
+2027,5,Ejea de los Caballeros
+2028,5,Alcàsser
+2029,5,Esparragalejo
+2030,5,Entrala
+2031,5,Bembibre
+2032,5,Llucmajor
+2033,5,Santo Adriano
+2034,5,Casarejos
+2035,5,Villardiegua de la Ribera
+2036,5,Hérmedes de Cerrato
+2037,5,Vidángoz
+2038,5,Galindo y Perahuy
+2039,5,Conca de Dalt
+2040,5,Munilla
+2041,5,El Ejido
+2042,5,Grañén
+2043,5,Domeño
+2044,5,Puebla de Lillo
+2045,5,"Comunidad de Hortigüela, Jurisdicción de Lara y Mambrillas de Lara"
+2046,5,Montijo
+2047,5,Casas Bajas
+2048,5,Pezuela de las Torres
+2049,5,Alcubilla de las Peñas
+2050,5,Estollo
+2051,5,Arcenillas
+2052,5,Hinojal
+2053,5,Hondón de las Nieves
+2054,5,El Torno
+2055,5,Alaior
+2056,5,Higuera de Calatrava
+2057,5,Royuela de Río Franco
+2058,5,Xeresa
+2059,5,Vilaflor
+2060,5,Valdeolmos-Alalpardo
+2061,5,L'Alcúdia de Crespins
+2062,5,Pollos
+2063,5,Pascualcobo
+2064,5,El Lloar
+2065,5,Pinuécar-Gandullas
+2066,5,Mahora
+2067,5,Les Planes d'Hostoles
+2068,5,Casariche
+2069,5,Guadalupe
+2070,5,La Torre de Claramunt
+2071,5,Castellvell del Camp
+2072,5,Sobradillo
+2073,5,Fompedraza
+2074,5,Cáseda
+2075,5,Sant Cebrià de Vallalta
+2076,5,Aznalcóllar
+2077,5,Els Prats de Rei
+2078,5,Cardedeu
+2079,5,Tamarón
+2080,5,La Granja
+2081,5,Orihuela
+2082,5,Mejorada
+2083,5,Prádena de Atienza
+2084,5,Artana
+2085,5,Castellar del Vallès
+2086,5,Balsa de Ves
+2087,5,Torre Alháquime
+2088,5,Hernani
+2089,5,Torre de Arcas
+2090,5,Los Barrios
+2091,5,Albuixech
+2092,5,Macharaviaya
+2093,5,Villanueva del Fresno
+2094,5,Benejúzar
+2095,5,Peñarroya-Pueblonuevo
+2096,5,Nerpio
+2097,5,Udías
+2098,5,Cantiveros
+2099,5,Villabasta de Valdavia
+2100,5,Rivilla de Barajas
+2101,5,Alcalá de Henares
+2102,5,Villar de Gallimazo
+4332,5,Tafalla
+4333,5,Úbeda
+4334,5,Foradada
+4335,5,Flix
+4336,5,Pilar de la Horadada
+4337,5,Bullas
+4338,5,Adiós
+4339,5,Nazar
+4340,5,Badia del Vallès
+4341,5,Villanueva de la Cañada
+4342,5,Mansilla de las Mulas
+4343,5,La Fuente de San Esteban
+4344,5,El Campillo
+4345,5,Alburquerque
+4346,5,Vila-rodona
+4347,5,Fontiveros
+4348,5,Tuéjar
+4349,5,Figueruelas
+4350,5,Villafranca del Cid
+4351,5,Benimarfull
+4352,5,Alcalá de Guadaíra
+4353,5,Torre de Juan Abad
+4354,5,Tavernes de la Valldigna
+4355,5,Cirauqui
+4356,5,Jacarilla
+7861,5,Baza
+7862,5,Villanueva de San Mancio
+7863,5,Algodre
+7864,5,Sant Ferriol
+7865,5,Codorniz
+7866,5,Izagaondoa
+7867,5,Cimanes de la Vega
+7868,5,Cárcheles
+7869,5,Crémenes
+7870,5,Lumbreras
+7871,5,Villalcón
+7872,5,Alicante
+7873,5,Poveda de la Sierra
+7874,5,Allueva
+7875,5,Saucedilla
+7876,5,Fanlo
+7877,5,Cintruénigo
+7878,5,Puebla de Almenara
+7879,5,Agudo
+7880,5,Puertas
+7881,5,Queralbs
+7882,5,Torresmenudas
+7883,5,Montmeló
+7884,5,Madremanya
+7885,5,Vizcaínos
+7886,5,Gil García
+7887,5,Bujalance
+7888,5,Urueña
+7890,5,Driebes
+7891,5,Pozanco
+7892,5,Sant Agustí de Lluçanès
+7893,5,El Bosque
+7894,5,Castilléjar
+7895,5,Escopete
+7896,5,Armuña
+7897,5,Juncosa
+7898,5,Navarredonda de Gredos
+7899,5,Villaldemiro
+7900,5,La Miñosa
+7901,5,Guía de Isora
+7902,5,Corcos
+7903,5,Bercial de Zapardiel
+7904,5,Valle de Losa
+7905,5,Bakaiku
+7906,5,Sierra Engarcerán
+7907,5,Serra de Daró
+7908,5,Almussafes
+7910,5,Trillo
+7911,5,Castrillo de la Valduerna
+7912,5,Los Valdecolmenas
+7913,5,San Lorenzo de Calatrava
+7914,5,Villamayor de Treviño
+7915,5,Pedrola
+7916,5,Comunidad de Covarrubias y Quintanilla del Coco
+7917,5,Bergara
+7918,5,Olula de Castro
+7919,5,Espinosa de Henares
+7920,5,Megeces
+7921,5,Salas de los Infantes
+7922,5,Ohanes
+7923,5,Gallocanta
+7924,5,Patones
+7925,5,Villaverde y Pasaconsol
+7926,5,Gistaín
+7927,5,Las Ventas con Peña Aguilera
+7928,5,Vícar
+7929,5,Aldehuela de la Bóveda
+7930,5,Añora
+7931,5,Beriáin
+7932,5,Pavías
+7933,5,Santa Eulalia Bajera
+7934,5,Serradilla
+7935,5,Navarrete
+7936,5,Martín de la Jara
+7937,5,Fuenlabrada de los Montes
+7938,5,Zarzuela del Pinar
+7939,5,Arjonilla
+7940,5,Muga de Sayago
+7941,5,Zagra
+7942,5,Colmenar de Oreja
+7943,5,Vilallonga del Camp
+7944,5,Barbalos
+7945,5,Mansilla Mayor
+7946,5,Montellà i Martinet
+7947,5,Abanto y Ciérvana-Abanto Zierbena
+7948,5,El Castillo de las Guardas
+7949,5,Vega de Santa María
+7950,5,Sarria
+7951,5,Sant Pere Pescador
+7952,5,Villaferrueña
+7953,5,Cox
+7954,5,Bassella
+7955,5,Casabermeja
+7956,5,Rosinos de la Requejada
+7957,5,Miralrío
+7958,5,Colungo
+7959,5,Traíd
+7960,5,Murla
+7961,5,Erandio
+7962,5,Moclinejo
+7963,5,Villanueva del Pardillo
+7964,5,Galisteo
+7965,5,Errigoiti
+7966,5,Ugíjar
+7967,5,Moraleja de Sayago
+7968,5,Mondariz
+7969,5,Barbuñales
+7970,5,Hijes
+7971,5,Falset
+7972,5,Valpalmas
+7973,5,Rivas-Vaciamadrid
+7974,5,Becerreá
+7975,5,Villabrágima
+7976,5,Los Ausines
+7977,5,La Mata de Ledesma
+7978,5,Constanzana
+7979,5,Gratallops
+7980,5,Les Borges Blanques
+7981,5,Yanguas de Eresma
+7982,5,Meliana
+7983,5,Vallés
+7984,5,Formiche Alto
+7985,5,Benamargosa
+7986,5,Trefacio
+7987,5,Baiona
+7988,5,Salinillas de Bureba
+7989,5,Cañaveruelas
+7990,5,Camarasa
+7991,5,San Cristóbal de Cuéllar
+7992,5,Albalatillo
+7993,5,Zafra de Záncara
+7994,5,Azpeitia
+7995,5,Etxebarria
+7996,5,Corbalán
+7997,5,Aldealengua de Pedraza
+7998,5,Malpica de Bergantiños
+7999,5,Lousame
+8000,5,Paderne
+8001,5,Albox
+8002,5,Villamartín de Campos
+8004,5,Sestao
+8005,5,Ger
+8006,5,Villagatón
+8007,5,Magaz de Pisuerga
+8008,5,Villanueva del Rosario
+8009,5,Víznar
+8010,5,Iznalloz
+8011,5,Paterna del Madera
+8012,5,La Vídola
+8013,5,Avinyonet del Penedès
+8014,5,Chert
+8015,5,Casares de las Hurdes
+8016,5,Torrijo del Campo
+8017,5,Poblete
+8018,5,Valmojado
+8019,5,Villaverde del Monte
+8020,5,Eljas
+8021,5,Zufre
+692,5,Cebolla
+3692,5,Algaida
+3693,5,Yaiza
+3694,5,Fuerte del Rey
+3695,5,Sesué
+3696,5,Vilassar de Mar
+3697,5,Socuéllamos
+3698,5,Calzada de los Molinos
+3699,5,Bienservida
+3700,5,Campisábalos
+3701,5,Pontecesures
+3702,5,Carbellino
+3703,5,Ablitas
+3704,5,La Ercina
+3705,5,Zegama
+3706,5,Calahorra de Boedo
+3707,5,Monturque
+3708,5,Arancón
+3709,5,Artzentales
+3710,5,Granadilla de Abona
+3711,5,Garínoain
+3712,5,Puebla de Guzmán
+3713,5,Sant Martí Vell
+3714,5,Viñuela
+3715,5,Cariño
+3716,5,Morenilla
+3717,5,Laguna de Negrillos
+3718,5,Guesálaz
+3719,5,Villacañas
+3720,5,Burriana
+3721,5,Barbastro
+3722,5,Sagàs
+3723,5,Urriés
+3724,5,Sanzoles
+3725,5,Riberos de la Cueza
+3726,5,Sierra de Lóquiz
+3727,5,Toga
+3728,5,Chiloeches
+3729,5,A Cañiza
+3730,5,Villarejo
+3731,5,Isaba
+3732,5,Pulpí
+3733,5,Las Omañas
+3734,5,Quintanabureba
+3735,5,Tariego de Cerrato
+3736,5,Garachico
+3737,5,Bausen
+3738,5,Tinajas
+3739,5,Maján
+3740,5,Boadilla del Camino
+3741,5,La Mancomunitat dels Quatre Pobles (Alt Àneu y Esterri d'Àneu)
+3742,5,Motril
+3743,5,Consuegra
+3744,5,La Encina
+3745,5,Quemada
+3746,5,Roales
+3747,5,Arnedillo
+3748,5,Abia de las Torres
+3749,5,Ahigal de Villarino
+3750,5,Peralada
+3751,5,Benijófar
+3752,5,Ceclavín
+3753,5,Yémeda
+3754,5,Valtablado del Río
+3755,5,Peñaparda
+3756,5,Facería 30
+3757,5,Alòs de Balaguer
+3758,5,Fresnedoso
+3759,5,Calles
+3760,5,Calafell
+3761,5,Allande
+3762,5,Tornavacas
+3763,5,Cretas
+3764,5,Navalacruz
+3765,5,San Pedro de Ceque
+3766,5,Palazuelo de Vedija
+3767,5,Santa Marta del Cerro
+3768,5,Magaña
+3769,5,"Facero Arambelza (Arellano, Arróniz y Dicastillo)"
+3770,5,Torrequemada
+3771,5,Aniñón
+3772,5,La Recueja
+3773,5,Burguillos de Toledo
+3774,5,Ribera del Fresno
+3775,5,Bollullos Par del Condado
+3776,5,Miraflores de la Sierra
+3777,5,Almonacid de Toledo
+3778,5,Val de San Lorenzo
+3779,5,Llagostera
+3780,5,Navardún
+3781,5,Santillana del Mar
+3782,5,El Cardoso de la Sierra
+3783,5,Millena
+3784,5,Gargantilla
+3785,5,Bierge
+3786,5,San Antonio de Benagéber
+3787,5,Ikaztegieta
+3788,5,Plenas
+3789,5,Castildelgado
+3790,5,Gozón
+3791,5,"Comunidad de Canicosa de la Sierra, Quintanar de la Sierra y Regumiel de la Sierra"
+3792,5,Fuentes de Año
+3793,5,Cheles
+3794,5,Albillos
+3795,5,Lécera
+3796,5,Donhierro
+3797,5,Orbara
+3798,5,Dodro
+3799,5,Badarán
+3800,5,Lezo
+3801,5,Las Pedrosas
+3802,5,Barcience
+3803,5,Villar del Infantado
+3804,5,San Esteban del Molar
+3805,5,Garcirrey
+3806,5,Valenzuela
+3807,5,Málaga del Fresno
+3808,5,Purullena
+3809,5,Villeguillo
+3810,5,Venta de Baños
+3811,5,Ordes
+3812,5,Fuentelapeña
+3813,5,Igantzi
+3814,5,Santa Fe de Mondújar
+3815,5,Rosalejo
+3816,5,Ajamil
+3817,5,Pedrajas de San Esteban
+3818,5,Zalamea la Real
+3819,5,Polinyà de Xúquer
+3820,5,Aldeatejada
+3821,5,Cedeira
+3822,5,Palomas
+3823,5,Torrelacárcel
+3824,5,Cebanico
+3825,5,Montejo de Tiermes
+3826,5,Eratsun
+3827,5,Abusejo
+3828,5,Santa Croya de Tera
+3829,5,Argamasilla de Alba
+3830,5,Artà
+3831,5,Valgañón
+3832,5,Viloria de Rioja
+3833,5,Chelva
+3834,5,Esterri d'Àneu
+3835,5,Illora
+3836,5,Villaviciosa
+3837,5,Sediles
+3838,5,Ciutadilla
+3839,5,Muelas del Pan
+3840,5,Bergasa
+3841,5,Aizarnazabal
+3842,5,Entrambasaguas
+3843,5,Ancín
+3844,5,Barca
+3845,5,El Franco
+3846,5,Quart
+3847,5,Algar de Palancia
+3848,5,Isona i Conca Dellà
+3849,5,Salem
+3850,5,Villaescusa
+3851,5,Ampudia
+4357,5,Fuente el Fresno
+4358,5,Castromonte
+4359,5,Las Hormazas
+4360,5,Caspueñas
+4361,5,Carrión de los Céspedes
+4362,5,Piérnigas
+4363,5,Algerri
+4364,5,Adrada de Haza
+4365,5,Azuaga
+4366,5,El Frasno
+4367,5,Hacinas
+4368,5,Almuniente
+4369,5,Mombeltrán
+4370,5,San Pablo de la Moraleja
+4371,5,Venturada
+4372,5,Romanzado
+4373,5,Almendral
+4374,5,Gor
+4375,5,Madrigalejo del Monte
+4376,5,Facería 82
+4377,5,Ventosa de la Cuesta
+4378,5,Aldeanueva de Guadalajara
+4379,5,Peleas de Abajo
+4380,5,A Coruña
+4381,5,Caldas de Reis
+4382,5,Mianos
+4383,5,Sant Bartomeu del Grau
+4384,5,Bolvir
+4385,5,Carboneras
+4386,5,Traspinedo
+4387,5,Salobreña
+4388,5,Serrejón
+4389,5,Donjimeno
+4390,5,Boada de Campos
+4391,5,Cevico Navero
+4392,5,Segovia
+4393,5,Ampuero
+4394,5,Maderuelo
+4395,5,Almunia de San Juan
+4396,5,Rubielos de la Cérida
+4397,5,Segura de León
+4398,5,Santiponce
+4399,5,Brión
+4400,5,Caravia
+4401,5,Culleredo
+4402,5,Almiserà
+4403,5,Santovenia de la Valdoncina
+4404,5,Aberin
+4405,5,Santa Cruz de Moncayo
+4406,5,Quesada
+4407,5,La Carolina
+4408,5,Jérica
+4409,5,Villaviciosa de Odón
+4410,5,Zaidín
+4411,5,Letur
+4412,5,Balboa
+4413,5,Fuentelviejo
+4414,5,Frades
+4415,5,Puebla de Don Fadrique
+4416,5,Robregordo
+4417,5,Hortezuela de Océn
+4418,5,Huélamo
+4419,5,Cobisa
+4420,5,Cervo
+4421,5,Santo Tomé
+4422,5,Lantz
+4423,5,Valmala
+4424,5,Gemuño
+4425,5,Folgoso do Courel
+4426,5,El Barco de Ávila
+4427,5,Villaquejida
+4428,5,Biar
+4429,5,Freginals
+4430,5,Nombela
+4431,5,Vilassar de Dalt
+4432,5,Casas Altas
+4433,5,Alustante
+4434,5,Torredonjimeno
+4435,5,Ardisa
+4436,5,Mieres
+4437,5,Bédar
+4438,5,Lagartos
+4439,5,Manzanares de Rioja
+4440,5,Bertizarana
+4441,5,Tàrrega
+4442,5,Ziordia
+4443,5,Mazaricos
+4444,5,Sanaüja
+4445,5,San Bartolomé de Pinares
+4446,5,Santa María del Berrocal
+4447,5,Santa Ana
+4448,5,Leganés
+4449,5,Cistella
+4450,5,Negueira de Muñiz
+4451,5,Novelda
+4453,5,Sojuela
+4454,5,Valdarachas
+4455,5,Jaca
+4456,5,Posada de Valdeón
+4457,5,Mira
+4458,5,Lucena del Puerto
+4459,5,San Leonardo de Yagüe
+4460,5,Alozaina
+4461,5,Irañeta
+4462,5,Soutomaior
+4463,5,Torreblascopedro
+4464,5,Saldes
+4465,5,Mazariegos
+4466,5,Castroverde de Cerrato
+4467,5,Castelserás
+4468,5,Alija del Infantado
+4469,5,Vega del Codorno
+4470,5,Villaherreros
+4471,5,Villarmayor
+4472,5,Grijalba
+4473,5,Albesa
+4474,5,Vall de Ebo
+4475,5,Matilla la Seca
+4476,5,Puerto de San Vicente
+4477,5,Casinos
+4478,5,Sotobañado y Priorato
+4479,5,Santa Maria de Miralles
+4480,5,Baltanás
+4481,5,Moià
+4482,5,Mojácar
+4483,5,San Román de Cameros
+4484,5,Ea
+4485,5,Hiendelaencina
+4486,5,Herrera de los Navarros
+4487,5,Almadén de la Plata
+4488,5,Comunidad de Amezkete y Ordizia (Sierra de Aralar)
+4489,5,Sant Andreu Salou
+4490,5,Vilanant
+4491,5,Santa María del Monte de Cea
+4492,5,Aínsa-Sobrarbe
+6736,5,Betxí
+6737,5,Villán de Tordesillas
+6738,5,Armañanzas
+6739,5,Montederramo
+6740,5,Canjáyar
+6741,5,Santo Domingo-Caudilla
+6742,5,Basardilla
+6743,5,Riofrío de Aliste
+6744,5,Castejón
+6745,5,Torrenueva
+6746,5,Bóveda del Río Almar
+6747,5,Blancafort
+6748,5,Higuera de Vargas
+6749,5,Escúzar
+6750,5,Viana de Duero
+6751,5,Almenara de Adaja
+6752,5,Manzanilla
+6753,5,Les Valls de Valira
+6754,5,Santiuste de San Juan Bautista
+6755,5,Fortuna
+6756,5,Cañizar del Olivar
+6757,5,Berlangas de Roa
+6758,5,Cabredo
+6759,5,Lanaja
+693,5,Villafufre
+694,5,Facería 83
+695,5,Pino del Oro
+696,5,El Viso del Alcor
+697,5,Arcos de Jalón
+698,5,Erla
+699,5,Langa
+700,5,Belmonte de Tajo
+701,5,Ordizia
+702,5,Cozuelos de Fuentidueña
+703,5,Valdeprados
+704,5,Castillejo de Iniesta
+705,5,Comunidad de Cubo de Bureba y Santa María-Ribarredonda
+706,5,Cedillo de la Torre
+707,5,Santa Cilia
+708,5,Villanueva de Teba
+709,5,Molló
+710,5,Castraz
+711,5,Seno
+712,5,Valtiendas
+713,5,Firgas
+714,5,Nava de Francia
+715,5,La Frontera
+716,5,Cascajares de Bureba
+717,5,Villamandos
+718,5,Olmedo de Camaces
+719,5,Losacio
+720,5,Vilamaniscle
+721,5,Casarrubuelos
+722,5,Olivenza
+723,5,Es Mercadal
+724,5,Bedia
+725,5,Águilas
+727,5,Cabrils
+728,5,Comunidad de Soto de la Vega y Villazala
+729,5,Ciriza
+730,5,Linares de Mora
+731,5,Monasterio de la Sierra
+732,5,Betelu
+733,5,Ledesma de la Cogolla
+734,5,La Pobla de Vallbona
+735,5,Almonte
+736,5,Aldeanueva de Santa Cruz
+737,5,Celadas
+738,5,Torremenga
+740,5,Pórtugos
+741,5,La Oliva
+742,5,Golmés
+743,5,Canyelles
+744,5,Baños de Ebro
+745,5,Huerta de Valdecarábanos
+746,5,Yésero
+747,5,Pradosegar
+748,5,Villanueva de Campeán
+749,5,Alcocero de Mola
+750,5,Vadillo de la Sierra
+751,5,Vegas del Genil
+752,5,Fresnillo de las Dueñas
+753,5,Torremochuela
+754,5,Senterada
+755,5,Comunidad de San Millán de Lara y Tinieblas de la Sierra
+756,5,Narboneta
+757,5,Mandayona
+758,5,Pozorrubio
+759,5,Ibdes
+760,5,Serranillos
+761,5,Navarrevisca
+762,5,Móra d'Ebre
+763,5,Massanassa
+764,5,Colldejou
+765,5,Valdastillas
+766,5,Humanes de Madrid
+767,5,Marines
+768,5,Alborache
+769,5,Valdaracete
+770,5,Estopiñán del Castillo
+771,5,Videmala
+772,5,Gabaldón
+773,5,Facería 42
+774,5,Facería 50
+775,5,"Comunidad de Cuartango, Iruña de Oca y Ribera Alta (Sierra Brava de Badaya)"
+776,5,La Vall d'Uixó
+777,5,Sallent de Gállego
+778,5,Vila-sacra
+779,5,Torremocha de Jadraque
+780,5,Parauta
+781,5,Laza
+782,5,La Acebeda
+783,5,Valverde de Alcalá
+784,5,Paiporta
+785,5,Zael
+786,5,Lagunilla
+787,5,Luzaga
+788,5,Povedilla
+789,5,Sant Joan d'Alacant
+790,5,Torrecampo
+791,5,Medrano
+792,5,Malpartida de Corneja
+793,5,Pozo de Almoguera
+794,5,Consell
+795,5,Poza de la Sal
+796,5,Riópar
+797,5,Montejo de Arévalo
+798,5,Abertura
+799,5,Echarri
+800,5,Aguas Cándidas
+801,5,Santiurde de Reinosa
+802,5,Puerto Moral
+803,5,Macastre
+804,5,Navarredonda de la Rinconada
+805,5,Santa Brígida
+806,5,Atanzón
+807,5,Villaespasa
+808,5,Santa Bàrbara
+809,5,Fruiz
+810,5,Pedraza de Alba
+811,5,Facería 105
+812,5,Manzanares el Real
+813,5,Sant Aniol de Finestres
+814,5,Llambilles
+815,5,Ontígola
+816,5,Comunidad de Barbarin y Olejua
+817,5,Manzanal del Barco
+818,5,Montearagón
+819,5,Estubeny
+820,5,Aldeacipreste
+821,5,Facería 9
+822,5,Facería 191
+823,5,Cubilla
+824,5,Comunidad de Aldehorno (Segovia) y Moradillo de Roa
+825,5,El Paso
+826,5,Torresandino
+827,5,Zaragoza
+828,5,Alhabia
+829,5,Ermua
+830,5,Benigánim
+831,5,Benisuera
+832,5,Pedroso de Acim
+833,5,Comunidad de Quintanarraya y Espeja de San Marcelino (Soria)
+834,5,Lliçà d'Amunt
+835,5,Mélida
+836,5,Pontedeva
+837,5,Mezquita de Jarque
+838,5,Torre de Santa María
+839,5,Prioro
+840,5,Alaejos
+841,5,Buenaventura
+842,5,Pardilla
+843,5,Cortes y Graena
+844,5,Facería 81
+845,5,Juzbado
+846,5,Cabanillas de la Sierra
+847,5,El Arco
+848,5,Huerta del Marquesado
+6095,5,El Acebrón
+6096,5,Alquerías del Niño Perdido
+6097,5,Bonares
+6098,5,Arroyo de San Serván
+6099,5,Santiso
+6100,5,Daimiel
+6101,5,Prádanos de Ojeda
+6102,5,L'Olleria
+6103,5,Cardeñuela Riopico
+6104,5,Paterna del Campo
+6105,5,Meranges
+6106,5,"Etxebarri, Anteiglesia de San Esteban-Etxebarri Doneztebeko Elizatea"
+6107,5,Villoria
+6108,5,Herrera de Alcántara
+6109,5,Caracuel de Calatrava
+6110,5,Santa Cruz de la Sierra
+6111,5,Tormantos
+6112,5,Rublacedo de Abajo
+6113,5,Calldetenes
+6114,5,Valdescorriel
+6115,5,Villanueva de la Reina
+6116,5,Sant Martí de Centelles
+6117,5,La Puebla de Montalbán
+6118,5,Valdetórtola
+6119,5,Fontanars dels Alforins
+6120,5,Bayárcal
+6121,5,Jete
+6122,5,Guardamar de la Safor
+6123,5,Luesia
+6124,5,Navalmoral
+6125,5,El Sauzal
+6126,5,Ruente
+6127,5,Cantaracillo
+6128,5,Monforte de Lemos
+6129,5,Melón
+6130,5,Fuente de Pedro Naharro
+6131,5,Sierra de Fuentes
+6132,5,Suellacabras
+6133,5,Alfafar
+6134,5,Cortelazor
+6135,5,Los Santos de Maimona
+6136,5,Dénia
+6137,5,Rozas de Puerto Real
+6138,5,Verges
+6139,5,Alía
+6140,5,Caminreal
+6141,5,Puerto de Béjar
+6142,5,Vallromanes
+6143,5,Agallas
+6144,5,Santa Olalla del Cala
+6145,5,La Puebla de Valdavia
+6146,5,El Pont de Vilomara i Rocafort
+6147,5,Pulgar
+6148,5,Camarzana de Tera
+6149,5,Cubillas de Rueda
+6150,5,Navalmoralejo
+6151,5,Barruelo de Santullán
+6152,5,Montán
+6153,5,Cambrils
+6154,5,Tejeda de Tiétar
+6155,5,Justel
+6156,5,Mestanza
+6157,5,Villarquemado
+6158,5,Láchar
+6159,5,Navatalgordo
+6160,5,Contreras
+6161,5,Quintanilla de Onsoña
+6162,5,Gabiria
+6163,5,Instinción
+6164,5,Guisando
+6165,5,Arabayona de Mógica
+6166,5,Moneva
+6167,5,Manacor
+6168,5,Bañón
+6169,5,Cerdedo
+6170,5,Lalín
+6171,5,Valcabado
+6172,5,Pedro Muñoz
+6173,5,Faura
+6174,5,Orio
+6175,5,Anglesola
+6176,5,Cervantes
+6177,5,Azuelo
+6178,5,Jaraicejo
+6179,5,Els Plans de Sió
+6180,5,Polán
+6181,5,Aras de los Olmos
+6182,5,Vinyols i els Arcs
+6183,5,Riba de Saelices
+6184,5,Valdelcubo
+6185,5,Val de San Vicente
+6186,5,Salmeroncillos
+6187,5,San Roque de Riomiera
+6188,5,La Cabeza de Béjar
+6189,5,Sotillo del Rincón
+6190,5,Cubillas de Santa Marta
+6191,5,Bárcabo
+6192,5,Miranda del Castañar
+6193,5,La Horcajada
+6194,5,Santiz
+6195,5,Benavites
+6196,5,San Millán de Lara
+6197,5,Villanueva de Castellón
+6198,5,Llíber
+6199,5,Lastras de Cuéllar
+6200,5,La Serrada
+6201,5,Piedrahita de Castro
+6202,5,Cantalejo
+6203,5,Les Piles
+6204,5,Arrazua-Ubarrundia
+6205,5,Castellfort
+6206,5,Mendaro
+6207,5,Mues
+6208,5,Trabada
+6209,5,Veguillas de la Sierra
+6210,5,Sangüesa
+6211,5,Portbou
+6212,5,Outes
+6213,5,Santa Colomba de Curueño
+6214,5,Vilanova de l'Aguda
+6215,5,Almodóvar del Pinar
+6216,5,Ossa de Montiel
+6217,5,Amavida
+6218,5,Vilar de Barrio
+6219,5,Massoteres
+6220,5,Villarejo de la Peñuela
+6221,5,Montcada i Reixac
+6222,5,Campo Real
+6223,5,El Pedroso
+6224,5,Alió
+6225,5,Castropodame
+6226,5,Alfara de Carles
+6227,5,Torredembarra
+6228,5,Boimorto
+6229,5,Torralba de Oropesa
+6230,5,Cartelle
+6231,5,Aranda de Moncayo
+6232,5,San Andrés del Congosto
+6233,5,Masarac
+6234,5,Elgorriaga
+6235,5,Herguijuela de la Sierra
+6236,5,Santiago de Compostela
+6237,5,Sacañet
+6238,5,Zaorejas
+6239,5,Los Realejos
+6240,5,Hontalbilla
+6241,5,Villarmuerto
+6242,5,Marçà
+6243,5,Barx
+6244,5,Agolada
+6245,5,Santibáñez el Alto
+6246,5,Rueda
+6247,5,El Palomar
+6248,5,Borrenes
+6249,5,Puig-reig
+6250,5,La Baronia de Rialb
+8022,5,Moriscos
+6760,5,Moralzarzal
+6761,5,Sant Llorenç de Morunys
+6762,5,Pontils
+6763,5,Idiazabal
+6764,5,Reznos
+6765,5,Campolara
+6766,5,Perales del Puerto
+6767,5,Salvatierra de Santiago
+6768,5,Soriguera
+6769,5,Perilla de Castro
+6770,5,Santa Cruz del Retamar
+6771,5,Granollers
+6772,5,Dicastillo
+6773,5,Leoz
+6774,5,Orba
+6775,5,Membibre de la Hoz
+6776,5,Frechilla
+6777,5,Olivella
+6778,5,El Cubo de Tierra del Vino
+6779,5,Sanchón de la Ribera
+6780,5,Pitiegua
+6781,5,Elgoibar
+6782,5,Castiello de Jaca
+6783,5,Degaña
+6784,5,Santa Ana la Real
+6785,5,Mamolar
+6786,5,Peralveche
+6787,5,Zubieta
+6788,5,Aguarón
+6789,5,Ayllón
+6790,5,Cevico de la Torre
+6791,5,Capdesaso
+6792,5,Esponellà
+6793,5,Sant Pau de Segúries
+6794,5,Vallecillo
+6795,5,Mazarete
+6796,5,Oencia
+6797,5,Ciruelos del Pinar
+6798,5,Secastilla
+6799,5,Haza
+6800,5,Serradilla del Arroyo
+6801,5,Usurbil
+6802,5,Calaf
+6803,5,El Prat de Llobregat
+6804,5,Calzada de Don Diego
+6805,5,Vilalba
+6806,5,Robleda-Cervantes
+6807,5,Mijares
+6808,5,Burón
+6809,5,Villasexmir
+6810,5,Diego del Carpio
+6811,5,San Miguel del Valle
+6812,5,Gallegos
+6813,5,Puente Genil
+6814,5,Ullastrell
+6815,5,Herreruela de Oropesa
+6816,5,La Pobla de Mafumet
+6817,5,Illano
+6818,5,Oia
+6819,5,Ponferrada
+6820,5,Alberite
+6821,5,Quintana del Pidio
+6822,5,La Pesga
+6823,5,Torrijo de la Cañada
+6824,5,Cabana de Bergantiños
+6825,5,Aldealengua de Santa María
+6826,5,Sauquillo de Cabezas
+6827,5,Andújar
+6828,5,Orés
+6829,5,Colmenar Viejo
+6830,5,Salteras
+6831,5,Villavellid
+6832,5,Castrocontrigo
+6833,5,Beamud
+6834,5,Malla
+6835,5,Guadalajara
+6836,5,Gúeñes
+6837,5,Redován
+6838,5,Maria de la Salut
+6839,5,Capdepera
+6840,5,Hernialde
+6841,5,Cangas de Onís
+6842,5,Ventas de Huelma
+6843,5,La Puebla de Castro
+6844,5,Binéfar
+6845,5,Cabra del Camp
+6846,5,Valdemaluque
+6847,5,Güesa
+6848,5,Bigastro
+6849,5,Villarroya
+6850,5,Cumbres Mayores
+6851,5,Corporales
+6852,5,El Campillo
+6853,5,Figueres
+6854,5,La Parrilla
+6855,5,Algar de Mesa
+6856,5,Plan
+6857,5,Valacloche
+6858,5,Villamartín de Don Sancho
+6859,5,Kripan
+6860,5,Manjabálago
+6861,5,Cabeza del Caballo
+6862,5,Mañón
+6863,5,Obón
+6864,5,Collado Hermoso
+6865,5,Zamudio
+6866,5,Aguilar de Bureba
+6867,5,Villahermosa
+6868,5,Villar del Ala
+6869,5,Rafelcofer
+6870,5,Espeja
+6871,5,Sant Pere de Ribes
+6872,5,Tárbena
+6873,5,Estada
+6874,5,Es Migjorn Gran
+6875,5,Alamedilla
+6876,5,Monteagudo del Castillo
+6877,5,Vila-sana
+6878,5,Bienvenida
+6879,5,Rágama
+6880,5,Cuevas Bajas
+6881,5,Anchuras
+6882,5,Planoles
+6883,5,Cebrecos
+6884,5,Facería de Remendia (Junta General del Valle de Salazar)
+6885,5,Torà
+6886,5,Cabrera de Mar
+6887,5,La Portella
+6888,5,Gibraleón
+6889,5,Carrascal de Barregas
+6890,5,Solarana
+6891,5,Castalla
+6892,5,Valdepolo
+6893,5,Ballobar
+6894,5,Las Torres de Cotillas
+2103,5,Fuente de Piedra
+2104,5,Fuente-Tójar
+2105,5,Fuente del Arco
+2106,5,Plasencia
+2107,5,Ruesca
+2108,5,Cuevas del Almanzora
+2109,5,Moraleja del Vino
+2110,5,Santa Margarida de Montbui
+2111,5,Campo Lugar
+2112,5,Villavicencio de los Caballeros
+2113,5,Calomarde
+2114,5,Miguelturra
+2115,5,Alboloduy
+2116,5,Poboleda
+2117,5,Santa Perpètua de Mogoda
+2118,5,Morille
+2119,5,Yepes
+2120,5,Villar del Salz
+2121,5,Fuensanta
+2122,5,Santibáñez de la Sierra
+2123,5,Ruanes
+2124,5,El Tanque
+2125,5,Común Grande de las Pegueras (Cuéllar)
+2126,5,Fuentestrún
+2610,5,Albalat dels Sorells
+2611,5,Abiego
+2612,5,Cillán
+2613,5,O Saviñao
+2614,5,Ciruelos de Cervera
+2615,5,Támara de Campos
+2616,5,Subirats
+2617,5,Nava del Barco
+2618,5,Moeche
+2619,5,Brenes
+2620,5,Mazarambroz
+2621,5,Vilanova de Bellpuig
+2622,5,Becedas
+2623,5,Vilafranc de Bonany
+2624,5,Taramundi
+2625,5,Benifato
+2626,5,Santa Cruz de Moya
+2627,5,Villamena
+2628,5,Pliego
+2629,5,Salvatierra de los Barros
+2630,5,Las Rozas de Madrid
+2631,5,Blancas
+2632,5,La Parra
+2633,5,Baides
+2634,5,Alarcón
+2635,5,San Esteban de Nogales
+2636,5,Arenys de Mar
+2637,5,Cartajima
+2638,5,Lominchar
+2639,5,O Carballiño
+2641,5,Villanueva de Algaidas
+2642,5,El Granado
+2643,5,Darro
+2644,5,Escurial
+2645,5,Benalmádena
+2646,5,Folgueroles
+2647,5,Leciñena
+2648,5,Ledrada
+2649,5,Medellín
+2650,5,Alcover
+2651,5,"Comunidad de Bahabón de Esgueva, Cilleruelo de Abajo y Santibáñez de Esgueva"
+2652,5,Arenas
+2653,5,El Pont de Bar
+2654,5,Quijorna
+2655,5,Píñar
+2656,5,Goizueta
+2657,5,Oliana
+2658,5,Albendea
+2659,5,Piedras Albas
+2660,5,Huesca
+2661,5,Mecerreyes
+2662,5,Almadén
+2663,5,Abades
+2664,5,Alcubilla de Avellaneda
+2665,5,Castroserracín
+2666,5,Sevilleja de la Jara
+2667,5,La Cueva de Roa
+2668,5,A Estrada
+2669,5,Monistrol de Calders
+2670,5,Turís
+2671,5,Sant Feliu de Codines
+2672,5,El Castell de Guadalest
+2673,5,Ginestar
+2674,5,Badules
+2675,5,Alfamén
+2676,5,Ribadesella
+2677,5,Carballo
+2678,5,Tagamanent
+2679,5,Torrubia del Campo
+2680,5,Vega de Ruiponce
+2681,5,Antigua
+2682,5,Leioa
+2683,5,Villalba de Rioja
+2684,5,Alins
+2685,5,Garrafe de Torío
+2686,5,Gobernador
+2687,5,Desojo
+2688,5,Mirabueno
+2689,5,Ferreries
+2690,5,Madrigueras
+2691,5,Font-rubí
+2692,5,Villodre
+2693,5,Auritz
+2694,5,Palencia
+2695,5,Araitz
+2696,5,Narrillos del Álamo
+2697,5,Vegalatrave
+2698,5,Corbillos de los Oteros
+2699,5,Benaocaz
+2700,5,Urones de Castroponce
+2701,5,Armilla
+2702,5,Calatorao
+2703,5,Maranchón
+2704,5,Tinieblas de la Sierra
+2705,5,Adrados
+2706,5,Vinalesa
+2707,5,Los Villares
+2708,5,Gironella
+2709,5,Eivissa
+2710,5,Armenteros
+2711,5,Casalarreina
+2712,5,Gombrèn
+2713,5,Sant Ramon
+2714,5,Sot de Chera
+2715,5,Encinillas
+2716,5,Facería 104
+2717,5,Albondón
+2718,5,Mollet del Vallès
+2719,5,Pradales
+2720,5,Villalbilla de Burgos
+2721,5,Urnieta
+2722,5,Alconada de Maderuelo
+2723,5,Polopos
+2724,5,Santa Úrsula
+2725,5,Torres de Segre
+2726,5,Hontoria de la Cantera
+2727,5,El Carpio
+2728,5,Catral
+2729,5,Valle Gran Rey
+2730,5,Autol
+2731,5,Montejaque
+2732,5,Adanero
+2733,5,Iza
+2734,5,L'Alcúdia
+2735,5,Tacoronte
+2736,5,Bolulla
+2737,5,Izurtza
+2738,5,Canfranc
+2739,5,Madridanos
+2740,5,Mansilla de la Sierra
+2741,5,Liendo
+2742,5,Tejado
+2743,5,Oliola
+2744,5,La Pobla de Claramunt
+2745,5,Grávalos
+2746,5,Itero del Castillo
+4975,5,Arén
+4976,5,Fresno de Caracena
+4977,5,Luceni
+4978,5,Torrelobatón
+4979,5,Muruzábal
+4980,5,Sant Feliu de Pallerols
+4981,5,Altsasu
+4982,5,Cañizar
+4983,5,San Adrián del Valle
+4984,5,Pozohondo
+4985,5,Santa María de Huerta
+4986,5,Solana de Rioalmar
+4987,5,Cebreros
+4988,5,Campo Lameiro
+4989,5,Castrillo de la Vega
+4990,5,Leiro
+4991,5,Asparrena
+4992,5,Fernán-Núñez
+4993,5,Lupiñén-Ortilla
+4994,5,Lesaka
+4995,5,Barbués
+4996,5,Magán
+4997,5,Coirós
+4998,5,Comunidad de Benatae y Torres de Albánchez
+4999,5,Valderas
+3063,5,Puente del Congosto
+3064,5,Torrubia
+3065,5,Rueda de la Sierra
+3066,5,Els Omellons
+3067,5,Monda
+3068,5,Hondón de los Frailes
+3069,5,Villanueva de los Caballeros
+3070,5,Boca de Huérgano
+3071,5,Zalamea de la Serena
+3072,5,Villanueva de la Serena
+3073,5,Merindad de Sotoscueva
+3074,5,Comunidad de La Revilla y Villanueva de Carazo
+3075,5,La Cerollera
+3076,5,Anue
+3077,5,Massalfassar
+3078,5,Zújar
+3079,5,Zazuar
+3080,5,La Pedraja de Portillo
+3081,5,Valle de Tobalina
+3082,5,Valle de Matamoros
+3083,5,Santa María del Val
+3084,5,Santo Domingo de las Posadas
+3085,5,Barrado
+3086,5,Valdoviño
+3087,5,Chiva
+3088,5,Herreros de Suso
+3089,5,Fonelas
+3090,5,Santa Eulàlia de Ronçana
+3091,5,Alfajarín
+3092,5,Berlanga del Bierzo
+3093,5,Alcaudete
+3094,5,Aldeonte
+3095,5,Torrella
+3096,5,Fresno de la Fuente
+3097,5,Boiro
+3098,5,Villapalacios
+3099,5,Belmonte
+3100,5,Olmos de Ojeda
+3101,5,Santa María de Dulcis
+3102,5,Herrera del Duque
+3103,5,Dúdar
+3104,5,La Mata de Morella
+3105,5,Campillo de Altobuey
+3106,5,Fondón
+3107,5,Isábena
+3108,5,Vallbona d'Anoia
+3109,5,El Ordial
+3110,5,Vilafranca del Penedès
+3111,5,Lliçà de Vall
+3112,5,Viladamat
+3113,5,Castell de Castells
+3114,5,Albalat dels Tarongers
+3115,5,Encina de San Silvestre
+3116,5,Alamillo
+3117,5,Manchones
+3118,5,Caudiel
+3119,5,Miajadas
+3120,5,Calamocha
+3121,5,Mozota
+3122,5,Pastrana
+3123,5,Comillas
+3124,5,Torrescárcela
+3125,5,Puentes Viejas
+3126,5,Torrecilla de la Orden
+3127,5,Monsalupe
+3128,5,Muxika
+3129,5,Almarza de Cameros
+3130,5,Pedroso
+3131,5,Ribesalbes
+3132,5,Cardiel de los Montes
+3133,5,Valdeaveruelo
+3134,5,Retamal de Llerena
+3135,5,Mutxamel
+3136,5,Chella
+3137,5,Portalrubio de Guadamejud
+3138,5,Améscoa Baja
+3139,5,Villamoronta
+3140,5,Valdemorillo
+3141,5,Espirdo
+3142,5,Granera
+3143,5,Fuentes
+3144,5,Villaseca de Henares
+3145,5,Gandia
+3146,5,Monreal del Llano
+3147,5,A Pobra de Trives
+3148,5,Caravaca de la Cruz
+3149,5,Quatretonda
+3150,5,Tavèrnoles
+3151,5,A Laracha
+3152,5,Oncala
+3153,5,Puebla de San Medel
+3154,5,San Miguel de la Ribera
+3155,5,Alacón
+3156,5,Sukarrieta
+3157,5,Piñel de Arriba
+3158,5,Castilfalé
+3159,5,Llera
+3160,5,Berdejo
+3161,5,Sentmenat
+3162,5,Allariz
+3163,5,Balazote
+3164,5,Nogueras
+3165,5,Cizur
+3166,5,Yerri
+3168,5,Castillonuevo
+3169,5,Calpe
+3170,5,Morcillo
+3171,5,Esguevillas de Esgueva
+3172,5,Roquetas de Mar
+3173,5,Santa Engracia del Jubera
+3174,5,Novillas
+3175,5,Trujillo
+3176,5,Zarza la Mayor
+3177,5,Cilleros
+3178,5,Báguena
+3179,5,Higuera de Llerena
+3180,5,Viladasens
+3181,5,Els Hostalets de Pierola
+3182,5,Quintanas de Gormaz
+3183,5,Bezares
+3184,5,La Vilella Baixa
+3185,5,Villafranca de la Sierra
+3186,5,A Pontenova
+3187,5,Busturia
+3188,5,Tomares
+3189,5,Toril
+3190,5,Villayerno Morquillas
+3191,5,Facería 38
+3192,5,Monesma y Cajigar
+3193,5,Cerratón de Juarros
+3194,5,Saelices de la Sal
+3195,5,Tobía
+3196,5,Papatrigo
+3197,5,Escatrón
+3198,5,Zamayón
+3199,5,Griñón
+3200,5,Urdiales del Páramo
+3201,5,San Cebrián de Castro
+3202,5,Gerindote
+3203,5,Comunidad de Carazo y Villanueva de Carazo
+3204,5,Villanueva de la Torre
+3205,5,Tabanera de Cerrato
+3206,5,Liédena
+3207,5,Barruelo del Valle
+3208,5,Arenas de Iguña
+3209,5,Villafuerte
+3211,5,Castilforte
+3212,5,Alfarnate
+3213,5,La Muela
+3214,5,Laspaúles
+3215,5,Feria
+3216,5,Vic
+3217,5,Laperdiguera
+3218,5,Valle de Valdelaguna
+3219,5,Morales de Toro
+3220,5,Valdefinjas
+8023,5,Cabezuela del Valle
+8024,5,Villaumbrales
+8025,5,Porqueira
+8026,5,Riocavado de la Sierra
+8027,5,Valencia del Ventoso
+8028,5,Arcediano
+8029,5,Laredo
+8030,5,San Martín de la Vega del Alberche
+8031,5,Geria
+8032,5,Valoria la Buena
+8033,5,Merindad de Montija
+8034,5,Villamayor de Calatrava
+8035,5,Humanes
+8036,5,Torrejoncillo del Rey
+8037,5,Sarroca de Bellera
+8038,5,Clavijo
+8039,5,Bubión
+8040,5,Ontur
+8041,5,Pajares de Adaja
+8042,5,Miraveche
+8043,5,Forcall
+8044,5,Nombrevilla
+8045,5,Almendralejo
+8046,5,Carral
+8047,5,El Molar
+8048,5,Cañada del Hoyo
+8049,5,Uleila del Campo
+8050,5,Torremayor
+8051,5,Puebla de Beleña
+8052,5,Adamuz
+8053,5,Cuadros
+8054,5,Ondara
+8055,5,Tobed
+8056,5,Fernán Caballero
+8057,5,Alfacar
+8058,5,Lezama
+8059,5,Tona
+8060,5,Cobeta
+8061,5,La Colilla
+8062,5,Los Guajares
+8063,5,Vega de Villalobos
+8064,5,Fabero
+8065,5,Pedralba
+8066,5,Alfoz
+8067,5,Zafarraya
+8068,5,Comunidad de San Vicente del Valle y Villagalijo
+8069,5,Aragüés del Puerto
+8070,5,Errezil
+8071,5,Almazán
+8072,5,Susinos del Páramo
+8073,5,Méntrida
+8074,5,Viveros
+8075,5,Castejón de Valdejasa
+8076,5,Escurial de la Sierra
+8077,5,Monteagudo de las Salinas
+8078,5,Lúcar
+8079,5,Cabañes de Esgueva
+8080,5,Paradela
+8081,5,Cadrete
+8082,5,Lillo
+8083,5,Renedo de Esgueva
+8084,5,Sierra Urbasa
+8085,5,Medina de las Torres
+8086,5,Sos del Rey Católico
+8087,5,Bañuelos
+8088,5,San Martín de Rubiales
+8089,5,Santo Domingo de Pirón
+8090,5,Torre de Peñafiel
+8091,5,Cabañas de Sayago
+8092,5,Valdepiélagos
+8093,5,Camponaraya
+8094,5,Deltebre
+8095,5,Otxandio
+8096,5,Rute
+8097,5,Peralejos
+8098,5,Ribadeo
+8099,5,Villamejil
+8100,5,Forfoleda
+8101,5,Puertollano
+8102,5,Fresno de la Ribera
+8103,5,Castrillo de Villavega
+8104,5,Vilanova del Vallès
+8105,5,Tortosa
+8106,5,Ibias
+8107,5,Cubillos del Sil
+8108,5,Elda
+8109,5,Monasterio de Vega
+8110,5,Hornos
+8111,5,Pineda Trasmonte
+8112,5,Endrinal
+8113,5,Nolay
+8114,5,Esterri de Cardós
+8115,5,Castelldans
+8116,5,Venialbo
+8117,5,Sancti-Spíritus
+8118,5,Boqueixón
+8119,5,Cerecinos de Campos
+8120,5,Carcaixent
+8121,5,Baltar
+8122,5,Capileira
+8123,5,Vallfogona de Riucorb
+8124,5,Guriezo
+8125,5,Tarazona de la Mancha
+8126,5,Coll de Nargó
+8127,5,Morata de Tajuña
+8128,5,Cortes de Arenoso
+8129,5,Argelita
+8130,5,Andorra
+8131,5,Valderrueda
+8132,5,Castell-Platja d'Aro
+8133,5,Torrecilla del Monte
+8134,5,Monterrei
+8135,5,Orcajo
+8136,5,Gimialcón
+8137,5,Santa María de Cayón
+8138,5,Villar del Rey
+8139,5,Sant Miquel de Fluvià
+8140,5,San Martín de la Vega
+8141,5,Los Huertos
+8143,5,Bellmunt del Priorat
+8144,5,Torrebaja
+8145,5,Torre del Campo
+8146,5,San Cristóbal de la Vega
+8147,5,Mendavia
+8148,5,Estépar
+8149,5,Fuentelisendo
+8150,5,Azuébar
+8151,5,Fuentelencina
+8152,5,Pelayos
+8153,5,Montejícar
+8154,5,La Nava de Ricomalillo
+8155,5,San Cristóbal de la Polantera
+8156,5,Fuentespalda
+8157,5,Villavaquerín
+8158,5,Ródenas
+8159,5,Jaraba
+8160,5,Ayuela
+8161,5,Rubiales
+8162,5,El Herrumblar
+8163,5,Pizarra
+8164,5,Fuenterroble de Salvatierra
+8165,5,Chimillas
+8166,5,Lodosa
+8167,5,Puentedura
+8168,5,Caseres
+8169,5,Majadas
+8170,5,Montgat
+8171,5,Xirivella
+8172,5,Vierlas
+8173,5,Villaluenga de la Sagra
+8174,5,Puerto Real
+8175,5,Camporrobles
+8176,5,Nieva de Cameros
+8177,5,Alcorcón
+8178,5,Rábano de Aliste
+8179,5,Albons
+8180,5,Coripe
+8181,5,Bahabón de Esgueva
+2127,5,Saro
+2128,5,Descargamaría
+2129,5,Roquetes
+2130,5,Sant Joan de Moró
+2131,5,Turégano
+2132,5,Velliza
+2133,5,Arroyo de la Luz
+2134,5,Ochánduri
+2135,5,Agulo
+2136,5,Cotes
+2137,5,Algeciras
+2138,5,Guadalcázar
+2139,5,Sant Salvador de Guardiola
+2140,5,Torres
+2141,5,Villaprovedo
+2142,5,Larraga
+2143,5,Zaldibia
+2144,5,El Sotillo
+2145,5,Alconchel
+2146,5,Aldearrodrigo
+2147,5,Monegrillo
+2148,5,Castillejo-Sierra
+2149,5,Amurrio
+2150,5,Cinctorres
+2151,5,Porrera
+2152,5,Aguilar de Campoo
+2153,5,Santiuste de Pedraza
+2154,5,Robledillo de Trujillo
+2155,5,Valdés
+2156,5,Miera
+2157,5,Manilva
+2158,5,Escobosa de Almazán
+2159,5,Codo
+2160,5,Zorita de los Canes
+2161,5,Navares de Enmedio
+2162,5,Senija
+2163,5,Sebúlcor
+2164,5,Caltojar
+2165,5,Olóriz
+2166,5,Alcañizo
+2167,5,Sástago
+2168,5,Gisclareny
+2169,5,Castril
+2170,5,Benalup-Casas Viejas
+2171,5,Mosqueruela
+2172,5,Aldealafuente
+2173,5,Higuera de la Sierra
+2174,5,El Molar
+2175,5,Sobrado
+2176,5,Valdetorres de Jarama
+2177,5,Burganes de Valverde
+2178,5,Casas del Castañar
+2179,5,Castrelo de Miño
+2180,5,Micereces de Tera
+2181,5,Cerdà
+2182,5,Montmajor
+2183,5,Ledigos
+2184,5,Valdelosa
+2185,5,Navares de las Cuevas
+2186,5,Salinas
+2187,5,El Guijo
+2188,5,Hornillos de Cerrato
+2189,5,Mancomunidad de Las Quintanillas y Tardajos
+2190,5,Singra
+2191,5,Gelves
+2192,5,Pampliega
+2193,5,Manquillos
+2194,5,Mondoñedo
+2195,5,Montón
+2196,5,Es Castell
+2197,5,Horcajo de la Sierra
+2198,5,Carratraca
+2199,5,Membrillera
+2200,5,Santa Cruz de Nogueras
+2201,5,Ribadumia
+2202,5,Deifontes
+2203,5,Vencillón
+2204,5,Noviercas
+2205,5,Urrotz
+2206,5,Moraleja de las Panaderas
+2207,5,Langreo
+2208,5,Andosilla
+2209,5,Villaornate y Castro
+2210,5,La Hiniesta
+2211,5,Sepulcro-Hilario
+2212,5,Villamartín
+2213,5,Carrascal del Obispo
+2214,5,Sueras
+2215,5,Portezuelo
+2216,5,Puente de Domingo Flórez
+2217,5,Villanueva de Guadamejud
+2218,5,Villamuelas
+2219,5,Alfés
+2220,5,Tramacastilla
+2221,5,Polentinos
+2222,5,Oza dos Ríos
+2223,5,Utrera
+2224,5,Marazuela
+2225,5,Padrenda
+2226,5,Aramaio
+2227,5,Jarque
+2228,5,Lanciego
+2229,5,Trasobares
+2230,5,La Vall de Boí
+2231,5,Becerril de la Sierra
+2232,5,Zabalza
+2233,5,Mahide
+2234,5,Bárcena de Campos
+2235,5,Otero de Herreros
+2236,5,Muñogalindo
+2237,5,Vilanova de Prades
+2238,5,Aisa
+2239,5,Benimassot
+2240,5,Barillas
+2241,5,Dozón
+2242,5,Massalcoreig
+2243,5,Marcilla de Campos
+2244,5,Torrecuadradilla
+2245,5,Nerva
+2246,5,La Aldehuela
+2247,5,Palomeque
+2248,5,Pedrosillo de Alba
+2249,5,La Coronada
+2250,5,Valde-Ucieza
+2251,5,Molinaseca
+2252,5,Risco
+2253,5,El Sahugo
+2254,5,Molinos
+2255,5,San Silvestre de Guzmán
+2256,5,Ólvega
+2257,5,Oliete
+2258,5,Los Marines
+2259,5,Quintanaélez
+2260,5,Mairena del Aljarafe
+2261,5,Fonfría
+2262,5,Villarta
+4493,5,Terroba
+4494,5,Mancha Real
+4495,5,Valdepeñas de Jaén
+4496,5,Robliza de Cojos
+4497,5,Villanueva del Ariscal
+4498,5,Valdegeña
+4499,5,Ferreira
+4500,5,Aspa
+4501,5,Serón
+4502,5,Alájar
+4503,5,Mochales
+4504,5,Hoyo de Manzanares
+4505,5,Allo
+4506,5,La Puebla de Almoradiel
+4507,5,Villamayor de los Montes
+4508,5,Avià
+4509,5,Sant Martí de Llémena
+4510,5,Alcadozo
+4511,5,Junta de Villalba de Losa
+4512,5,Viladecavalls
+4513,5,Bárcena de Pie de Concha
+4514,5,Navarredonda y San Mamés
+4515,5,Camañas
+4516,5,Clariana de Cardener
+4517,5,Hiriberri
+5448,5,Orihuela del Tremedal
+5449,5,Villada
+5450,5,Comunidad de Barbadillo del Mercado y La Revilla
+5451,5,Orce
+5452,5,Guillena
+5453,5,Doñinos de Salamanca
+5454,5,Tijarafe
+5455,5,Bormujos
+5456,5,Villerías de Campos
+5457,5,Alcazarén
+5458,5,Jimena de la Frontera
+5459,5,Torrecuadrada de Molina
+5460,5,La Herrera
+5461,5,Villaveza del Agua
+5462,5,Jaurrieta
+5463,5,Belorado
+5464,5,Puebla de Yeltes
+5465,5,Urrea de Jalón
+5466,5,Sarreaus
+5467,5,Landete
+5468,5,Aldeanueva de Figueroa
+5470,5,Las Cuerlas
+5471,5,Grajal de Campos
+5472,5,Almogía
+5473,5,Jerez del Marquesado
+5474,5,San Vicente de Alcántara
+5475,5,Arbo
+5476,5,Pedrosa de la Vega
+5477,5,Arroyo del Ojanco
+5478,5,Alhóndiga
+5479,5,Tordesilos
+5480,5,Guadalaviar
+5481,5,Pinoso
+5482,5,Baños de la Encina
+5483,5,Biosca
+5484,5,Jun
+5485,5,Almonacid del Marquesado
+5486,5,Arroyo de las Fraguas
+5487,5,Entrimo
+5488,5,Coristanco
+5489,5,Corral-Rubio
+5490,5,Argençola
+5491,5,Albelda
+5492,5,San Millán
+5493,5,Haro
+5494,5,Luena
+5495,5,Corduente
+5496,5,Villaconancio
+5497,5,San Torcuato
+5498,5,Las Labores
+5499,5,Constantina
+5500,5,El Pedernoso
+5501,5,Taradell
+5502,5,Castillonroy
+5503,5,Nieva
+5505,5,Fígols
+5506,5,Coca
+5507,5,Villanueva de la Sierra
+5508,5,Terradillos
+5509,5,Bovera
+5510,5,Bubierca
+5511,5,Valverde de Burguillos
+5512,5,Castellote
+5513,5,Busquístar
+5514,5,Collsuspina
+5515,5,Pozoblanco
+5516,5,Calmarza
+5517,5,Villalobar de Rioja
+5518,5,Esteribar
+5519,5,Vega de Valcarce
+5520,5,Perosillo
+5521,5,Tormos
+5522,5,Cabañas Raras
+5523,5,A Pastoriza
+5524,5,Carmona
+5525,5,La Bisbal del Penedès
+5526,5,Santibáñez de Vidriales
+5527,5,Vilasantar
+5528,5,Eslida
+5529,5,Larrabetzu
+5530,5,Masegosa
+5531,5,Palol de Revardit
+5532,5,Amer
+5533,5,El Toboso
+5534,5,Villares del Saz
+5535,5,O Vicedo
+5536,5,Castellar
+5537,5,Cernadilla
+5538,5,Gelida
+5539,5,Soto del Real
+5540,5,Quatretondeta
+5541,5,Tejeda y Segoyuela
+5542,5,Sena de Luna
+5543,5,Urretxu
+5544,5,Chóvar
+5545,5,Merindad de Valdivielso
+5546,5,Orreaga
+5547,5,Adradas
+5548,5,Olèrdola
+5549,5,Cuenca
+5550,5,Vozmediano
+5551,5,Vilademuls
+5552,5,Villadecanes
+5553,5,Corrales de Duero
+5554,5,Abejuela
+5555,5,Mijas
+5556,5,Torrelameu
+5557,5,Noalejo
+5558,5,Zorraquín
+5559,5,La Bodera
+5560,5,Das
+5561,5,Ripoll
+5562,5,Loarre
+5563,5,Moncalvillo
+5564,5,Arahal
+5565,5,Alcubillas
+5566,5,Lezáun
+5567,5,Pajarejos
+5568,5,Villar del Río
+5569,5,Alforja
+5570,5,Algete
+5571,5,Lanestosa
+5572,5,Cambil
+5573,5,Velamazán
+5574,5,El Catllar
+5575,5,Épila
+5576,5,Villalazán
+5577,5,Tabarca
+5578,5,Arbeteta
+5579,5,Ponts
+5580,5,Campo de Mirra
+5581,5,Hondarribia
+5582,5,Arganza
+5583,5,Castellolí
+5584,5,Ribes de Freser
+5585,5,Guissona
+5586,5,Pasarón de la Vera
+5587,5,La Nava de Santiago
+5588,5,Aldover
+5589,5,Moronta
+5590,5,Villarrabé
+5591,5,Berriozar
+5592,5,Berzosa de Bureba
+5593,5,Tendilla
+5594,5,Lebrija
+5595,5,Almendra
+5596,5,Montagut i Oix
+5597,5,Maello
+5598,5,Vilamarxant
+5599,5,Navacepedilla de Corneja
+5600,5,Urraul Bajo
+5601,5,Castrillo del Val
+5602,5,Solórzano
+5603,5,La Olmeda de Jadraque
+5604,5,Ojos-Albos
+5605,5,Azofra
+5606,5,San Millán de la Cogolla
+5607,5,Huérmeces
+5608,5,Cervera de la Cañada
+5609,5,Benimantell
+5610,5,Cabezas de Alambre
+5611,5,Medina-Sidonia
+5612,5,Marmolejo
+1469,5,Aldeacentenera
+1470,5,Cabanillas del Campo
+1471,5,Fonfría
+1472,5,Castrojimeno
+1473,5,Cogollos de Guadix
+1474,5,Partaloa
+1475,5,Ribera Baja
+1476,5,Vallbona de les Monges
+1477,5,Benimodo
+1478,5,La Huerce
+1479,5,Navàs
+1480,5,Benatae
+1481,5,Cubillo
+1482,5,Els Garidells
+1483,5,Salorino
+1484,5,Fermoselle
+1485,5,Matadepera
+1486,5,Fuente la Reina
+1487,5,Collado del Mirón
+1488,5,Adsubia
+1489,5,Corvera de Asturias
+1490,5,Rafelbuñol
+1491,5,Fago
+1492,5,Cazurra
+1493,5,Buñol
+1494,5,Hoz de Jaca
+1495,5,Villargordo del Cabriel
+1496,5,Torralba de Aragón
+1497,5,Cacín
+1498,5,Benuza
+1499,5,Somosierra
+1500,5,Sando
+1501,5,Puerto Serrano
+1502,5,Sant Julià de Cerdanyola
+1503,5,Pradillo
+1504,5,Salvatierra
+1505,5,Calcena
+1506,5,Santiago de Alcántara
+1507,5,Horcajo de los Montes
+1508,5,Montejo de la Vega de la Serrezuela
+1509,5,Vega de Tera
+1510,5,El Brull
+1511,5,Casa de Uceda
+1512,5,Cistierna
+1513,5,Fuentidueña
+1514,5,La Nou de Berguedà
+1515,5,Breña Alta
+1516,5,Aldealices
+1517,5,Pedraza de Campos
+1518,5,Veganzones
+1519,5,Rozalén del Monte
+1520,5,Aldeanueva de la Vera
+1521,5,Vilanova d'Alcolea
+1522,5,Cájar
+1523,5,Teo
+1524,5,Güevéjar
+1525,5,Vilabertran
+1526,5,Castellfollit de Riubregós
+1527,5,Táliga
+1528,5,Valderrey
+1529,5,Bidaurreta
+1530,5,Valdemorales
+1531,5,Cenlle
+1532,5,Borriol
+1533,5,Medranda
+1534,5,Rotglà i Corberà
+1535,5,Migueláñez
+1536,5,Algatocín
+1537,5,Padilla de Abajo
+1538,5,Comunidad de Hacinas y Salas de los Infantes
+1539,5,Figueroles
+1540,5,Campillo de Llerena
+1541,5,Romanos
+1542,5,Benahavís
+1543,5,Puebla del Salvador
+1544,5,Relleu
+1545,5,El Viso
+1546,5,Sant Sadurní d'Anoia
+1547,5,Sierra Andia
+1548,5,Jurisdicción Mancomunada de Cerdedilla y Navacerrada
+1549,5,Bodonal de la Sierra
+1550,5,La Torre d'En Besora
+1551,5,Navia de Suarna
+1552,5,Yebes
+1553,5,Cunit
+1554,5,Cabañas de Ebro
+1555,5,Garcillán
+1556,5,Chilluévar
+1557,5,Villamayor de Monjardín
+1558,5,Saelices
+1559,5,Montealegre de Campos
+1560,5,La Alberca de Záncara
+1561,5,Hoyos
+1562,5,El Oso
+1563,5,Torrubia de Soria
+1564,5,Santa Cruz de Boedo
+1565,5,Argoños
+1566,5,Sant Feliu Sasserra
+1567,5,Belvís de Monroy
+1568,5,Campo de Villavidel
+1569,5,El Barraco
+1570,5,Castillejo de Robledo
+1571,5,Jasa
+1572,5,Teba
+1573,5,Horcajo de Santiago
+1574,5,Lladurs
+1575,5,Villanueva de Tapia
+1576,5,Retamoso
+1577,5,Peranzanes
+1578,5,Naut Aran
+1579,5,Alagón
+1580,5,Olula del Río
+1581,5,Husillos
+1582,5,Broto
+1583,5,La Coma i la Pedra
+1584,5,Ruesga
+1585,5,Albendiego
+1586,5,La Aldea del Obispo
+1587,5,Piñor
+1588,5,Callosa de Segura
+1589,5,Contamina
+1590,5,Langa de Duero
+1591,5,Galbárruli
+1592,5,Fustiñana
+1593,5,Atarfe
+1594,5,Urueñas
+1595,5,Cubel
+1596,5,Ugena
+1597,5,Ochagavía
+1598,5,Hornillos del Camino
+1599,5,Almenara
+1600,5,Arraya de Oca
+1601,5,Lloret de Mar
+1602,5,Anguiano
+1603,5,Malcocinado
+1604,5,Jamilena
+1605,5,Caso
+1606,5,Miguel Esteban
+1607,5,Mundaka
+1608,5,Berge
+1609,5,Baena
+1610,5,Fuente del Maestre
+1611,5,Facería 40
+1612,5,L'Estany
+1613,5,Riós
+1614,5,Ariany
+1615,5,Urda
+1616,5,Capellades
+1617,5,Valle de Mena
+1618,5,Benissoda
+1619,5,Pechina
+1620,5,Valdemanco del Esteras
+1621,5,Mislata
+1622,5,Olvera
+1623,5,Rojales
+1624,5,Sequeros
+1625,5,Villamiel
+1626,5,Guaza de Campos
+1627,5,Parzonería de Guipúzcoa y Álava
+1628,5,Guadassuar
+4518,5,Ribas de Sil
+4519,5,Escucha
+4520,5,Huélaga
+4521,5,Pozuelo de Zarzón
+4522,5,Conquista
+4523,5,Pedrezuela
+4524,5,Segart
+4525,5,La Albuera
+4526,5,Manzaneque
+4527,5,Ballesteros de Calatrava
+4528,5,Castillo de Garcimuñoz
+4529,5,Condemios de Arriba
+4530,5,Carcelén
+4531,5,Roturas
+4532,5,Fuentes de Jiloca
+4533,5,As Nogais
+4534,5,Barrundia
+4535,5,Quiruelas de Vidriales
+4536,5,Chandrexa de Queixa
+4537,5,Facería 28
+4538,5,Pira
+4539,5,Benimuslem
+4540,5,Yélamos de Arriba
+4541,5,Querol
+4542,5,El Puente del Arzobispo
+4543,5,Santa Cruz de Grío
+4544,5,Guitiriz
+4545,5,Cala
+4546,5,Alesón
+4547,5,Arenas de San Juan
+4548,5,Bustarviejo
+4549,5,Santa María del Cubillo
+4550,5,Jerez de los Caballeros
+4551,5,Pozo-Lorente
+4552,5,Las Pedroñeras
+4553,5,Aibar
+4554,5,Bercial
+4555,5,Alaminos
+4556,5,Castil de Peones
+4557,5,Otero de Bodas
+4558,5,Horta de Sant Joan
+4559,5,Retortillo de Soria
+4560,5,Aliseda
+4561,5,Santurde de Rioja
+4562,5,Valbuena de Pisuerga
+4563,5,Etxarri-Aranatz
+4564,5,Artziniega
+4565,5,Castellví de Rosanes
+4566,5,Vistabella
+4567,5,Lumbier
+4568,5,Sopuerta
+4569,5,Valle de Tabladillo
+4570,5,Isar
+4571,5,Montornès del Vallès
+4572,5,Torrelara
+4573,5,Villafruela
+4574,5,Òdena
+4575,5,Oímbra
+4576,5,Biel
+4577,5,Torrecilla en Cameros
+4578,5,Villar del Humo
+4579,5,Valdefuentes de Sangusín
+4580,5,Batres
+4581,5,Funes
+4582,5,Puebla de Valles
+4583,5,Jalón de Cameros
+4584,5,Villanueva de Córdoba
+4586,5,Gurb
+4587,5,Sacedón
+4588,5,El Gordo
+4589,5,Villamedianilla
+4590,5,Palazuelos de Muñó
+4591,5,Vilanova de la Barca
+4592,5,Fitero
+4593,5,Legaria
+4594,5,Colera
+4595,5,Etxauri
+4596,5,Biescas
+4597,5,Baélls
+4598,5,San Xoán de Río
+4599,5,Atajate
+4600,5,Toledo
+4601,5,Elantxobe
+4602,5,Vallarta de Bureba
+4603,5,Baterno
+4604,5,Bielsa
+4605,5,Huerta de la Obispalía
+4606,5,El Rasillo de Cameros
+4607,5,Huétor Vega
+4608,5,Valle del Retortillo
+4609,5,Campllong
+4610,5,Cañizal
+4611,5,Riba-roja de Túria
+4612,5,Ademuz
+4613,5,La Malahá
+4614,5,La Bisbal de Falset
+4615,5,Mantiel
+4616,5,Bellcaire d'Empordà
+4617,5,Villafranca del Campo
+4618,5,Biurrun-Olcoz
+4619,5,Santa María de la Alameda
+4620,5,Barrika
+4621,5,Paterna de Rivera
+4622,5,La Fatarella
+4623,5,Las Peñas de Riglos
+4624,5,Fuentes de Valdepero
+4625,5,Valdecaballeros
+4626,5,Sant Mori
+4627,5,Barro
+4628,5,La Vid de Ojeda
+4629,5,Castejón de las Armas
+4630,5,Bellver de Cerdanya
+4631,5,Pastriz
+4632,5,Sajazarra
+4633,5,Urús
+4634,5,La Seu d'Urgell
+4635,5,Nuño Gómez
+4636,5,Prades
+4637,5,Valdáliga
+4638,5,Melgar de Yuso
+4639,5,La Torre de Fontaubella
+4640,5,Humada
+4641,5,Santa Bárbara de Casa
+4642,5,Turcia
+4643,5,Guijo de Galisteo
+4644,5,Altarejos
+4645,5,Salvador de Zapardiel
+4646,5,A Mezquita
+4647,5,Jerte
+4648,5,Aldehuela del Codonal
+4649,5,Fortanete
+4650,5,Graja de Iniesta
+4651,5,Monreal
+6895,5,Garganta de los Montes
+6896,5,Villablino
+6897,5,Almenar
+6898,5,Nuevo Baztán
+6899,5,Casas de San Galindo
+6900,5,Moratilla de los Meleros
+6901,5,Carenas
+6902,5,Los Barrios de Luna
+6903,5,Rairiz de Veiga
+6904,5,Figaró-Montmany
+6905,5,Lepe
+6906,5,Alajeró
+6907,5,Majaelrayo
+6908,5,Alpandeire
+6909,5,Plou
+6910,5,Castrogonzalo
+6911,5,Cenicientos
+6912,5,Basauri
+6913,5,Espadaña
+6914,5,Roses
+6915,5,Ruidera
+6916,5,Lardero
+6917,5,Argelaguer
+6918,5,Bogajo
+6919,5,Sariegos
+6920,5,Tírig
+849,5,Piornal
+850,5,Les Preses
+851,5,Vileña
+852,5,Sobremunt
+853,5,Benetússer
+854,5,Ayoó de Vidriales
+855,5,Centelles
+856,5,Enciso
+857,5,Tauste
+858,5,Almuradiel
+859,5,Santa Colomba de las Monjas
+860,5,Arenzana de Abajo
+861,5,Ludiente
+862,5,Planes
+863,5,Chinchilla de Monte-Aragón
+864,5,Les Borges del Camp
+865,5,Villarta de San Juan
+866,5,Gusendos de los Oteros
+867,5,Pueyo de Santa Cruz
+868,5,Fresneda de la Sierra
+869,5,Cotillas
+870,5,Marchagaz
+871,5,Aldehorno
+872,5,Canovelles
+873,5,Monreal del Campo
+874,5,Jurisdicción de Lara
+875,5,Facería 41
+876,5,Ábalos
+877,5,Fresno de la Polvorosa
+878,5,La Tala
+879,5,Santa Llogaia d'Àlguema
+880,5,Facería 10
+881,5,Torres de Barbués
+882,5,Peñacaballera
+883,5,El Vallecillo
+884,5,Berrobi
+885,5,"Comun de Palacios de la Sierra, San Leonardo de Y*"
+886,5,Garganta del Villar
+887,5,Sant Feliu de Llobregat
+888,5,Cuevas del Becerro
+889,5,La Nou de Gaià
+890,5,Villanueva de Alcorón
+891,5,Vilar de Canes
+892,5,El Tornadizo
+893,5,Estella
+894,5,Fonzaleche
+895,5,Gátova
+896,5,Layana
+897,5,Gurrea de Gállego
+898,5,Neila de San Miguel
+899,5,Lugar Nuevo de la Corona
+900,5,Villanueva de San Juan
+901,5,Torrellas
+902,5,Cinco Olivas
+903,5,Sant Iscle de Vallalta
+904,5,Fuente la Lancha
+905,5,Herrera de Soria
+906,5,Velayos
+907,5,Las Navas del Marqués
+908,5,Galende
+909,5,Gaibiel
+910,5,El Olivar
+911,5,Avellaneda
+912,5,Sedaví
+913,5,Peñarroya de Tastavins
+914,5,Montroy
+915,5,Samper de Calanda
+916,5,Facería 103
+917,5,La Selva de Mar
+918,5,Mantinos
+919,5,Jerez de la Frontera
+920,5,Barañain
+921,5,Puebla de la Reina
+922,5,Benahadux
+923,5,Villamesías
+924,5,Ortuella
+925,5,Ferreruela de Huerva
+926,5,Villanueva del Aceral
+927,5,Villarta-Quintana
+928,5,Bordils
+929,5,Parzonería de Encia (Estado)
+930,5,Murillo el Fruto
+931,5,Peralejos de Abajo
+932,5,Torrente de Cinca
+933,5,Luquin
+934,5,Herguijuela
+935,5,Ullà
+936,5,Domingo Pérez
+937,5,Maracena
+938,5,Poveda de las Cintas
+939,5,Sant Martí Sesgueioles
+940,5,Loeches
+941,5,Berceruelo
+942,5,Cañada Rosal
+943,5,Vilafant
+944,5,Jurisdicción Macomunada de El Boalo y Manzanares el Real (El Chaparral)
+945,5,Almohaja
+946,5,Ripollet
+947,5,Manciles
+948,5,Vilaverd
+949,5,Cieza
+950,5,Almudaina
+951,5,Valverde de Mérida
+952,5,Alconchel de Ariza
+953,5,Maspujols
+954,5,Juià
+955,5,El Pla del Penedès
+956,5,Burguillos del Cerro
+957,5,Grajera
+958,5,Ventosa del Río Almar
+959,5,San Salvador
+960,5,La Vilella Alta
+961,5,Velilla
+962,5,Escariche
+963,5,Brahojos de Medina
+964,5,Caleruela
+965,5,San Pedro de Mérida
+966,5,San Miguel de Bernuy
+967,5,Ariza
+968,5,Valtorres
+969,5,Valtierra
+970,5,Cubo de Benavente
+971,5,Murillo de Río Leza
+972,5,San Andrés del Rey
+973,5,Lloret de Vistalegre
+974,5,Cobeja
+975,5,Casas de Guijarro
+976,5,Anguciana
+977,5,Morata de Jalón
+978,5,Miravete de la Sierra
+979,5,Alaquàs
+980,5,Beas de Granada
+981,5,La Zubia
+982,5,Casaseca de las Chanas
+983,5,Grisaleña
+984,5,Aiguafreda
+985,5,Sant Joan de Mollet
+986,5,San Mamés de Campos
+987,5,Farrera
+988,5,Uterga
+989,5,Santiuste
+990,5,Valdilecha
+991,5,Almegíjar
+992,5,San Miguel del Robledo
+993,5,Prullans
+994,5,Facero Montejurra de Azqueta y Urbiola (Igúzquiza) y Villamayor de Monjardín
+995,5,Valverde-Enrique
+996,5,La Puebla de Arganzón
+997,5,Godelleta
+998,5,Valdegrudas
+999,5,Almochuel
+1000,5,Luna
+1001,5,Clarés de Ribota
+3852,5,Carrascosa de Abajo
+3853,5,Calvos de Randín
+3854,5,Villanueva de Alcardete
+3855,5,San Javier
+3856,5,La Vellés
+3857,5,Vilaür
+3858,5,Torrijas
+3859,5,Sant Fost de Campsentelles
+3860,5,Sotresgudo
+3861,5,Pozán de Vero
+3862,5,Belmonte de San José
+3863,5,Alcúdia
+3864,5,Valdeltormo
+3865,5,Soneja
+3866,5,Lalueza
+3867,5,Ciruelas
+3868,5,La Granjuela
+3869,5,Argentona
+3870,5,Zuheros
+3871,5,Torre-serona
+3872,5,Lubián
+3873,5,Murillo el Cuende
+3874,5,Grandes y San Martín
+3875,5,Cabezuela
+3876,5,Hoyos del Espino
+3877,5,Ribera de Arriba
+3878,5,Larraul
+3879,5,A Bola
+3880,5,Cayuela
+3881,5,Candeleda
+3882,5,Villacidaler
+3883,5,Cabanas
+3884,5,Villaverde de Medina
+3885,5,Santa Eulàlia de Riuprimer
+3886,5,Ibros
+3887,5,Castroverde
+3888,5,Alicún
+3889,5,Morata de Jiloca
+3890,5,Menasalbas
+3891,5,Garcibuey
+3892,5,San Pedro del Arroyo
+3893,5,Vélez-Rubio
+3894,5,Sotodosos
+3895,5,Matarrubia
+3896,5,Fombuena
+3897,5,Fontanilles
+3898,5,Villagonzalo Pedernales
+3899,5,Membrilla
+3900,5,Ciguñuela
+3901,5,Soto en Cameros
+3902,5,Viñegra de Moraña
+3903,5,Puebla de Albortón
+3904,5,Villanueva de Jiloca
+3905,5,Montealegre del Castillo
+3906,5,Sorbas
+3907,5,Taberno
+3908,5,Aljaraque
+3909,5,Enguídanos
+3910,5,Torre en Cameros
+3911,5,Orbita
+3912,5,Santander
+3913,5,Simancas
+3914,5,L'Espluga de Francolí| Espluga de Francolí
+3915,5,Cambados
+3916,5,Bell-lloc d'Urgell
+3917,5,Zas
+3918,5,Santa María de Sando
+3919,5,Cañada de Calatrava
+3920,5,Navalonguilla
+3921,5,Peñalba de Ávila
+3922,5,Villoruela
+3923,5,Verea
+3924,5,Macotera
+3925,5,Garciaz
+3926,5,Valle de Santibáñez
+3927,5,Matanza
+3928,5,Ibi
+3929,5,Seseña
+3930,5,Jaulín
+3931,5,La Sequera de Haza
+3932,5,Olivares de Duero
+3933,5,Zotes del Páramo
+3934,5,Blecua y Torres
+3935,5,Pedrafita do Cebreiro
+3936,5,Villaverde de Guareña
+3937,5,Quintanilla de Trigueros
+3938,5,Berrioplano
+3939,5,Castejón de Sos
+3940,5,Cerdanyola del Vallès
+3941,5,Rebollo
+3942,5,Barjas
+3943,5,Meaño
+3944,5,Zarautz
+3945,5,Corera
+3946,5,Tamajón
+3947,5,Berlanga
+3948,5,Peñacerrada-Urizaharra
+3949,5,Mariana
+3950,5,Villa de Mazo
+3951,5,Tabuenca
+3952,5,Esparreguera
+3953,5,Dios le Guarde
+3954,5,Villa del Campo
+3955,5,Valdearcos de la Vega
+3956,5,Manzanera
+3957,5,La Jonquera
+3958,5,Villanueva del Campillo
+3959,5,Alpanseque
+3960,5,Sierra de Luna
+3961,5,Torrecilla de la Jara
+3962,5,Salvaterra de Miño
+3963,5,Navarredondilla
+3964,5,Talamanca
+3965,5,Ultramort
+3966,5,Belvís de la Jara
+3967,5,Centenera de Andaluz
+3968,5,Vallesa de la Guareña
+3969,5,Facería 85
+3970,5,Calamonte
+3971,5,Villaverde-Mogina
+3972,5,Morentin
+3973,5,Muíños
+3974,5,Bocos de Duero
+3975,5,Alberic
+3976,5,La Cierva
+3977,5,Paracuellos
+3978,5,Mengíbar
+3979,5,Binissalem
+3980,5,Xunqueira de Ambía
+3981,5,Villalonso
+3982,5,El Pont de Suert
+3983,5,Calzada de Valdunciel
+3984,5,Herencia
+3985,5,Santa Cruz de la Zarza
+3986,5,Hontoria de Cerrato
+3987,5,Marratxí
+3988,5,Cuéllar
+3989,5,Cirat
+3990,5,Villanueva de las Manzanas
+3991,5,Used
+3992,5,Oroso
+3993,5,Piñel de Abajo
+3994,5,Santa María de Valverde
+3995,5,La Mata de los Olmos
+3996,5,Montoliu de Segarra
+3997,5,Vilanova de Arousa
+3998,5,Alcoleja
+3999,5,Titulcia
+4000,5,Pinseque
+4001,5,Loscos
+4002,5,Ezcároz
+4003,5,Peal de Becerro
+4004,5,Medina del Campo
+4005,5,Muñopedro
+4006,5,Ayerbe
+4007,5,Muñotello
+4009,5,Luzaide
+4010,5,Pancrudo
+6921,5,Junta de Traslaloma
+6922,5,Quintanar del Rey
+6923,5,Loma de Ucieza
+6925,5,Antillón
+6926,5,Alatoz
+6927,5,Valle de Oca
+6928,5,Lugros
+6929,5,Gomesende
+6930,5,Fombellida
+6931,5,Castroviejo
+6932,5,Cadreita
+6933,5,Benquerencia de la Serena
+6934,5,Grado
+6935,5,Alcolea de Tajo
+6936,5,Murias de Paredes
+6937,5,Adobes
+6938,5,El Hornillo
+6939,5,Mirandilla
+6940,5,Briviesca
+6941,5,Nigüella
+6942,5,Sant Fruitós de Bages
+6943,5,Villores
+6944,5,Palenciana
+6945,5,Arcas del Villar
+6946,5,Huerta
+6947,5,Valdepeñas
+6948,5,Pantoja
+6949,5,Sayatón
+6950,5,Urdazubi
+6951,5,Talarrubias
+6952,5,La Vid y Barrios
+6953,5,Briñas
+6954,5,La Robla
+6955,5,Antigüedad
+6956,5,Flores de Ávila
+6957,5,Granyanella
+6958,5,Oristà
+6959,5,Alcocer de Planes
+6960,5,El Vendrell
+6961,5,Vitoria-Gasteiz
+6962,5,Leintz-Gatzaga
+6963,5,Coreses
+6964,5,Alarba
+6965,5,Caldearenas
+6966,5,Hontoba
+6967,5,Sitges
+6968,5,Olombrada
+6969,5,Orellana de la Sierra
+6970,5,O Bolo
+6971,5,Falces
+6972,5,Cimballa
+6973,5,Galera
+6974,5,Benabarre
+6975,5,Quintanilla Vivar
+6976,5,Tornabous
+6977,5,Onil
+6978,5,Redecilla del Campo
+6979,5,Barracas
+6980,5,Villa del Rey
+6981,5,Palas de Rei
+6982,5,Litago
+6983,5,Garrucha
+6984,5,Conesa
+6985,5,Amoeiro
+6986,5,Arantzazu
+6987,5,Albornos
+6988,5,Carabantes
+6989,5,Renieblas
+6990,5,Manlleu
+6991,5,Algámitas
+6992,5,Famorca
+6993,5,Osuna
+6994,5,Villafranca del Bierzo
+6995,5,Las Regueras
+6996,5,El Campello
+6997,5,Camprovín
+6998,5,Yécora
+6999,5,Corte de Peleas
+7000,5,Matabuena
+7001,5,Cuevas de Provanco
+7002,5,San Cristóbal de Segovia
+7003,5,Forua
+7004,5,Laguna de Cameros
+7005,5,Agón
+7006,5,Pelayos del Arroyo
+7007,5,Gaintza
+7008,5,Alentisque
+7009,5,Sant Just Desvern
+7010,5,La Losa
+7011,5,Ribafrecha
+7013,5,Corella
+7014,5,Alcanadre
+7015,5,Soraluze
+7016,5,Lucainena de las Torres
+7017,5,Montclar
+7018,5,El Cubo de Don Sancho
+7019,5,Pazuengos
+7020,5,La Toba
+7021,5,Carcaboso
+7022,5,Arjona
+7023,5,A Teixeira
+7024,5,Granátula de Calatrava
+7025,5,Benadalid
+7026,5,Calaceite
+7027,5,Cilleruelo de San Mamés
+7028,5,Atzeneta del Maestrat
+7029,5,Fuentes de León
+7030,5,Aldea Real
+7031,5,L'Argentera
+7032,5,Abaurrepea
+7033,5,Gejuelo del Barro
+7034,5,San Esteban de la Sierra
+7035,5,Caparroso
+7036,5,Capçanes
+7037,5,Añover de Tajo
+7038,5,Villamalur
+7039,5,Valderrebollo
+7040,5,Brañosera
+7041,5,Fines
+7042,5,El Bodón
+7043,5,El Cabaco
+7044,5,Los Montesinos
+7045,5,Ayamonte
+7046,5,Mirambel
+7047,5,Alcolea del Pinar
+7048,5,Palazuelos de la Sierra
+7049,5,Guntín
+7050,5,El Milà
+7051,5,Valdearenas
+7052,5,Torralba del Pinar
+7053,5,Pau
+7054,5,Pilas
+7055,5,Cardeñosa de Volpejera
+7056,5,Turre
+7057,5,Alaraz
+7058,5,Anquela del Ducado
+7059,5,Mozárbez
+7060,5,Uztárroz
+2263,5,Algar
+2264,5,Lapoblación
+2265,5,Pineda de Mar
+2266,5,Sant Joan
+2267,5,Puebla de Arenoso
+2268,5,Algemesí
+2269,5,Calicasas
+2270,5,Pescueza
+2271,5,Sant Adrià de Besòs
+2272,5,Hazas de Cesto
+2273,5,Espiel
+2274,5,Los Molares
+2275,5,Narros del Puerto
+2276,5,Muras
+2277,5,Villovieco
+2278,5,Fuentenebro
+2279,5,Illueca
+2280,5,Mogente
+2281,5,Pajares de la Laguna
+2282,5,Almoradí
+2283,5,Altable
+2284,5,Villarrodrigo
+2285,5,Herreruela
+2286,5,Fortià
+2287,5,Castilblanco de los Arroyos
+2288,5,Puerto Castilla
+5000,5,Valencia de Alcántara
+5001,5,Villardefrades
+5002,5,Cirujales del Río
+5003,5,Osera de Ebro
+5004,5,El Losar del Barco
+5005,5,San Adrián de Juarros
+5006,5,Vilamarín
+5007,5,Torrecilla de los Ángeles
+5008,5,Ceinos de Campos
+5009,5,Sartajada
+5010,5,Villaflores
+5011,5,Caniles
+5012,5,Castilfrío de la Sierra
+5013,5,Cepeda la Mora
+5014,5,San Agustín del Guadalix
+5015,5,Calonge de Segarra
+5016,5,Nueva Carteya
+5017,5,Beleña
+5018,5,Talavera
+5019,5,Los Llanos de Tormes
+5020,5,Benasal
+5021,5,Las Ventas de San Julián
+5022,5,Saldaña
+5023,5,Sant Martí d'Albars
+5024,5,Tolosa
+5025,5,Labuerda
+5026,5,Vianos
+5027,5,Millana
+5028,5,Valdelacalzada
+5029,5,Real de Gandía
+5030,5,Azuqueca de Henares
+5031,5,Ribaforada
+5032,5,Llimiana
+5033,5,Lana
+5034,5,Golmayo
+5035,5,Catadau
+5036,5,Aceituna
+5037,5,Baraona
+5038,5,Siruela
+5039,5,Talamanca de Jarama
+5040,5,Casas de Reina
+5041,5,Cervera del Río Alhama
+5042,5,Abarán
+5043,5,Vilanova del Camí
+5044,5,Jaramillo de la Fuente
+5045,5,Gata
+5046,5,Valdemora
+5047,5,Jarque de la Val
+5048,5,Los Altos
+5049,5,Tardelcuende
+5050,5,Castell de l'Areny
+5051,5,Aín
+5052,5,Cella
+5053,5,Cañamares
+5054,5,Noceda del Bierzo
+5055,5,Bescanó
+5056,5,Olius
+5057,5,Figuerola del Camp
+5058,5,Mendigorría
+5059,5,Sotillo de la Ribera
+5060,5,Muro
+5061,5,Aribe
+5062,5,Albolote
+5063,5,Vilardevós
+5064,5,Arce
+5065,5,Muriel
+5066,5,Vilagarcía de Arousa
+5067,5,Cogolludo
+5068,5,Benicarló
+5069,5,Peraleda de San Román
+5070,5,Sotosalbos
+5071,5,Sanlúcar de Guadiana
+5072,5,Santa Inés
+5073,5,Algimia de Alfara
+5074,5,Marrupe
+5075,5,Torres de la Alameda
+5076,5,Narros de Saldueña
+5077,5,Castillazuelo
+5078,5,Tórtola de Henares
+5079,5,Pinofranqueado
+5080,5,Cogeces de Íscar
+5081,5,Alcántara
+5082,5,El Pla de Santa Maria
+5083,5,Rianxo
+5084,5,Sant Joan les Fonts
+5085,5,Fuentes de Ebro
+5086,5,Miedes de Atienza
+5087,5,Villavaliente
+5088,5,Gallipienzo
+5089,5,Dumbría
+5090,5,Mazarrón
+5091,5,Espronceda
+5092,5,Albarreal de Tajo
+5093,5,Sant Pere de Riudebitlles
+5094,5,Agost
+5095,5,Gatika
+5096,5,Valdevimbre
+5097,5,Peraleda de la Mata
+5098,5,Urrácal
+5099,5,El Maíllo
+5100,5,Benasau
+5101,5,Topas
+5102,5,Castellbell i el Vilar
+5103,5,Villamanín
+5104,5,Semillas
+5105,5,Encinasola de los Comendadores
+5106,5,Hinojosa de Duero
+5107,5,Sarral
+5108,5,Gondomar
+5109,5,Irurtzun
+5110,5,Pantón
+5111,5,Espejo
+5112,5,Carme
+5113,5,Gilet
+5114,5,Villarejo del Valle
+5115,5,Cabezarados
+5116,5,Mohedas de la Jara
+5117,5,Valdenuño Fernández
+5118,5,Sant Esteve Sesrovires
+5119,5,El Cuervo
+5120,5,Galaroza
+5121,5,Valverde del Camino
+5122,5,La Puebla de Valverde
+5123,5,El Pobo
+5124,5,Montmaneu
+5125,5,Mora de Rubielos
+5126,5,Santiurde de Toranzo
+5127,5,Bonete
+5128,5,Aguilar de la Frontera
+5129,5,Moraleda de Zafayona
+5130,5,Las Ventas de Retamosa
+5131,5,La Puebla de Alfindén
+7384,5,Canillas de Albaida
+7385,5,Cubillas de Cerrato
+7386,5,Albocàsser
+7387,5,Pajares de los Oteros
+7388,5,Sant Antoni de Portmany
+7389,5,Alcalá de los Gazules
+7390,5,Los Santos de la Humosa
+7391,5,Sant Hilari Sacalm
+7392,5,La Rinconada de la Sierra
+7393,5,Florida de Liébana
+7394,5,Torreperogil
+7395,5,Fresneda de Cuéllar
+7396,5,Molins de Rei
+7397,5,Olesa de Bonesvalls
+7398,5,Oliva de Plasencia
+7399,5,Guadasequies
+7400,5,Foz
+7401,5,Cabezabellosa de la Calzada
+7402,5,Facería 86
+7403,5,Muñana
+7404,5,Castellet i la Gornal
+7405,5,Calvià
+7406,5,San Cebrián de Mudá
+3221,5,Prats de Lluçanès
+3222,5,Puertomingalvo
+3223,5,Biota
+3224,5,Terradillos de Esgueva
+3225,5,Aldeanueva de la Serrezuela
+3226,5,Azuara
+3227,5,La Vall d'Alcalà
+3228,5,Pontedeume
+3229,5,Celada del Camino
+3230,5,Alpeñés
+3231,5,Rota
+3232,5,Valjunquera
+3233,5,Sant Vicenç de Torelló
+3234,5,Cedillo
+3235,5,Garrovillas de Alconétar
+3236,5,Saucelle
+3237,5,Olot
+3238,5,Arrieta
+3240,5,María
+3241,5,Padul
+3242,5,Beniatjar
+3243,5,Boal
+3244,5,Loriguilla
+3245,5,Santa Coloma
+3246,5,Villanueva del Conde
+3247,5,La Serna
+3248,5,Berja
+3249,5,San Esteban de los Patos
+3250,5,Orgaz
+3251,5,Cabra
+3252,5,Pineda de la Sierra
+3253,5,Aldaia
+3254,5,Espadañedo
+3255,5,Castelló de Rugat
+3256,5,Oleiros
+3257,5,Ezprogui
+3258,5,Batea
+3259,5,Ausejo de la Sierra
+3260,5,Torre Val de San Pedro
+3261,5,Elgeta
+3262,5,Carucedo
+3263,5,Vegas de Matute
+3264,5,Bayubas de Arriba
+3265,5,Nevada
+3266,5,Sondika
+3267,5,Campanet
+3268,5,Baralla
+3269,5,Talayuelas
+3270,5,Maials
+3271,5,Cabuérniga
+3272,5,Tresjuncos
+3273,5,Tresviso
+3274,5,Arguisuelas
+3275,5,Paredes de Nava
+3276,5,Roperuelos del Páramo
+3277,5,Romangordo
+3278,5,Villamontán de la Valduerna
+3279,5,Sotillo de las Palomas
+3280,5,Sant Jaume de Llierca
+3281,5,María de Huerva
+3282,5,Eslava
+3283,5,Montferri
+3284,5,Uceda
+3285,5,Arrasate
+3286,5,Artenara
+3287,5,Chodes
+3288,5,Dehesa de Romanos
+3289,5,Revilla del Campo
+3290,5,Cava
+3291,5,Carrícola
+3292,5,Castroponce
+3293,5,Tragacete
+3294,5,Don Benito
+3295,5,Rebollar
+3296,5,Begíjar
+3297,5,Calzada de Calatrava
+3298,5,Alquézar
+3299,5,Abizanda
+3300,5,La Fregeneda
+3301,5,Samboal
+3302,5,Pereruela
+3303,5,Gascueña
+3304,5,Tarancón
+3305,5,San Pelayo de Guareña
+3306,5,Cubelles
+3307,5,Iznatoraf
+3308,5,Carboneras de Guadazaón
+3309,5,Guixers
+3310,5,Villar de Olalla
+3311,5,Los Molinos
+3312,5,Lorca
+3313,5,Llamas de la Ribera
+3314,5,San García de Ingelmos
+3315,5,Valsequillo
+3316,5,Tolva
+3317,5,Castillejo de Mesleón
+3318,5,San Juan de la Nava
+3319,5,Alcubierre
+3320,5,Montiel
+3321,5,Lobón
+3322,5,Santas Martas
+3323,5,Berrocal de Salvatierra
+3324,5,Cardenete
+3325,5,Valsequillo de Gran Canaria
+3326,5,Sabiñánigo
+3327,5,Chilches
+3328,5,Puebla de San Miguel
+3329,5,Ponteareas
+3330,5,Bretó
+3331,5,Alberuela de Tubo
+3332,5,Siete Iglesias de Trabancos
+3333,5,Riudarenes
+3334,5,La Salzadella
+3335,5,Villamanrique de la Condesa
+3336,5,Pedreguer
+3337,5,Morella
+3338,5,Vallfogona de Balaguer
+3339,5,Villarmentero de Esgueva
+3340,5,San Pablo de los Montes
+3341,5,Villazanzo de Valderaduey
+3342,5,Santa Cristina de la Polvorosa
+3343,5,Zarza-Capilla
+3344,5,El Madroño
+3345,5,Amusco
+3346,5,Bayubas de Abajo
+3347,5,Preixens
+3348,5,L'Ampolla
+3349,5,Cornudella de Montsant
+3350,5,Portas
+3351,5,Villaluenga del Rosario
+3352,5,Castro del Río
+3353,5,Villanueva de Perales
+3354,5,Rabé de las Calzadas
+3355,5,Ortigueira
+3356,5,Añorbe
+3357,5,Santa María del Campo Rus
+3358,5,Segurilla
+3359,5,Hoz y Costean
+3360,5,Sisante
+3361,5,Cidamón
+3362,5,Cúllar
+3363,5,Vacarisses
+3364,5,Ricote
+3365,5,Escarabajosa de Cabezas
+3366,5,Bigues i Riells
+3367,5,Pinilla de Toro
+3368,5,Gandesa
+3369,5,Muskiz
+3370,5,Villoslada de Cameros
+3371,5,Aldea del Rey
+3372,5,Malpica de Tajo
+3373,5,San Pedro
+3374,5,Casaseca de Campeán
+3375,5,Prados Redondos
+3376,5,Reinoso de Cerrato
+3377,5,Tardáguila
+3378,5,Gómara
+3379,5,Celrà
+6251,5,La Unión de Campos
+6253,5,Barbadás
+6254,5,Montalbán
+6255,5,Monterrubio de Armuña
+6256,5,Gargantilla del Lozoya y Pinilla de Buitrago
+6257,5,Villalcampo
+6258,5,Anglès
+6259,5,Lupiana
+6260,5,Lemoa
+6261,5,Perales
+6262,5,Igualeja
+6263,5,Huelves
+6264,5,Chagarcía Medianero
+6265,5,Balaguer
+6266,5,La Roda de Andalucía
+6267,5,Tosos
+6268,5,Melilla
+6269,5,Crespià
+6270,5,Las Berlanas
+6271,5,Gójar
+6272,5,Castillo-Albaráñez
+6273,5,Báscones de Ojeda
+6274,5,Villasrubias
+6275,5,Hontanaya
+6277,5,Sant Llorenç des Cardassar
+6278,5,Arauzo de Salce
+6279,5,Montesclaros
+6280,5,Torremanzanas
+6281,5,Bellvís
+6282,5,Parets del Vallès
+6283,5,Pinarnegrillo
+6284,5,Campelles
+6285,5,Menàrguens
+6286,5,Montalbán de Córdoba
+6287,5,Brozas
+6288,5,Tierga
+6289,5,Beas de Segura
+6290,5,Castrillón
+6291,5,San Andrés y Sauces
+6292,5,La Maya
+6293,5,Donostia-San Sebastián
+6294,5,Valsalabroso
+6295,5,Villalba del Alcor
+6296,5,Rafelguaraf
+6297,5,Cehegín
+6298,5,Cózar
+6299,5,Villar de Argañán
+6300,5,Valle de la Serena
+6301,5,Vidayanes
+6302,5,Aguilar del Río Alhama
+6303,5,Villalón de Campos
+6304,5,Coín
+6305,5,Lleida
+6306,5,La Almunia de Doña Godina
+6307,5,Madrigal de la Vera
+6308,5,Ayegui
+6309,5,Calatayud
+6310,5,Puente La Reina de Jaca
+6311,5,Gallifa
+6312,5,Santa Eugènia de Berga
+6313,5,Bliecos
+6314,5,Montornès de Segarra
+6315,5,Las Herencias
+6316,5,Torremocha del Pinar
+6317,5,Beasain
+6318,5,Villanova
+6319,5,Tamames
+6320,5,Guirguillano
+6321,5,Noez
+6322,5,Castuera
+6323,5,Liérganes
+6324,5,Herrería
+6325,5,Campillo de Ranas
+6326,5,Villarrubio
+6327,5,Arroba de los Montes
+6328,5,Sarroca de Lleida
+6329,5,Riotuerto
+6330,5,Santa Fe
+6331,5,Peñíscola
+6332,5,Saceruela
+6333,5,Alcalá de Moncayo
+6334,5,Sahagún
+6335,5,Encinas Reales
+6336,5,Torreblacos
+6337,5,Navajún
+6338,5,Benaoján
+6339,5,Rajadell
+6340,5,Tabernas
+6341,5,Capillas
+6342,5,Vega de Tirados
+6343,5,Artesa de Lleida
+6344,5,Santacara
+6345,5,Argañín
+6346,5,Marchal
+6347,5,Velilla del Río Carrión
+6348,5,Fontihoyuelo
+6349,5,Torralba de los Sisones
+6350,5,Villaturiel
+6351,5,Zarapicos
+6352,5,Nava
+6353,5,Sanet y Negrals
+6354,5,Burgohondo
+6355,5,Chimeneas
+6356,5,Orea
+6357,5,Gradefes
+6358,5,Los Blázque
+6359,5,Campanario
+6360,5,Frandovínez
+6361,5,Palmera
+6362,5,Bello
+6363,5,Molacillos
+6364,5,Areatza
+6365,5,O Incio
+6366,5,La Morera de Montsant
+6367,5,Lumpiaque
+6368,5,Calasparra
+6369,5,Colmenar de Montemayor
+6370,5,Hinojosa del Duque
+6371,5,Fuentes de Magaña
+6372,5,Vega de San Mateo
+6373,5,Almócita
+6374,5,Órgiva
+6375,5,Vilanova de Segrià
+6376,5,Mutiloa
+6377,5,Erustes
+6378,5,Cañaveras
+6379,5,Zierbena
+6380,5,Mont-ras
+6381,5,Reíllo
+6382,5,Cospeito
+6383,5,Saldías
+6384,5,Cañete
+6385,5,Tahal
+6386,5,Illescas
+6387,5,Valverde de Júcar
+6388,5,Ormaiztegi
+6389,5,Anento
+6390,5,Vejer de la Frontera
+6391,5,Tegueste
+6392,5,El Peral
+6393,5,Muñosancho
+6394,5,Alpicat
+6395,5,Casillas de Flores
+6396,5,Canalejas del Arroyo
+6397,5,Aranjuez
+6398,5,Abáigar
+6399,5,Viandar de la Vera
+6400,5,Fontanarejo
+6401,5,Oronz
+6402,5,La Rinconada
+6403,5,Alcalá del Valle
+6404,5,Ledanca
+6405,5,Villaviudas
+6406,5,Cedrillas
+6407,5,Castilnuevo
+6408,5,Cocentaina
+6409,5,Redecilla del Camino
+6410,5,La Guardia
+6411,5,Puebla de Alcocer
+6412,5,Cualedro
+6413,5,Laluenga
+2289,5,Bermeo
+2290,5,Villar del Cobo
+2291,5,Pizarral
+2292,5,Villatoya
+2293,5,Senés de Alcubierre
+2294,5,Almazul
+2295,5,El Redal
+2296,5,Torrecillas de la Tiesa
+2297,5,Valleseco
+2298,5,Irun
+2299,5,Torrox
+2300,5,Torrejón el Rubio
+2301,5,Mogán
+2302,5,Tubilla del Lago
+2304,5,Aliaga
+2305,5,Santa María del Campo
+2306,5,Artea
+2307,5,Fariza
+2308,5,Buñuel
+2309,5,Pamplona
+2310,5,El Pedroso de la Armuña
+2311,5,Fuenmayor
+2312,5,A Arnoia
+2313,5,Llano de Bureba
+2314,5,Pedrosa del Príncipe
+2315,5,Aldeasoña
+2316,5,Tiebas-Muruarte de Reta
+2317,5,Villares de Jadraque
+2318,5,Lucillo
+2319,5,Villaescusa
+2320,5,Santovenia de Pisuerga
+2321,5,Villaralbo
+2322,5,Socovos
+2323,5,Colomers
+2324,5,Lanzuela
+2325,5,Santa Marina del Rey
+2326,5,La Peraleja
+2327,5,Nafría de Ucero
+2328,5,Santisteban del Puerto
+2329,5,Igualada
+2330,5,Liétor
+2331,5,Villa de Ves
+2332,5,Brihuega
+2333,5,Valdeolivas
+2334,5,Les Oluges
+2335,5,Sanchorreja
+2336,5,Villalba de los Barros
+2337,5,Sierro
+2338,5,Santa Cruz del Comercio
+2339,5,Aiguaviva
+2340,5,Puente la Reina
+2341,5,Burlada
+2342,5,Gordexola
+2343,5,San Miguel de Salinas
+2344,5,Priaranza del Bierzo
+2345,5,Llutxent
+2346,5,Villamiel de Toledo
+2347,5,Santibáñez de Béjar
+2348,5,Los Navalucillos
+2349,5,Espera
+2350,5,Alcohujate
+2351,5,Torrecilla de la Torre
+2352,5,Castaño del Robledo
+2353,5,Zamarra
+2354,5,Bueu
+2355,5,Espartinas
+2356,5,Puigcerdà
+2357,5,Fuentebureba
+2358,5,Lluçà
+2359,5,Villafranca
+2360,5,Villa del Prado
+2361,5,Peralta
+2362,5,Serrada
+2363,5,La Palma d'Ebre
+2364,5,El Milano
+2365,5,Villalba de la Sierra
+2366,5,A Baña
+2367,5,Fuensalida
+2368,5,Alfoz de Santa Gadea
+2369,5,Llubí
+2370,5,Miranda de Ebro
+2371,5,Campillos-Paravientos
+2372,5,Villas de la Ventosa
+2373,5,Casas del Puerto
+2374,5,Tamarite de Litera
+2375,5,Facería de Anezcar (Ansoain) y Sarasa (Iza)
+2376,5,Legazpi
+2377,5,Gallegos de Sobrinos
+2378,5,Blasconuño de Matacabras
+2379,5,Casas de Haro
+2380,5,Santoyo
+2381,5,Miralcamp
+2382,5,Dos Aguas
+2383,5,Las Quintanillas
+2384,5,Gijón
+2385,5,Sinarcas
+2386,5,Calzadilla de Tera
+2387,5,Pueblica de Valverde
+2388,5,Novés
+2389,5,Polícar
+2390,5,Pinarejos
+2391,5,Válor
+2392,5,Tarazona
+2393,5,Padiernos
+2394,5,Horche
+2395,5,Trévago
+2396,5,Soliedra
+2397,5,Espolla
+2398,5,Ojacastro
+2399,5,Anoeta
+2400,5,Adahuesca
+2401,5,Oropesa del Mar
+2402,5,Villadangos del Páramo
+2403,5,Porto
+2404,5,Pozuelo del Páramo
+2405,5,El Cerro
+2406,5,Valdunquillo
+2407,5,Yebra
+2408,5,Güejar Sierra
+2409,5,Monterde de Albarracín
+2410,5,Moraleja de Matacabras
+2411,5,Palencia de Negrilla
+2412,5,Monteagudo de las Vicarías
+2413,5,San Juan de Plan
+2414,5,San Miguel del Cinca
+2415,5,Cercs
+2416,5,Parcent
+2417,5,Cotobade
+2418,5,Almenara de Tormes
+2419,5,Gavet de la Conca
+2420,5,Torremocha de Jiloca
+2421,5,Rubielos de Mora
+2422,5,Cañada
+4652,5,Palacios de Riopisuerga
+4653,5,Foradada del Toscar
+4654,5,Lújar
+4655,5,Pontós
+4656,5,Silla
+4657,5,Abejar
+4658,5,Andratx
+4659,5,Rubiá
+4660,5,Espot
+4661,5,Torrent
+4662,5,Mollerussa
+4663,5,Poyales del Hoyo
+4664,5,Felanitx
+4665,5,Viator
+4666,5,Santibáñez el Bajo
+4667,5,Abegondo
+4668,5,Villardondiego
+4669,5,Borredà
+4670,5,Los Cerralbos
+4671,5,Alcalá del Río
+4672,5,Perafita
+4673,5,Horcajo Medianero
+4674,5,Higueruelas
+4675,5,Tías
+4676,5,Mota de Altarejos
+4677,5,Iglesias
+4678,5,Rosselló
+5613,5,Valdeavellano de Tera
+5614,5,Monesterio
+5615,5,Molina de Aragón
+5616,5,Cendejas de Enmedio
+5617,5,La Cabrera
+5618,5,Esparragosa de Lares
+5619,5,Arcos de la Sierra
+5620,5,Olvan
+5621,5,Ráfales
+5622,5,Nepas
+5623,5,Muros
+5624,5,Torvizcón
+5625,5,Pol
+5626,5,Carranque
+5627,5,Mota del Marqués
+5628,5,Moraleja
+5629,5,Bornos
+5630,5,Torrico
+5631,5,Castelló d'Empúries
+5632,5,L'Ametlla de Mar
+5633,5,Mara
+5634,5,Torija
+5635,5,Rena
+5636,5,Valdelagua del Cerro
+5637,5,Santa Eulalia del Río
+5638,5,Ahigal de los Aceiteros
+5639,5,Cerezal de Peñahorcada
+5640,5,Riocabado
+5641,5,Tortellà
+5642,5,Ugao-Miraballes
+5643,5,Villarejo de Montalbán
+5644,5,Fuenterrebollo
+5645,5,Miedes de Aragón
+5646,5,Vivel del Río Martín
+5647,5,Santa Ana de Pusa
+5648,5,Nebreda
+5649,5,Vall de Cardós
+5650,5,Ajalvir
+5651,5,Balones
+5652,5,Puig
+5653,5,Izalzu
+5654,5,Monsagro
+5655,5,Urkabustaiz
+5656,5,Pozorrubielos de la Mancha
+5657,5,Bustares
+5658,5,Aldehuela de Periáñez
+5659,5,Chera
+5660,5,Torrelavit
+5661,5,Hospital de Órbigo
+5662,5,Cervià de Ter
+5663,5,El Masroig
+5664,5,Ergoiena
+5665,5,Santibáñez del Val
+5666,5,Puebla de Sanabria
+5667,5,Sarrià de Ter
+5668,5,Solana de los Barros
+5669,5,La Iruela
+5670,5,Quintana y Congosto
+5671,5,Piloña
+5672,5,Valdezate
+5673,5,Bermillo de Sayago
+5674,5,Burela
+5675,5,Cenizate
+5676,5,Minaya
+5677,5,Herguijuela del Campo
+5678,5,Albatera
+5679,5,Almonacid de Zorita
+5680,5,Villabáñez
+5681,5,Villazopeque
+5682,5,Riaza
+5683,5,Son Servera
+5684,5,Llavorsí
+5685,5,Cieza
+5686,5,Fuentelsaz de Soria
+5687,5,Pacs del Penedès
+5688,5,Checa
+5689,5,Alcalà de Xivert
+5690,5,Trabadelo
+5691,5,A Illa de Arousa
+5692,5,Castejón
+5693,5,Tobarra
+5694,5,Morales del Vino
+5695,5,Lekeitio
+5696,5,Almedíjar
+5697,5,Villodrigo
+5698,5,Cabañas de Polendos
+5699,5,Vilaboa
+5700,5,Villalube
+5701,5,Montalvos
+5702,5,Gádor
+5703,5,Sotés
+5704,5,Bacares
+5705,5,Lahiguera
+5706,5,Quintanar de la Orden
+5707,5,Aldeadávila de la Ribera
+5708,5,Huertahernando
+5709,5,Alar del Rey
+5710,5,Vilariño de Conso
+5711,5,Valle de Trápaga-Trapagaran
+5712,5,Roda de Eresma
+5713,5,Padilla de Arriba
+5714,5,Velefique
+5715,5,Lazkao
+5716,5,Montizón
+5717,5,Marchena
+5718,5,Cantalpino
+5719,5,Puçol
+5720,5,Árchez
+5721,5,Fresno de Cantespino
+5722,5,Merindad de Río Ubierna
+5723,5,Torregrossa
+5724,5,Aldeire
+5725,5,Montblanc
+5726,5,Herrera
+5727,5,La Molsosa
+5728,5,Bailén
+5729,5,Sabadell
+5730,5,Darnius
+5731,5,Santa Olalla
+5732,5,Ataquines
+5733,5,Ames
+5734,5,Los Alcázares
+5735,5,Montemolín
+5736,5,Villamediana
+5737,5,Allín
+5738,5,Ituero y Lama
+5739,5,San Cristóbal de La Laguna
+5740,5,Agrón
+5741,5,Castielfabib
+5742,5,San Miguel de Corneja
+5743,5,Fuengirola
+5744,5,Mesegar de Tajo
+5745,5,Villar de Cañas
+5746,5,Castrillo de Duero
+5747,5,Cabrejas del Pinar
+5748,5,Olías del Rey
+5749,5,El Parral
+5750,5,Noja
+5751,5,Campo de San Pedro
+5752,5,Corbera
+5753,5,Sant Joan de Vilatorrada
+5754,5,Viver
+5755,5,Las Veguillas
+5756,5,Ainzón
+5757,5,Carmonita
+5758,5,Laguardia
+5759,5,Hermandad de Campoo de Suso
+5760,5,Meco
+5761,5,Mungai
+5762,5,San Emiliano
+5763,5,Dima
+5764,5,Ledaña
+5765,5,Marjaliza
+5766,5,Mainar
+5767,5,San Nicolás de Tolentino
+5768,5,San Fulgencio
+5769,5,Rus
+5770,5,Urrea de Gaén
+5771,5,Santiago-Pontones
+5772,5,Braojos
+5773,5,Tremedal de Tormes
+8661,5,Benafer
+8662,5,Esporles
+8663,5,Fuentemolinos
+8664,5,Valencia del Mombuey
+8665,5,Yunquera de Henares
+8666,5,Cabrales
+8667,5,Asín
+8668,5,Caleruega
+8669,5,Horcajuelo de la Sierra
+8670,5,Paderne de Allariz
+8671,5,Manzaneda
+8672,5,Sant Antoni de Vilamajor
+8673,5,Alconaba
+8674,5,Majadahonda
+8675,5,Santa Maria de Corcó
+8676,5,La Llacuna
+8677,5,Teulada
+8678,5,La Peña
+8679,5,Begur
+8680,5,Renau
+8681,5,Yanguas
+8682,5,Sariñena
+8683,5,Fuente Álamo de Murcia
+8684,5,Fuente-Álamo
+8686,5,Recuerda
+8687,5,Solsona
+8688,5,Barbolla
+8689,5,Villaseca de Arciel
+8690,5,Mataró
+8691,5,Albelda de Iregua
+8692,5,Boada
+8693,5,As Pontes de García Rodríguez
+8694,5,Altzo
+8695,5,Campillos
+8696,5,Marín
+8697,5,Magacela
+8698,5,Ses Salines
+8699,5,Sotillo de la Adrada
+8700,5,Olmillos de Castro
+8701,5,Gálvez
+8702,5,Portugalete
+8703,5,Sandiás
+8704,5,El Carpio de Tajo
+8705,5,Huélago
+8706,5,Palacios de la Valduerna
+8707,5,Cigales
+8708,5,Barcones
+8709,5,Otos
+8710,5,Ambel
+8711,5,Porcuna
+8712,5,Premià de Mar
+8713,5,Monasterio
+8714,5,La Lapa
+8715,5,Los Santos
+8716,5,Carrizo
+8717,5,Barcelona
+8718,5,Hurtumpascual
+8719,5,Viana
+8720,5,Potríes
+8721,5,Arraia-Maeztu
+8722,5,O Valadouro
+8723,5,Matillas
+8724,5,Muntanyola
+8725,5,Arbolí
+8726,5,Unciti
+8727,5,Sella
+8728,5,Santa Eulalia de Oscos
+8729,5,Valle de Santa Ana
+8730,5,Bagüés
+8731,5,Petín
+8732,5,Alameda de la Sagra
+8733,5,Cervatos de la Cueza
+8734,5,Penelles
+8735,5,Alkiza
+8736,5,Pobladura del Valle
+8737,5,Puerto Lápice
+8738,5,Rabanales
+1629,5,Facería 79
+1630,5,La Lantejuela
+1631,5,Adalia
+1632,5,Garcia
+1633,5,Massamagrell
+1634,5,Ablanque
+1635,5,San Juan del Molinillo
+1636,5,Sales de Llierca
+1637,5,Larraona
+1638,5,Elburgo
+1639,5,Valdemorillo de la Sierra
+1640,5,Ledesma
+1641,5,Valdesotos
+1642,5,Mairena del Alcor
+1643,5,Pradoluengo
+1644,5,Fuentecambrón
+1645,5,Navarrés
+1646,5,Teverga
+1647,5,Santo Tomé del Puerto
+1648,5,Bonrepòs i Mirambell
+1649,5,Auñón
+1650,5,Navaescurial
+1651,5,Salceda de Caselas
+1652,5,Tobar
+1653,5,Peralta de Calasanz
+4679,5,Cervià de les Garrigues
+4680,5,Olmedillo de Roa
+4681,5,Mora
+4682,5,Cabanabona
+4683,5,Valverde de Campos
+4684,5,Valle de Sedano
+4685,5,Valdeavellano
+4686,5,O Corgo
+4687,5,Amoroto
+4688,5,Viso del Marqués
+4689,5,Bóveda
+4690,5,El Cañavate
+4691,5,Haría
+4692,5,Villel de Mesa
+4693,5,Santanyí
+4694,5,Lladó
+4695,5,Fuentepelayo
+4696,5,Bogarra
+4697,5,Valladolid
+4698,5,Valls
+4699,5,Taboada
+4700,5,Alquife
+4701,5,Morés
+4702,5,Linares de Riofrío
+4703,5,El Almendro
+4704,5,Villalba de los Alcores
+4705,5,Chantada
+4706,5,Viana de Cega
+4707,5,Olza
+4708,5,Gargüera
+4709,5,Salar
+4710,5,Arcos de la Frontera
+4711,5,La Garganta
+4712,5,Guijo de Coria
+4713,5,Espejón
+4714,5,Mocejón
+4715,5,Valdorros
+4716,5,Cantillana
+4717,5,San Martín del Río
+4718,5,Muelas de los Caballeros
+4719,5,Legorreta
+4720,5,Aldeanueva de San Bartolomé
+4721,5,Valdecarros
+4722,5,Gautegiz Arteaga
+4723,5,Montichelvo
+4724,5,Pont de Molins
+4725,5,Pertusa
+4726,5,Friera de Valverde
+4727,5,Piedralaves
+4728,5,Beteta
+4729,5,Aduna
+4730,5,L'Alfàs del Pi
+4731,5,Nacimiento
+4732,5,Legarda
+4733,5,Santa Marta de Tormes
+4734,5,Orusco de Tajuña
+4735,5,Fuente el Saz de Jarama
+4736,5,Malaguilla
+4737,5,Fuentenovilla
+4738,5,Rágol
+4739,5,Sacramenia
+4740,5,Palma del Río
+4741,5,Bentarique
+4742,5,Santo Tomé de Zabarcos
+4743,5,Cerralbo
+4744,5,Borox
+4745,5,Alella
+4746,5,Almanza
+4747,5,Guimerà
+4748,5,Valdefresno
+4749,5,Soto de Cerrato
+4750,5,Valdemaqueda
+4751,5,Renedo de la Vega
+4752,5,Puente Viesgo
+4753,5,Constantí
+4754,5,Hornillos de Eresma
+4755,5,El Papio
+4756,5,Navares de Ayuso
+4757,5,Tibi
+4758,5,Torremocha
+4759,5,Fuenteheridos
+4760,5,Sant Jordi Desvalls
+4761,5,Sa Pobla
+4762,5,Villazala
+4763,5,Aldea de San Miguel
+4764,5,Larouco
+4765,5,Guarrate
+4766,5,Fuencaliente
+4767,5,Huete
+4768,5,Zeanuri
+4769,5,Terzaga
+4770,5,Valverde del Fresno
+4771,5,As Somozas
+4772,5,Muriel de la Fuente
+4773,5,Valverde de la Vera
+4774,5,Facería 71
+4775,5,Alicún de Ortega
+4776,5,Valdeverdeja
+4777,5,Mieres
+4778,5,Illán de Vacas
+4779,5,Alcubilla de Nogales
+4780,5,La Carlota
+4781,5,Saúca
+4782,5,Fresneda de la Sierra Tirón
+4783,5,Villar de Corneja
+4784,5,Santa Eulalia
+4785,5,San Felices
+4786,5,L'Hospitalet de Llobregat
+4787,5,Fabara
+4788,5,Nalec
+4789,5,Beas
+4790,5,Rótova
+4791,5,Salce
+4792,5,Campos del Río
+4793,5,Villaverde de Montejo
+4794,5,Sopelana
+4795,5,Utrillas
+4796,5,Osor
+4797,5,Ribamontán al Mar
+4798,5,Génave
+4799,5,Toén
+4800,5,L'Ametlla del Vallès
+4801,5,Villasandino
+4802,5,Gallegos de Altamiros
+4803,5,Lapuebla de Labarca
+4804,5,Burujón
+4805,5,San Lorenzo de Tormes
+4806,5,Riudecols
+4807,5,Cuevas del Campo
+4808,5,San Muñoz
+4809,5,Neila
+4810,5,Puebla de Sancho Pérez
+4811,5,Murieta
+4812,5,Malpartida de la Serena
+4813,5,Velada
+7061,5,Barromán
+7062,5,Etayo
+7063,5,Cavia
+7064,5,Helechosa de los Montes
+7065,5,Argente
+7066,5,Icod de los Vinos
+7067,5,Güímar
+7068,5,Tolox
+7069,5,Salobral
+7070,5,Garray
+7071,5,León
+7072,5,Torremocha del Campo
+7073,5,Cortes de Pallás
+7074,5,Ojén
+7075,5,Villasbuenas de Gata
+7076,5,Zafra
+7077,5,Iruraiz-Gauna
+7078,5,Onda
+7079,5,Aladrén
+7080,5,Ubrique
+7081,5,Mayorga
+7082,5,Olost
+7083,5,Tardienta
+7084,5,Espinosa de los Caballeros
+7085,5,Juneda
+7086,5,Navalperal de Pinares
+7087,5,Guadarrama
+8806,6,Balear
+8822,6,Galicia Costa
+8808,6,Catalanas
+8809,6,Ceuta
+8810,6,Duero
+8811,6,Ebro Alto
+8812,6,Ebro Pirineos
+8813,6,Guadalquivir
+8814,6,Guadiana
+8815,6,Jucar-Turia
+8816,6,Melilla
+8817,6,Miño-Sil
+8818,6,Norte-Cantabrico
+8819,6,Segura
+8820,6,Sur
+8821,6,Tajo
+8807,6,Canaria
