@@ -1,0 +1,5 @@
+For project 5 I will analyse X Y and Z. I will make a request from twitter for each company and generate a chart showing frequencies of tweets during 2018.
+Then I will examine if the exent is a positive or negative event by matching against hashtags or specific word frequencies within all tweets surrounding the event.
+I will then extract the periods 3 working days prior and 5 working days after the event to see how returns are affected by the event.
+A correlation analysis could then be made between amount of tweets and abnormal returns to see if a relationship exists.
+
