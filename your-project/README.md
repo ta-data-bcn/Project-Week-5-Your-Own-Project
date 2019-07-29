@@ -47,7 +47,7 @@ Outline the workflow you used in your project. What were the steps you went thro
  2. Check if I have enough data or not (if not, back to step 1)
  3. Download data and relevant information.
  4. Data wrangling to desired format and shape.
- 5. 
+ 5. Data Analysis, graphing and mapping.
 
 <a name="organization"></a>
 
