@@ -1,206 +1,206 @@
-Country,ID
-Afghanistan,4
-Albania,8
-Algeria,12
-Andorra,20
-Angola,24
-Anguilla,660
-Antigua and Barbuda,28
-Argentina,32
-Armenia,51
-Aruba,533
-Australia,36
-Austria,40
-Azerbaijan,31
-Bahamas,44
-Bahrain,48
-Bangladesh,50
-Barbados,52
-Belarus,112
-Belgium,56
-Belize,84
-Benin,204
-Bermuda,60
-Bhutan,64
-Bolivia (Plurin. State of),68
-Bosnia and Herzegovina,70
-Botswana,72
-Brazil,76
-British Virgin Islands,92
-Brunei Darussalam,96
-Bulgaria,100
-Burkina Faso,854
-Burundi,108
-Cabo Verde,132
-Cambodia,116
-Cameroon,120
-Canada,124
-Cayman Islands,136
-Central African Republic,140
-Chad,148
-Chile,152
-China,156
-"China, Hong Kong SAR",344
-"China, Macao SAR",446
-Colombia,170
-Comoros,174
-Congo,178
-Cook Islands,184
-Costa Rica,188
-Croatia,191
-Cuba,192
-Cyprus,196
-Czechia,203
-Dem. People's Rep. Korea,408
-Dem. Rep. of the Congo,180
-Denmark,208
-Djibouti,262
-Dominica,212
-Dominican Republic,214
-Ecuador,218
-Egypt,818
-El Salvador,222
-Equatorial Guinea,226
-Eritrea,232
-Estonia,233
-Ethiopia,231
-Fiji,242
-Finland,246
-France,250
-French Polynesia,258
-Gabon,266
-Gambia,270
-Georgia,268
-Germany,276
-Ghana,288
-Greece,300
-Greenland,304
-Grenada,308
-Guatemala,320
-Guinea,324
-Guinea-Bissau,624
-Guyana,328
-Haiti,332
-Honduras,340
-Hungary,348
-Iceland,352
-India,356
-Indonesia,360
-Iran (Islamic Republic of),364
-Iraq,368
-Ireland,372
-Israel,376
-Italy,380
-Jamaica,388
-Japan,392
-Jordan,400
-Kazakhstan,398
-Kenya,404
-Kiribati,296
-Kuwait,414
-Kyrgyzstan,417
-Lao People's Dem. Rep.,418
-Latvia,428
-Lebanon,422
-Lesotho,426
-Liberia,430
-Libya,434
-Liechtenstein,438
-Lithuania,440
-Luxembourg,442
-Madagascar,450
-Malawi,454
-Malaysia,458
-Maldives,462
-Mali,466
-Malta,470
-Marshall Islands,584
-Mauritania,478
-Mauritius,480
-Mexico,484
-Micronesia (Fed. States of),583
-Mongolia,496
-Montenegro,499
-Montserrat,500
-Morocco,504
-Mozambique,508
-Myanmar,104
-Namibia,516
-Nauru,520
-Nepal,524
-Netherlands,528
-Netherlands Antilles [former],530
-New Caledonia,540
-New Zealand,554
-Nicaragua,558
-Niger,562
-Nigeria,566
-Norway,578
-Oman,512
-Pakistan,586
-Palau,585
-Panama,591
-Papua New Guinea,598
-Paraguay,600
-Peru,604
-Philippines,608
-Poland,616
-Portugal,620
-Qatar,634
-Republic of Korea,410
-Republic of Moldova,498
-Romania,642
-Russian Federation,643
-Rwanda,646
-Saint Kitts and Nevis,659
-Saint Lucia,662
-Saint Vincent & Grenadines,670
-Samoa,882
-Sao Tome and Principe,678
-Saudi Arabia,682
-Senegal,686
-Serbia,688
-Seychelles,690
-Sierra Leone,694
-Singapore,702
-Sint Maarten (Dutch part),534
-Slovakia,703
-Slovenia,705
-Solomon Islands,90
-Somalia,706
-South Africa,710
-South Sudan,728
-Spain,724
-Sri Lanka,144
-State of Palestine,275
-Sudan,729
-Sudan [former],736
-Suriname,740
-Sweden,752
-Switzerland,756
-Syrian Arab Republic,760
-Tajikistan,762
-Thailand,764
-Timor-Leste,626
-Togo,768
-Tonga,776
-"Total, all countries or areas",1
-Trinidad and Tobago,780
-Tunisia,788
-Turkey,792
-Turkmenistan,795
-Turks and Caicos Islands,796
-Uganda,800
-Ukraine,804
-United Arab Emirates,784
-United Kingdom,826
-United Rep. of Tanzania,834
-United States of America,840
-Uruguay,858
-Uzbekistan,860
-Vanuatu,548
-Venezuela (Boliv. Rep. of),862
-Viet Nam,704
-Yemen,887
-Zambia,894
-Zimbabwe,716
+,Country,ID
+0,Afghanistan,4
+1,Albania,8
+2,Algeria,12
+3,Andorra,20
+4,Angola,24
+5,Anguilla,660
+6,Antigua and Barbuda,28
+7,Argentina,32
+8,Armenia,51
+9,Aruba,533
+10,Australia,36
+11,Austria,40
+12,Azerbaijan,31
+13,Bahamas,44
+14,Bahrain,48
+15,Bangladesh,50
+16,Barbados,52
+17,Belarus,112
+18,Belgium,56
+19,Belize,84
+20,Benin,204
+21,Bermuda,60
+22,Bhutan,64
+23,Bolivia (Plurin. State of),68
+24,Bosnia and Herzegovina,70
+25,Botswana,72
+26,Brazil,76
+27,British Virgin Islands,92
+28,Brunei Darussalam,96
+29,Bulgaria,100
+30,Burkina Faso,854
+31,Burundi,108
+32,Cabo Verde,132
+33,Cambodia,116
+34,Cameroon,120
+35,Canada,124
+36,Cayman Islands,136
+37,Central African Republic,140
+38,Chad,148
+39,Chile,152
+40,China,156
+41,"China, Hong Kong SAR",344
+42,"China, Macao SAR",446
+43,Colombia,170
+44,Comoros,174
+45,Congo,178
+46,Cook Islands,184
+47,Costa Rica,188
+48,Croatia,191
+49,Cuba,192
+50,Cyprus,196
+51,Czechia,203
+52,Dem. People's Rep. Korea,408
+53,Dem. Rep. of the Congo,180
+54,Denmark,208
+55,Djibouti,262
+56,Dominica,212
+57,Dominican Republic,214
+58,Ecuador,218
+59,Egypt,818
+60,El Salvador,222
+61,Equatorial Guinea,226
+62,Eritrea,232
+63,Estonia,233
+64,Ethiopia,231
+65,Fiji,242
+66,Finland,246
+67,France,250
+68,French Polynesia,258
+69,Gabon,266
+70,Gambia,270
+71,Georgia,268
+72,Germany,276
+73,Ghana,288
+74,Greece,300
+75,Greenland,304
+76,Grenada,308
+77,Guatemala,320
+78,Guinea,324
+79,Guinea-Bissau,624
+80,Guyana,328
+81,Haiti,332
+82,Honduras,340
+83,Hungary,348
+84,Iceland,352
+85,India,356
+86,Indonesia,360
+87,Iran (Islamic Republic of),364
+88,Iraq,368
+89,Ireland,372
+90,Israel,376
+91,Italy,380
+92,Jamaica,388
+93,Japan,392
+94,Jordan,400
+95,Kazakhstan,398
+96,Kenya,404
+97,Kiribati,296
+98,Kuwait,414
+99,Kyrgyzstan,417
+100,Lao People's Dem. Rep.,418
+101,Latvia,428
+102,Lebanon,422
+103,Lesotho,426
+104,Liberia,430
+105,Libya,434
+106,Liechtenstein,438
+107,Lithuania,440
+108,Luxembourg,442
+109,Madagascar,450
+110,Malawi,454
+111,Malaysia,458
+112,Maldives,462
+113,Mali,466
+114,Malta,470
+115,Marshall Islands,584
+116,Mauritania,478
+117,Mauritius,480
+118,Mexico,484
+119,Micronesia (Fed. States of),583
+120,Mongolia,496
+121,Montenegro,499
+122,Montserrat,500
+123,Morocco,504
+124,Mozambique,508
+125,Myanmar,104
+126,Namibia,516
+127,Nauru,520
+128,Nepal,524
+129,Netherlands,528
+130,Netherlands Antilles [former],530
+131,New Caledonia,540
+132,New Zealand,554
+133,Nicaragua,558
+134,Niger,562
+135,Nigeria,566
+136,Norway,578
+137,Oman,512
+138,Pakistan,586
+139,Palau,585
+140,Panama,591
+141,Papua New Guinea,598
+142,Paraguay,600
+143,Peru,604
+144,Philippines,608
+145,Poland,616
+146,Portugal,620
+147,Qatar,634
+148,Republic of Korea,410
+149,Republic of Moldova,498
+150,Romania,642
+151,Russian Federation,643
+152,Rwanda,646
+153,Saint Kitts and Nevis,659
+154,Saint Lucia,662
+155,Saint Vincent & Grenadines,670
+156,Samoa,882
+157,Sao Tome and Principe,678
+158,Saudi Arabia,682
+159,Senegal,686
+160,Serbia,688
+161,Seychelles,690
+162,Sierra Leone,694
+163,Singapore,702
+164,Sint Maarten (Dutch part),534
+165,Slovakia,703
+166,Slovenia,705
+167,Solomon Islands,90
+168,Somalia,706
+169,South Africa,710
+170,South Sudan,728
+171,Spain,724
+172,Sri Lanka,144
+173,State of Palestine,275
+174,Sudan,729
+175,Sudan [former],736
+176,Suriname,740
+177,Sweden,752
+178,Switzerland,756
+179,Syrian Arab Republic,760
+180,Tajikistan,762
+181,Thailand,764
+182,Timor-Leste,626
+183,Togo,768
+184,Tonga,776
+185,"Total, all countries or areas",1
+186,Trinidad and Tobago,780
+187,Tunisia,788
+188,Turkey,792
+189,Turkmenistan,795
+190,Turks and Caicos Islands,796
+191,Uganda,800
+192,Ukraine,804
+193,United Arab Emirates,784
+194,United Kingdom,826
+195,United Rep. of Tanzania,834
+196,United States of America,840
+197,Uruguay,858
+198,Uzbekistan,860
+199,Vanuatu,548
+200,Venezuela (Boliv. Rep. of),862
+201,Viet Nam,704
+202,Yemen,887
+203,Zambia,894
+204,Zimbabwe,716
