@@ -1,0 +1,607 @@
+id,name,geoid,geoname,value,datetime
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,25864.5,2019-06-18T00:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,24762.5,2019-06-18T01:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,23376.5,2019-06-18T02:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,22834.8,2019-06-18T03:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,23015.8,2019-06-18T04:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,23123.9,2019-06-18T05:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,24307,2019-06-18T06:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,25098.7,2019-06-18T07:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,27175.4,2019-06-18T08:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,29502.4,2019-06-18T09:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,30762.7,2019-06-18T10:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,31214,2019-06-18T11:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,31874.2,2019-06-18T12:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,31889.7,2019-06-18T13:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,31945.1,2019-06-18T14:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,31831.3,2019-06-18T15:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,32153.3,2019-06-18T16:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,32318.1,2019-06-18T17:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,32052.6,2019-06-18T18:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,30964.7,2019-06-18T19:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,30462,2019-06-18T20:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,29442.7,2019-06-18T21:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,29385.9,2019-06-18T22:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,26954.6,2019-06-18T23:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,25438,2019-06-19T00:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,24730.7,2019-06-19T01:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,24091.5,2019-06-19T02:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,23768.8,2019-06-19T03:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,23275.5,2019-06-19T04:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,23346.9,2019-06-19T05:00:00+02:00
+10024,Generación programada + Consumo bombeo + Cable Baleares P48,,,24988.6,2019-06-19T06:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,100,2019-06-18T00:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,100,2019-06-18T02:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,100,2019-06-18T03:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,-200,2019-06-18T04:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,100,2019-06-18T05:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,200,2019-06-18T06:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,400,2019-06-18T07:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,400,2019-06-18T08:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,400,2019-06-18T09:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,600,2019-06-18T10:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,800,2019-06-18T11:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,1000,2019-06-18T12:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,1000,2019-06-18T13:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,1000,2019-06-18T14:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,824.4,2019-06-18T15:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,574.2,2019-06-18T16:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,400,2019-06-18T17:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,700,2019-06-18T18:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,700,2019-06-18T19:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,600,2019-06-18T20:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,400,2019-06-18T21:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,301.1,2019-06-18T22:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,-99.3,2019-06-19T00:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,-299.3,2019-06-19T01:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,-199.3,2019-06-19T02:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,200,2019-06-19T05:00:00+02:00
+369,Demanda programada P48 Corrección eólica,,,200,2019-06-19T06:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-100,2019-06-18T06:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-200,2019-06-18T07:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-100,2019-06-18T09:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-200,2019-06-18T10:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-200,2019-06-18T11:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-200,2019-06-18T12:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-200,2019-06-18T13:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-200,2019-06-18T14:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-300,2019-06-18T15:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-300,2019-06-18T16:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-300,2019-06-18T17:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-300,2019-06-18T18:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,-300,2019-06-18T19:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,100,2019-06-18T20:00:00+02:00
+370,Demanda programada P48 Corrección solar,,,100,2019-06-18T21:00:00+02:00
+92,Generación programada P48 Biogás,,,96.4,2019-06-18T00:00:00+02:00
+92,Generación programada P48 Biogás,,,95.5,2019-06-18T01:00:00+02:00
+92,Generación programada P48 Biogás,,,94.7,2019-06-18T02:00:00+02:00
+92,Generación programada P48 Biogás,,,94.7,2019-06-18T03:00:00+02:00
+92,Generación programada P48 Biogás,,,95.4,2019-06-18T04:00:00+02:00
+92,Generación programada P48 Biogás,,,95.2,2019-06-18T05:00:00+02:00
+92,Generación programada P48 Biogás,,,95.3,2019-06-18T06:00:00+02:00
+92,Generación programada P48 Biogás,,,94.6,2019-06-18T07:00:00+02:00
+92,Generación programada P48 Biogás,,,93.5,2019-06-18T08:00:00+02:00
+92,Generación programada P48 Biogás,,,99.9,2019-06-18T09:00:00+02:00
+92,Generación programada P48 Biogás,,,99.9,2019-06-18T10:00:00+02:00
+92,Generación programada P48 Biogás,,,100.1,2019-06-18T11:00:00+02:00
+92,Generación programada P48 Biogás,,,102.7,2019-06-18T12:00:00+02:00
+92,Generación programada P48 Biogás,,,102.9,2019-06-18T13:00:00+02:00
+92,Generación programada P48 Biogás,,,101,2019-06-18T14:00:00+02:00
+92,Generación programada P48 Biogás,,,101.8,2019-06-18T15:00:00+02:00
+92,Generación programada P48 Biogás,,,102.1,2019-06-18T16:00:00+02:00
+92,Generación programada P48 Biogás,,,102.2,2019-06-18T17:00:00+02:00
+92,Generación programada P48 Biogás,,,102,2019-06-18T18:00:00+02:00
+92,Generación programada P48 Biogás,,,102,2019-06-18T19:00:00+02:00
+92,Generación programada P48 Biogás,,,103.6,2019-06-18T20:00:00+02:00
+92,Generación programada P48 Biogás,,,107.2,2019-06-18T21:00:00+02:00
+92,Generación programada P48 Biogás,,,101.5,2019-06-18T22:00:00+02:00
+92,Generación programada P48 Biogás,,,101.3,2019-06-18T23:00:00+02:00
+92,Generación programada P48 Biogás,,,96.5,2019-06-19T00:00:00+02:00
+92,Generación programada P48 Biogás,,,94.3,2019-06-19T01:00:00+02:00
+92,Generación programada P48 Biogás,,,93.2,2019-06-19T02:00:00+02:00
+92,Generación programada P48 Biogás,,,93.1,2019-06-19T03:00:00+02:00
+92,Generación programada P48 Biogás,,,94,2019-06-19T04:00:00+02:00
+92,Generación programada P48 Biogás,,,93.7,2019-06-19T05:00:00+02:00
+92,Generación programada P48 Biogás,,,95.1,2019-06-19T06:00:00+02:00
+91,Generación programada P48 Biomasa,,,315,2019-06-18T00:00:00+02:00
+91,Generación programada P48 Biomasa,,,310.9,2019-06-18T01:00:00+02:00
+91,Generación programada P48 Biomasa,,,310.2,2019-06-18T02:00:00+02:00
+91,Generación programada P48 Biomasa,,,310.1,2019-06-18T03:00:00+02:00
+91,Generación programada P48 Biomasa,,,312,2019-06-18T04:00:00+02:00
+91,Generación programada P48 Biomasa,,,311.2,2019-06-18T05:00:00+02:00
+91,Generación programada P48 Biomasa,,,308.9,2019-06-18T06:00:00+02:00
+91,Generación programada P48 Biomasa,,,311.1,2019-06-18T07:00:00+02:00
+91,Generación programada P48 Biomasa,,,320.5,2019-06-18T08:00:00+02:00
+91,Generación programada P48 Biomasa,,,317.8,2019-06-18T09:00:00+02:00
+91,Generación programada P48 Biomasa,,,317,2019-06-18T10:00:00+02:00
+91,Generación programada P48 Biomasa,,,311.2,2019-06-18T11:00:00+02:00
+91,Generación programada P48 Biomasa,,,310.2,2019-06-18T12:00:00+02:00
+91,Generación programada P48 Biomasa,,,310.3,2019-06-18T13:00:00+02:00
+91,Generación programada P48 Biomasa,,,314.5,2019-06-18T14:00:00+02:00
+91,Generación programada P48 Biomasa,,,316.9,2019-06-18T15:00:00+02:00
+91,Generación programada P48 Biomasa,,,316.8,2019-06-18T16:00:00+02:00
+91,Generación programada P48 Biomasa,,,316.7,2019-06-18T17:00:00+02:00
+91,Generación programada P48 Biomasa,,,319.6,2019-06-18T18:00:00+02:00
+91,Generación programada P48 Biomasa,,,322.8,2019-06-18T19:00:00+02:00
+91,Generación programada P48 Biomasa,,,323.9,2019-06-18T20:00:00+02:00
+91,Generación programada P48 Biomasa,,,328.1,2019-06-18T21:00:00+02:00
+91,Generación programada P48 Biomasa,,,325.2,2019-06-18T22:00:00+02:00
+91,Generación programada P48 Biomasa,,,321.1,2019-06-18T23:00:00+02:00
+91,Generación programada P48 Biomasa,,,322.5,2019-06-19T00:00:00+02:00
+91,Generación programada P48 Biomasa,,,319.1,2019-06-19T01:00:00+02:00
+91,Generación programada P48 Biomasa,,,319.6,2019-06-19T02:00:00+02:00
+91,Generación programada P48 Biomasa,,,317.9,2019-06-19T03:00:00+02:00
+91,Generación programada P48 Biomasa,,,306.3,2019-06-19T04:00:00+02:00
+91,Generación programada P48 Biomasa,,,313.3,2019-06-19T05:00:00+02:00
+91,Generación programada P48 Biomasa,,,312.6,2019-06-19T06:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7057.5,2019-06-18T00:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6713.5,2019-06-18T01:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6281.3,2019-06-18T02:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6403.1,2019-06-18T03:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6702.8,2019-06-18T04:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6657.6,2019-06-18T05:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7382,2019-06-18T06:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7043,2019-06-18T07:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7522.8,2019-06-18T08:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7621.8,2019-06-18T09:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7404.3,2019-06-18T10:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,7100.5,2019-06-18T11:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6767.3,2019-06-18T12:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5722,2019-06-18T13:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,4892.1,2019-06-18T14:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,4583.3,2019-06-18T15:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,4635.9,2019-06-18T16:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5247,2019-06-18T17:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5080.3,2019-06-18T18:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5054.7,2019-06-18T19:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5662,2019-06-18T20:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5873.2,2019-06-18T21:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6259.4,2019-06-18T22:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6049.1,2019-06-18T23:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5425.8,2019-06-19T00:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5376.5,2019-06-19T01:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5159,2019-06-19T02:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5077.4,2019-06-19T03:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5110.4,2019-06-19T04:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,5389.8,2019-06-19T05:00:00+02:00
+79,Generación programada P48 Ciclo combinado,,,6552.8,2019-06-19T06:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-78,2019-06-18T11:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-163,2019-06-18T12:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-163,2019-06-18T13:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-230.9,2019-06-18T14:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-456.6,2019-06-18T15:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-268,2019-06-18T16:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-130,2019-06-18T17:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-78,2019-06-18T18:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-207.6,2019-06-18T19:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-127.1,2019-06-18T20:00:00+02:00
+95,Generación programada P48 Consumo bombeo,,,-148,2019-06-18T21:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,334.5,2019-06-18T00:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,333.9,2019-06-18T01:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,323.5,2019-06-18T02:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,322.5,2019-06-18T03:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,319.5,2019-06-18T04:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,322.5,2019-06-18T05:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,326.9,2019-06-18T06:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,346.5,2019-06-18T07:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,353.7,2019-06-18T08:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,357,2019-06-18T09:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,361.6,2019-06-18T10:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,361.3,2019-06-18T11:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,361,2019-06-18T12:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,361,2019-06-18T13:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,361,2019-06-18T14:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,337.7,2019-06-18T15:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,337.7,2019-06-18T16:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,341.2,2019-06-18T17:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,364.5,2019-06-18T18:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,364.5,2019-06-18T19:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,363.6,2019-06-18T20:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,363.9,2019-06-18T21:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,359.4,2019-06-18T22:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,356.4,2019-06-18T23:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,334.3,2019-06-19T00:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,333.9,2019-06-19T01:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,323.1,2019-06-19T02:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,322.1,2019-06-19T03:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,319.5,2019-06-19T04:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,322.5,2019-06-19T05:00:00+02:00
+88,Generación programada P48 Derivados del petróleo ó carbón,,,327,2019-06-19T06:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T08:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T09:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T10:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T11:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T12:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T13:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T14:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T15:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T16:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T17:00:00+02:00
+90,Generación programada P48 Energía residual,,,9.4,2019-06-18T18:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-153,2019-06-18T00:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-18T01:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-18T02:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-18T03:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-18T04:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-18T05:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-18T06:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-179,2019-06-18T07:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-235,2019-06-18T08:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T09:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T10:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T11:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T12:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T13:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-235,2019-06-18T14:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-235,2019-06-18T15:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-235,2019-06-18T16:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-235,2019-06-18T17:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T18:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-286,2019-06-18T19:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-286,2019-06-18T20:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T21:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-266,2019-06-18T22:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-204,2019-06-18T23:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-153,2019-06-19T00:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-19T01:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-19T02:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-19T03:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-19T04:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-128,2019-06-19T05:00:00+02:00
+96,Generación programada P48 Enlace Baleares,,,-153,2019-06-19T06:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3405.9,2019-06-18T00:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3362.6,2019-06-18T01:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3200,2019-06-18T02:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,2996.8,2019-06-18T03:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,2889.1,2019-06-18T04:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,2909.4,2019-06-18T05:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3163.3,2019-06-18T06:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3284.9,2019-06-18T07:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3224.6,2019-06-18T08:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,3456.7,2019-06-18T09:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,4143.3,2019-06-18T10:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,5123.9,2019-06-18T11:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,6199.2,2019-06-18T12:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,7329.9,2019-06-18T13:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,8293.8,2019-06-18T14:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,9089.7,2019-06-18T15:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,9609,2019-06-18T16:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,9705.5,2019-06-18T17:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,9817.5,2019-06-18T18:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,9613.5,2019-06-18T19:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,9128.1,2019-06-18T20:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,8571.5,2019-06-18T21:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,8113.6,2019-06-18T22:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,7018.1,2019-06-18T23:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,6601.4,2019-06-19T00:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,6297.8,2019-06-19T01:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,5894.2,2019-06-19T02:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,5504,2019-06-19T03:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,5119.5,2019-06-19T04:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,4799.3,2019-06-19T05:00:00+02:00
+82,Generación programada P48 Eólica terrestre,,,4581.2,2019-06-19T06:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3127.5,2019-06-18T00:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3110.7,2019-06-18T01:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3083.5,2019-06-18T02:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3075.1,2019-06-18T03:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3077.2,2019-06-18T04:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3079.6,2019-06-18T05:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3092.6,2019-06-18T06:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3170.3,2019-06-18T07:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3216.4,2019-06-18T08:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3207.5,2019-06-18T09:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3195.6,2019-06-18T10:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3211.9,2019-06-18T11:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3167.2,2019-06-18T12:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3170,2019-06-18T13:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3164.1,2019-06-18T14:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3124.1,2019-06-18T15:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3145.2,2019-06-18T16:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3145.9,2019-06-18T17:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3139.1,2019-06-18T18:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3134.4,2019-06-18T19:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3150.7,2019-06-18T20:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3157.7,2019-06-18T21:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3153.5,2019-06-18T22:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3126.5,2019-06-18T23:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3073.7,2019-06-19T00:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3046.1,2019-06-19T01:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3043.4,2019-06-19T02:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,3013.2,2019-06-19T03:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,2999.4,2019-06-19T04:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,2992.4,2019-06-19T05:00:00+02:00
+87,Generación programada P48 Gas Natural Cogeneración,,,2972.8,2019-06-19T06:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,2396.9,2019-06-18T00:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1872.1,2019-06-18T01:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1070.8,2019-06-18T02:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,792.8,2019-06-18T03:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1003.4,2019-06-18T04:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,982.7,2019-06-18T05:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1289.2,2019-06-18T06:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1908.1,2019-06-18T07:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,2355.7,2019-06-18T08:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,2532.2,2019-06-18T09:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,2108.5,2019-06-18T10:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1586.3,2019-06-18T11:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1232,2019-06-18T12:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1010.5,2019-06-18T13:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,946.8,2019-06-18T14:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,908.7,2019-06-18T15:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,887.6,2019-06-18T16:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,887.1,2019-06-18T17:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,897.1,2019-06-18T18:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,959.2,2019-06-18T19:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1024.9,2019-06-18T20:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1547.5,2019-06-18T21:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1786,2019-06-18T22:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1123.3,2019-06-18T23:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,906.3,2019-06-19T00:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,808.2,2019-06-19T01:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,735.2,2019-06-19T02:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,751.2,2019-06-19T03:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,712.4,2019-06-19T04:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,721.8,2019-06-19T05:00:00+02:00
+71,Generación programada P48 Hidráulica UGH,,,1382.4,2019-06-19T06:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,505.2,2019-06-18T00:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,506.8,2019-06-18T01:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,511.2,2019-06-18T02:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,498.7,2019-06-18T03:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,498.3,2019-06-18T04:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,498.2,2019-06-18T05:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,498.2,2019-06-18T06:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,515.8,2019-06-18T07:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,537,2019-06-18T08:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,535.7,2019-06-18T09:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,521.7,2019-06-18T10:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,533.3,2019-06-18T11:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,515.9,2019-06-18T12:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,515.9,2019-06-18T13:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,509.6,2019-06-18T14:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,516,2019-06-18T15:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,516.3,2019-06-18T16:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,509.4,2019-06-18T17:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,499.2,2019-06-18T18:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,498.2,2019-06-18T19:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,511.7,2019-06-18T20:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,548.6,2019-06-18T21:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,542.6,2019-06-18T22:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,521,2019-06-18T23:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,488.4,2019-06-19T00:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,486.3,2019-06-19T01:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,473.9,2019-06-19T02:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,478.3,2019-06-19T03:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,481.3,2019-06-19T04:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,475.4,2019-06-19T05:00:00+02:00
+72,Generación programada P48 Hidráulica no UGH,,,492,2019-06-19T06:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,330,2019-06-18T00:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T01:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T02:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T03:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T04:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T05:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T06:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T07:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,350,2019-06-18T08:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,400,2019-06-18T09:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,450,2019-06-18T10:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,97.5,2019-06-18T11:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,90,2019-06-18T14:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,240,2019-06-18T15:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,350,2019-06-18T16:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T17:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T18:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T19:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T20:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T21:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T22:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-18T23:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T00:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T01:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T02:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T03:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T04:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T05:00:00+02:00
+77,Generación programada P48 Hulla antracita,,,300,2019-06-19T06:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,359.2,2019-06-18T00:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,342.8,2019-06-18T01:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,285.1,2019-06-18T02:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,210.7,2019-06-18T03:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,270,2019-06-18T04:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,232.6,2019-06-18T05:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T06:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,260,2019-06-18T07:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,260,2019-06-18T08:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,320,2019-06-18T09:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,190,2019-06-18T10:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T11:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T12:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T13:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T14:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T15:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T16:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T17:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T18:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-18T19:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,178.3,2019-06-18T20:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,258.4,2019-06-18T21:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,420,2019-06-18T22:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,270,2019-06-18T23:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,210,2019-06-19T00:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-19T01:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-19T02:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-19T03:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-19T04:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,170,2019-06-19T05:00:00+02:00
+78,Generación programada P48 Hulla sub-bituminosa,,,270,2019-06-19T06:00:00+02:00
+74,Generación programada P48 Nuclear,,,6989.4,2019-06-18T00:00:00+02:00
+74,Generación programada P48 Nuclear,,,6987.5,2019-06-18T01:00:00+02:00
+74,Generación programada P48 Nuclear,,,6992.4,2019-06-18T02:00:00+02:00
+74,Generación programada P48 Nuclear,,,6998.5,2019-06-18T03:00:00+02:00
+74,Generación programada P48 Nuclear,,,6994.4,2019-06-18T04:00:00+02:00
+74,Generación programada P48 Nuclear,,,6999.4,2019-06-18T05:00:00+02:00
+74,Generación programada P48 Nuclear,,,7005.4,2019-06-18T06:00:00+02:00
+74,Generación programada P48 Nuclear,,,7006.4,2019-06-18T07:00:00+02:00
+74,Generación programada P48 Nuclear,,,7005.4,2019-06-18T08:00:00+02:00
+74,Generación programada P48 Nuclear,,,7002.4,2019-06-18T09:00:00+02:00
+74,Generación programada P48 Nuclear,,,6996.4,2019-06-18T10:00:00+02:00
+74,Generación programada P48 Nuclear,,,6986.4,2019-06-18T11:00:00+02:00
+74,Generación programada P48 Nuclear,,,6985.4,2019-06-18T12:00:00+02:00
+74,Generación programada P48 Nuclear,,,6979.4,2019-06-18T13:00:00+02:00
+74,Generación programada P48 Nuclear,,,6970.4,2019-06-18T14:00:00+02:00
+74,Generación programada P48 Nuclear,,,6970.4,2019-06-18T15:00:00+02:00
+74,Generación programada P48 Nuclear,,,6973.4,2019-06-18T16:00:00+02:00
+74,Generación programada P48 Nuclear,,,6969.4,2019-06-18T17:00:00+02:00
+74,Generación programada P48 Nuclear,,,6965.4,2019-06-18T18:00:00+02:00
+74,Generación programada P48 Nuclear,,,6976.4,2019-06-18T19:00:00+02:00
+74,Generación programada P48 Nuclear,,,6979.4,2019-06-18T20:00:00+02:00
+74,Generación programada P48 Nuclear,,,6982.4,2019-06-18T21:00:00+02:00
+74,Generación programada P48 Nuclear,,,6987.4,2019-06-18T22:00:00+02:00
+74,Generación programada P48 Nuclear,,,6989.4,2019-06-18T23:00:00+02:00
+74,Generación programada P48 Nuclear,,,7007.5,2019-06-19T00:00:00+02:00
+74,Generación programada P48 Nuclear,,,7007.5,2019-06-19T01:00:00+02:00
+74,Generación programada P48 Nuclear,,,7007.5,2019-06-19T02:00:00+02:00
+74,Generación programada P48 Nuclear,,,7011.5,2019-06-19T03:00:00+02:00
+74,Generación programada P48 Nuclear,,,7017.5,2019-06-19T04:00:00+02:00
+74,Generación programada P48 Nuclear,,,7015.5,2019-06-19T05:00:00+02:00
+74,Generación programada P48 Nuclear,,,7019.5,2019-06-19T06:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T00:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T01:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T02:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T03:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T04:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T05:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T06:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T07:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T08:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T09:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T10:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T11:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T12:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T13:00:00+02:00
+86,Generación programada P48 Océano y geotérmica,,,2.8,2019-06-18T14:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.1,2019-06-18T00:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.5,2019-06-18T01:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.6,2019-06-18T02:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.5,2019-06-18T03:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.5,2019-06-18T04:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,194,2019-06-18T05:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.8,2019-06-18T06:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.8,2019-06-18T07:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193,2019-06-18T08:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,192.8,2019-06-18T09:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.1,2019-06-18T10:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,188.7,2019-06-18T11:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,188.5,2019-06-18T12:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,188.7,2019-06-18T13:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,184.8,2019-06-18T14:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,160.3,2019-06-18T15:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,160,2019-06-18T16:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,164.2,2019-06-18T17:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,192.7,2019-06-18T18:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,192.8,2019-06-18T19:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.2,2019-06-18T20:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,188.9,2019-06-18T21:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.2,2019-06-18T22:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.3,2019-06-18T23:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.2,2019-06-19T00:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.7,2019-06-19T01:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.6,2019-06-19T02:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,194,2019-06-19T03:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,194.3,2019-06-19T04:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,194.6,2019-06-19T05:00:00+02:00
+93,Generación programada P48 Residuos domésticos y similares,,,193.7,2019-06-19T06:00:00+02:00
+94,Generación programada P48 Residuos varios,,,126.9,2019-06-18T00:00:00+02:00
+94,Generación programada P48 Residuos varios,,,126.7,2019-06-18T01:00:00+02:00
+94,Generación programada P48 Residuos varios,,,124.2,2019-06-18T02:00:00+02:00
+94,Generación programada P48 Residuos varios,,,121.7,2019-06-18T03:00:00+02:00
+94,Generación programada P48 Residuos varios,,,119.2,2019-06-18T04:00:00+02:00
+94,Generación programada P48 Residuos varios,,,106.9,2019-06-18T05:00:00+02:00
+94,Generación programada P48 Residuos varios,,,108.2,2019-06-18T06:00:00+02:00
+94,Generación programada P48 Residuos varios,,,112.1,2019-06-18T07:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.9,2019-06-18T08:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.5,2019-06-18T09:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.5,2019-06-18T10:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.5,2019-06-18T11:00:00+02:00
+94,Generación programada P48 Residuos varios,,,113,2019-06-18T12:00:00+02:00
+94,Generación programada P48 Residuos varios,,,109.2,2019-06-18T13:00:00+02:00
+94,Generación programada P48 Residuos varios,,,104.3,2019-06-18T14:00:00+02:00
+94,Generación programada P48 Residuos varios,,,104.3,2019-06-18T15:00:00+02:00
+94,Generación programada P48 Residuos varios,,,104.7,2019-06-18T16:00:00+02:00
+94,Generación programada P48 Residuos varios,,,104.7,2019-06-18T17:00:00+02:00
+94,Generación programada P48 Residuos varios,,,104.7,2019-06-18T18:00:00+02:00
+94,Generación programada P48 Residuos varios,,,108.4,2019-06-18T19:00:00+02:00
+94,Generación programada P48 Residuos varios,,,112.1,2019-06-18T20:00:00+02:00
+94,Generación programada P48 Residuos varios,,,114.4,2019-06-18T21:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.7,2019-06-18T22:00:00+02:00
+94,Generación programada P48 Residuos varios,,,113.4,2019-06-18T23:00:00+02:00
+94,Generación programada P48 Residuos varios,,,123.1,2019-06-19T00:00:00+02:00
+94,Generación programada P48 Residuos varios,,,118,2019-06-19T01:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.5,2019-06-19T02:00:00+02:00
+94,Generación programada P48 Residuos varios,,,115.5,2019-06-19T03:00:00+02:00
+94,Generación programada P48 Residuos varios,,,116.5,2019-06-19T04:00:00+02:00
+94,Generación programada P48 Residuos varios,,,116.5,2019-06-19T05:00:00+02:00
+94,Generación programada P48 Residuos varios,,,120.2,2019-06-19T06:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T00:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T01:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T02:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T03:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T04:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T05:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,11.7,2019-06-18T06:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,270.9,2019-06-18T07:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,982.7,2019-06-18T08:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,1815.8,2019-06-18T09:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,2539.1,2019-06-18T10:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,3016.6,2019-06-18T11:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,3338,2019-06-18T12:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,3539.5,2019-06-18T13:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,3540.2,2019-06-18T14:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,3429.9,2019-06-18T15:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,3129.8,2019-06-18T16:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,2617,2019-06-18T17:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,1984.5,2019-06-18T18:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,1291.8,2019-06-18T19:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,534.3,2019-06-18T20:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,78.7,2019-06-18T21:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.3,2019-06-18T22:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,0.4,2019-06-18T23:00:00+02:00
+84,Generación programada P48 Solar fotovoltaica,,,13.7,2019-06-19T06:00:00+02:00
+85,Generación programada P48 Solar térmica,,,630.9,2019-06-18T00:00:00+02:00
+85,Generación programada P48 Solar térmica,,,630.9,2019-06-18T01:00:00+02:00
+85,Generación programada P48 Solar térmica,,,630.9,2019-06-18T02:00:00+02:00
+85,Generación programada P48 Solar térmica,,,541.5,2019-06-18T03:00:00+02:00
+85,Generación programada P48 Solar térmica,,,565.9,2019-06-18T04:00:00+02:00
+85,Generación programada P48 Solar térmica,,,459.5,2019-06-18T05:00:00+02:00
+85,Generación programada P48 Solar térmica,,,304.7,2019-06-18T06:00:00+02:00
+85,Generación programada P48 Solar térmica,,,175.4,2019-06-18T07:00:00+02:00
+85,Generación programada P48 Solar térmica,,,344,2019-06-18T08:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1379.1,2019-06-18T09:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1980.5,2019-06-18T10:00:00+02:00
+85,Generación programada P48 Solar térmica,,,2042.6,2019-06-18T11:00:00+02:00
+85,Generación programada P48 Solar térmica,,,2040.6,2019-06-18T12:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1997.2,2019-06-18T13:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1956.2,2019-06-18T14:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1936,2019-06-18T15:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1934.2,2019-06-18T16:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1993.4,2019-06-18T17:00:00+02:00
+85,Generación programada P48 Solar térmica,,,2050.6,2019-06-18T18:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1969.6,2019-06-18T19:00:00+02:00
+85,Generación programada P48 Solar térmica,,,1609.3,2019-06-18T20:00:00+02:00
+85,Generación programada P48 Solar térmica,,,936.2,2019-06-18T21:00:00+02:00
+85,Generación programada P48 Solar térmica,,,646,2019-06-18T22:00:00+02:00
+85,Generación programada P48 Solar térmica,,,620.5,2019-06-18T23:00:00+02:00
+85,Generación programada P48 Solar térmica,,,607.6,2019-06-19T00:00:00+02:00
+85,Generación programada P48 Solar térmica,,,606.6,2019-06-19T01:00:00+02:00
+85,Generación programada P48 Solar térmica,,,590.6,2019-06-19T02:00:00+02:00
+85,Generación programada P48 Solar térmica,,,548.6,2019-06-19T03:00:00+02:00
+85,Generación programada P48 Solar térmica,,,462.4,2019-06-19T04:00:00+02:00
+85,Generación programada P48 Solar térmica,,,370.1,2019-06-19T05:00:00+02:00
+85,Generación programada P48 Solar térmica,,,262.6,2019-06-19T06:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,46,2019-06-18T00:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,82,2019-06-18T06:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,82,2019-06-18T07:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,123,2019-06-18T08:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,102,2019-06-18T09:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,47,2019-06-18T22:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,54.8,2019-06-18T23:00:00+02:00
+73,Generación programada P48 Turbinación bombeo,,,46,2019-06-19T06:00:00+02:00
