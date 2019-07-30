@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Project 4: Happy or wealthy?
+*Javier Pardo Sánchez*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics,IronHack Barcelona & 01/08/19*
 
 ## Content
 - [Project Description](#project-description)
