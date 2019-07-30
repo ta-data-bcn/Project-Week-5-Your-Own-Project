@@ -3,7 +3,7 @@
 # Project 4: Happy or wealthy?
 *Javier Pardo Sánchez*
 
-*Data Analytics,IronHack Barcelona & 01/08/19*
+*Data Analytics, IronHack Barcelona  01/08/19*
 
 ## Content
 - [Project Description](#project-description)
