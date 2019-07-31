@@ -23,19 +23,26 @@ That is what I will try to figure out by comparing the richness of the people wi
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-Is it better to be happy or wealthy
+Is it better to be happy or wealthy? 
+Hypothesis: Probably there is no difference between poor and rich people when talking about happiness as it has nothing to do with wealthiness but a personal perception
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+All my data is based on trustful organizations such as the world bank, the world happiness report and the heritage foundation
 
-[Dataset]() 
+[Dataset](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD) 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+The first step is to think about a question and when you have it start wondering how possible is it to be an acceptable question (to get enough and quality data)
+
+After we are sure about what our project is about then we should start looking for all the datasets we need in order to get the necessary tables from them
+
+Cleaning all the data is one of the most important parts of the project, prepare it and when you have it done take a look and start working with statistics
+
+After we got all of this work done, then make visualizations and prepare the presentation and all the literature
 
 <a name="organization"></a>
 
