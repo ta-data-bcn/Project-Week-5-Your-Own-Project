@@ -16,12 +16,14 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+So I'm sure that all of us have at least someone that has told us happiness has nothing to do with money, that you can be rich and so depressed as well as poor and really happy, but is this true?
+
+That is what I will try to figure out by comparing the richness of the people with their happiness to see if it is just an urban legend or if actually we can trsut the people who told us so.
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+Is it better to be happy or wealthy
 
 <a name="dataset"></a>
 
