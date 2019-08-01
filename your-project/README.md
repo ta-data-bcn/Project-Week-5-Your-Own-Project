@@ -47,13 +47,12 @@ After we got all of this work done, then make visualizations and prepare the pre
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
-
+For the organization of the project I used trello, which was very useful, still i'd have liked to use it better 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/)  
+[Slides](https://docs.google.com/presentation/d/1656ciHpK2HEVaPjZz2oiAD8recK2C0RdGqjZSavkQr0/edit?usp=sharing)  
+[Trello](https://trello.com/invite/b/lAZ8GE2J/da936c0eef0783107f65492163d6cba5/project-4-happy-or-wealthy)  
