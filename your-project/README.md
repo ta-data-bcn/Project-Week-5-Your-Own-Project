@@ -51,6 +51,6 @@ Meanwhile doing the slices.
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/haule92/Project-Week-5-Your-Own-Project)  
+[Slides](https://slides.com/haule92/deck)  
+[Trello](https://trello.com/b/eOS6AxcI/project-4-representdataanalysis)  
