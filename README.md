@@ -22,10 +22,8 @@ This project aims to analyze the correlation between the economy of each country
 
 ## Hypotheses
 The hypotheses formulated for the analysis are:
-- The pollution index and the GDP growth are positively and strongly correlated.
-- The developing countries have the highest indexes for GDP growth, industrial production and pollution.
-- The developed countries have the lowest indexes for GDP growth, industrial production and pollution.
-- The developed countries have a bigger GDP per capita than the developing country.
+- The pollution index and the GDP are positively and strongly correlated.
+- The developed countries have a bigger GDP per capita than the emerging country.
 - There is a negative correlation between the GDP per capita and the pollution index.
 
 <a name="dataset"></a>
@@ -71,5 +69,5 @@ I used Trello for the whole organization of the project.
 Related links:
 
 [Repository](https://github.com/miquelpetit/Project-Week-5-Your-Own-Project/)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1VwhqSD-l47X-A5Dp7uHP4HAGKcivGi9_np0H6pNqtj8/edit?usp=sharing)  
 [Trello](https://trello.com/b/36bAeF6M)  
