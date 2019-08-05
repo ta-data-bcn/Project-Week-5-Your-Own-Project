@@ -98,3 +98,4 @@ This repository is structured in different folders and scripts:
 [Repository](https://github.com/wobniarin/Project-Week-5-Your-Own-Project)  
 [Slides](https://slides.com/ingridmunnecollado/project-4-electricity-market-analysis)  
 [Trello](https://trello.com/invite/b/eMtJ3FEv/971369a4011b84485d871090f1806929/project-4-electricity-market-data)  
+[Medium](https://medium.com/@ingridmunne/is-your-electricity-consumption-20-20-20-efd7078b81ec?sk=e632d1fc56f32aaff28b75185427ed8f)
