@@ -85,10 +85,11 @@ This repository is structured in different folders and scripts:
         Here you can find the final datasets with the cleaned data ready for visualization and Exploratory Data Analysis. 
     - Figures: 
         All the figures that have been used for the presentation and the figures that has been done under the analysis part of the project
-    - Project_4_Data_Wrangling.ipynb
+    - Project_W5_Data_Wrangling.ipynb
         Jupyter notebook with all the data collection and data cleaning. 
-    - Project_4_Data_Wrangling.ipynb
-        Jupyter notebook with all the Exploratory Data Analysis and Data Visualization
+    - Project_W5_Data_Visualization_Paper.ipynb
+        Jupyter notebook with all the Exploratory Data Analysis and Data Visualization. 
+        It is structured as a paper, with all the explanations about the data analysis. 
 
 <a name="links"></a>
 
