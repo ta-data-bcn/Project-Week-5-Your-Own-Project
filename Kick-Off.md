@@ -1,117 +1,75 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to Your Own Project!
-This project is completely up to you!
+# How much have I contributed to the global warming?
+*Chao-Ting, Chang*
+
+*[Data Analytics, Barcelona & June 2019]*  
+*Presentation Date: 31 - 07 - 2019*
 
 ## Content
 - [Project Description](#project-description)
-- [Project Goals](#project-goals)
-- [Requirements](#requirements)
-- [Deliverables](#deliverables)
-- [Mentoring](#mentoring)
-- [Schedule](#schedule)
-- [Presentation](#presentation)
-- [Tips & Tricks](#tips-&-tricks)
-- [Resources](#resources)
+- [Hypotheses / Questions](#hypotheses-/-questions)
+- [Dataset](#dataset)
+- [Workflow](#workflow)
+- [Organization](#organization)
+- [Links](#links)
 
 <a name="project-description"></a>
 
 ## Project Description
-In this project, you will think of a topic, find the data, complete an end-to-end analysis and present the data in multiple ways, all by yourself. First, choose a topic of interest to you and understand what research has already been done in that area. What are some interesting questions that remain? You will then find some data you think could help answer those questions and complete an analysis with relevant visualizations. Last, you will present your findings both in a presentation and a technical paper. 
+In this project I want to know my carbon footprint (how much carbon I have produced) during the last 2 months by driving to Barcelona instead of using public transportation. 
 
-<a name="project-goals"></a>
 
-## Project Goals
-* Research and analyse data on a topic of interest to you.
-* Apply the statistical techniques we have learned. 
-* Create useful and easily-interpretable plots.
-* Communicate the results of your analysis clearly, accurately and engagingly. 
-* Learn to change the style of your communication depending on the audience.
+<a name="hypotheses-/-questions"></a>
 
-<a name="requirements"></a>
+## Questions (Things I want to know)  
 
-## Requirements  
-* You must plan your project. That is why creating a Kanban or Trello Board is mandatory. You have a template for Trello [here](https://trello.com/b/YX8EsB2P/project-4-your-own-project).
-* You **CAN'T CODE** until you project is planned.
-* Create a *.gitignore* file and include it in your repository. 
+ - How long is my commute time (from Sabadell to Barcelona Glories) ? 
+ - Does it differ before and after July (when people are in vacation)?
+ - Does the commute time differ by rain event?
+ - How much carbon I have emitted during the last two months by car?
+ - How much carbon I would emitted if I use the public transportation.
 
-<a name="deliverables"></a>
+<a name="dataset"></a>
 
-## Deliverables
-* A notebook with your analysis. Either Jupyter or Zeppelin notebooks are allowed.
-* Slides and a 3 minute presentation in the auditorium.
-* Repository with your workflow + documentation + code. Even if you are working alone, you need to maintain good practices!
-* A short technical paper including your motivation, methodology and results.
+## Dataset
+The data is downloaded from the Google My Timeline and the carbon emission information is from [UK Vehicle Certification Agency]( https://carfueldata.vehicle-certification-agency.gov.uk/) and [Carbon Footprint 
+of Railway Infrastructure](https://uic.org/IMG/pdf/carbon_footprint_of_railway_infrastructure.pdf)
 
-<a name="mentoring"></a>
+[Dataset]() 
 
-## Mentoring
-One of the TAs will be your mentor!
-Your mentor will:
-* Follow your project in general, will be the second person that knows more about the project, after you.
-* Check if you are following the tasks, your blockers, etc
-* Help/support you in specific questions.
+<a name="workflow"></a>
 
-Your mentor is not meant to:
-* Know everything.
-* Be your manager. You have to be the responsible person to do the tasks!
+## Workflow
+Outline the workflow you used in your project. What were the steps you went through?
 
-<a name="schedule"></a>
+ 1. Decide the topic and roughly the questions
+ 2. Check if I have enough data or not (if not, back to step 1)
+ 3. Download data and relevant information.
+ 4. Data wrangling to desired format and shape.
+ 5. Data Analysis, graphing and mapping.
 
-## Schedule
-*Today*
-* Think about a topic and propose some questions. 
-* Choose data that is relevant to your questions. 
-* Look for documentation to give context to your project.
-* Write the README file in your repository.
-* **DO NOT START CODING**
+<a name="organization"></a>
 
-*Tuesday*
-* Teachers validation 
+## Organization
+How did you organize yourself? Did you use any tools?
 
-**NO CODE UNTIL HERE**
+Tools for analysis:
+1. Jupyter notebook
+2. R studio
 
-*Tuesday-Wednesday*
-* Start importing the data and cleaning it.
-* Start the analysis. Remember all the techniques you have learned!
-* Prepare a draft of your first slides presentation (no analysis or conclusions yet): title, motivation, context, ...
+Tools for paper:
+1. Jupyter notebook
 
-*Thursday*
-* First rehearsal. Take the feedback and use it!
+Tools for project management:
+1. Trello
+2. Handwriting notebook
 
-*Thursday - Next Tuesday*
-* Finish the analysis. Finish the slides.
+<a name="links"></a>
 
-*Tuesday*
-* General rehearsal.
+## Links
+Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-*Tuesday - Wednesday*
-* Final improvements!
-
-*Wednesday*
-* Presentation!
-
-<a name="presentation"></a>
-
-## Presentation  
-Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you!  
-After the presentations, the audience will evaluate you by indicating how well they understood what you were trying to present and how you presented it. This information will help you in further presentations!
-
-<a name="tips-&-tricks"></a>
-
-## Tips & Tricks
-* Organize yourself (don't get lost!).
-* Ask for help vs Google is your friend.
-* Define a simple approach first. You never know how the data can betray you ;)
-* Learn about your subject and understand what other research has been done before you.
-* You *can* use data from the projects your partners did in the last weeks. You can't use your own project.
-* Before making a graph, think about what you want to represent.
-
-<a name="resources"></a>
-
-## Resources
-Here are some data sources that could be interesting to you:  
-* [Explore the Google Trends](http://pages.today/trends4)  
-* [Hans Roslings's vizs](http://b.link/ted52)  
-* [See an analysis about heart diseases](http://b.link/kaggle10)  
-* [Your body's data](http://body.media/ted6)
+[Repository](https://github.com/ChaotingChang/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/1mfJRlgvmGyomYcZDcPLVlt92XbQo2txB1tN5MI9BVCE/edit?usp=sharing)  
+[Trello](https://trello.com/b/QVHzBE1a/project-4-air-pollution-i-produced-chao)  
