@@ -18,7 +18,8 @@
 ## Project Description
 
 The project looks at the evolution of complaints reported to the police in New York during the last year.
-The goal is to calculate some probabilities of complaints as a function of the district, of time of the day and other parameters to be determined
+The goal is to analyse the crimes as a function of the district, hour of the day, ethnical background of the victim and the influence of poverty.
+**The results can be found in the Jupyter Notebook entitled "PAPER How to stay safe in New York"**
 
 
 <a name="hypotheses-/-questions"></a>
