@@ -1,113 +1,108 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Welcome to Your Own Project!
-This project is completely up to you!
+
 
 ## Content
 - [Project Description](#project-description)
 - [Project Goals](#project-goals)
-- [Requirements](#requirements)
-- [Deliverables](#deliverables)
+- [Data Workflow](#data-workflow)
+- [Requirements & Deliverables](#requirements-&-deliverables)
 - [Mentoring](#mentoring)
 - [Schedule](#schedule)
 - [Presentation](#presentation)
 - [Tips & Tricks](#tips-&-tricks)
 - [Resources](#resources)
 
-<a name="project-description"></a>
-
 ## Project Description
-In this project, you will think of a topic, find the data, complete an end-to-end analysis and present the data in multiple ways, all by yourself. First, choose a topic of interest to you and understand what research has already been done in that area. What are some interesting questions that remain? You will then find some data you think could help answer those questions and complete an analysis with relevant visualizations. Last, you will present your findings both in a presentation and a technical paper. 
+The objective of this project is choosing a topic that interests you, finding related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and find questions that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it using visualizations to support your reasoning. Finally, present your result in a presentation and a technical paper.
 
-<a name="project-goals"></a>
+When choosing your topic remember that this project allows you to use **data from your colleagues' past projects, BUT NOT YOURS!**
 
 ## Project Goals
-* Research and analyse data on a topic of interest to you.
-* Apply the statistical techniques we have learned. 
-* Create useful and easily-interpretable plots.
-* Communicate the results of your analysis clearly, accurately and engagingly. 
-* Learn to change the style of your communication depending on the audience.
+During this project you will:
+* Research and analyze data related to a topic of your interest.
+* Apply the statistical techniques you have learned.
+* Create useful and easily understandable plots.
+* Communicate the results of your analysis clearly, accurately and engagingly.
+* Learn to adapt your communication style to your audience.
 
-<a name="requirements"></a>
+## Data Workflow
+In this project you will focus on Data Analysis, but you will continue to develop your Data Wrangling and Visualization skills.
 
-## Requirements  
-* You must plan your project. That is why creating a Kanban or Trello Board is mandatory. You have a template for Trello [here](https://trello.com/b/YX8EsB2P/project-4-your-own-project).
-* You **CAN'T CODE** until you project is planned.
-* Create a *.gitignore* file and include it in your repository. 
+## Requirements & Deliverables
+The **mandatory** requirements that this project needs to satisfy are:
+* The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md). Remember that you **CAN'T CODE** until your project is planned.
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
+* The project needs to be presented to your colleagues on the day of the presentation.
 
-<a name="deliverables"></a>
-
-## Deliverables
-* A notebook with your analysis. Either Jupyter or Zeppelin notebooks are allowed.
-* Slides and a 3 minute presentation in the auditorium.
-* Repository with your workflow + documentation + code. Even if you are working alone, you need to maintain good practices!
-* A short technical paper including your motivation, methodology and results.
-
-<a name="mentoring"></a>
+The **mandatory** deliverables that you must turn in are:
+* Link to the repository you used while working on your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
+* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
+* A short technical paper illustrating your analysis in whatever format you prefer (e.g. Medium article, Jupyter notebook, etc.)
 
 ## Mentoring
 One of the TAs will be your mentor!
+
 Your mentor will:
-* Follow your project in general, will be the second person that knows more about the project, after you.
-* Check if you are following the tasks, your blockers, etc
-* Help/support you in specific questions.
+* Keep track of your project in general terms. Your mentor will be the second person that knows more about the project, after you.
+* Check if you are following your plan: are you keeping up with your tasks and deadlines? Do you have any obstacles blocking you?
+* Help/support you with specific questions.
 
-Your mentor is not meant to:
+Your mentor is **not** meant to:
 * Know everything.
-* Be your manager. You have to be the responsible person to do the tasks!
-
-<a name="schedule"></a>
+* Be your manager. You have to be responsible of your own tasks!
 
 ## Schedule
-*Today*
-* Think about a topic and propose some questions. 
-* Choose data that is relevant to your questions. 
-* Look for documentation to give context to your project.
-* Write the README file in your repository.
-* **DO NOT START CODING**
 
-*Tuesday*
-* Teachers validation 
+**Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**NO CODE UNTIL HERE**
+**Monday**
+* Choose a topic for your project.
+* Find interesting questions related to your topic.
+* Brainstorm to find out what kind of data you can use to answer those questions.
+* Research and look for the data you need.
+* Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 
-*Tuesday-Wednesday*
-* Start importing the data and cleaning it.
-* Start the analysis. Remember all the techniques you have learned!
-* Prepare a draft of your first slides presentation (no analysis or conclusions yet): title, motivation, context, ...
+**Tuesday**
+* Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
+* **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 4PM**.
+* Once you finish, start coding!
 
-*Thursday*
-* First rehearsal. Take the feedback and use it!
+**Tuesday - Wednesday**
+* Clean your data.
+* Start working on your analysis and plots.
+* Prepare a draft of the non-analysis slides of your presentation: title, motivation, context, etc.
 
-*Thursday - Next Tuesday*
-* Finish the analysis. Finish the slides.
+**Thursday**
+* First rehearsal **at 4PM**. Listen to the feedback you will receive and use it to improve your presentation.
 
-*Tuesday*
-* General rehearsal.
+**Thursday - Friday**
+* Keep working on the project!
 
-*Tuesday - Wednesday*
+**Monday**
+* **CHECKPOINT:** General follow-up and resolution of eventual doubts/blockers.
+
+**Tuesday**
+* Complete the analysis and slides.
+* General rehearsal **at 4PM**.
+
+**Tuesday - Wednesday**
 * Final improvements!
 
-*Wednesday*
-* Presentation!
-
-<a name="presentation"></a>
+**Wednesday**
+* Presentation time **at 4PM**!
 
 ## Presentation  
-Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you!  
-After the presentations, the audience will evaluate you by indicating how well they understood what you were trying to present and how you presented it. This information will help you in further presentations!
-
-<a name="tips-&-tricks"></a>
+Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you at 3 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
+The audience will evaluate the presentation by indicating how well they understood what you were trying to explain and how you presented it. This information will help you in further presentations!
 
 ## Tips & Tricks
-* Organize yourself (don't get lost!).
-* Ask for help vs Google is your friend.
-* Define a simple approach first. You never know how the data can betray you ;)
-* Learn about your subject and understand what other research has been done before you.
-* You *can* use data from the projects your partners did in the last weeks. You can't use your own project.
-* Before making a graph, think about what you want to represent.
-
-<a name="resources"></a>
+* Organize your work (don't get lost!).
+* Remember that Google has the answers to most of your questions. Should you not be able to find the answer on your own the TAs are here to help you.
+* Define a simple approach first. You never know how the data can betray you.
+* Learn about your subject and understand what other research has been done about the topic.
+* Think about what kind of concept or information you want to convey before using a visualization.
 
 ## Resources
 Here are some data sources that could be interesting to you:  
