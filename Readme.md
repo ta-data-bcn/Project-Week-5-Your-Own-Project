@@ -68,7 +68,6 @@ Tools for project management:
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/ChaotingChang/Project-Week-5-Your-Own-Project)  
 [Slides](https://docs.google.com/presentation/d/1mfJRlgvmGyomYcZDcPLVlt92XbQo2txB1tN5MI9BVCE/edit?usp=sharing)  
