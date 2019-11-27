@@ -48,6 +48,7 @@ My repository is structured in the following way:
 - "analysed" jupyter notebooks
 - graphs ( used to make the presentation)
 - Powerpoint presentation of the project
+- Report of the project
 
 How did you organize your work? Did you use any tools like a kanban board?
 
