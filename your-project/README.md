@@ -22,9 +22,11 @@ Cancer is now one of the main reason of deaths in general. I wanted to talk abou
 
 During my analysis I tried to answer, as precisely as I could with the data I had in my hands, to the following questions:
 
--[Impact of Cigarettes on cancer]
--[Share of Cancer deaths related to tobacco]
--[Impact of Wealth on the survival rate ]
+*[Impact of Cigarettes on cancer]*
+
+*[Share of Cancer deaths related to tobacco]*
+
+*[Impact of Wealth on the survival rate ]*
 
 ## Dataset
 
@@ -33,8 +35,8 @@ This is the link to the website: https://ourworldindata.org/cancer
 
 ## Workflow
 
-I tried to look at health organisation to find data about cancer. Eventually, I got the link to the website I used to retrieve information. The datasets used were very precise, thus not very furnished with data, however they were still very interesting to use. I tried to clean several datasets and combine them to find correlations. This process was not always very successful. 
-Regarding the questions that I asked myself to do the analysis I though os using the most appealing topics related to lung cancer within the website:https://ourworldindata.org/cancer.
+I tried to look at health organisations to find data about cancer. Eventually, I got the link to the website I used to retrieve information. The datasets used were very precise but not very furnished with actual information.The data was still  interesting to use. I tried to clean several datasets and combine them to find correlations. This process was not always very successful. 
+Regarding the questions that I asked myself to do the analysis I though about using the most appealing topics related to lung cancer within the website:https://ourworldindata.org/cancer.
 
 
 ## Organization
