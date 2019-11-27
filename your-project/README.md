@@ -58,4 +58,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/livWfPVD/project-4-lung-cancer)  
