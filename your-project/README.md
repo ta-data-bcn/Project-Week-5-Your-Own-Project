@@ -22,9 +22,9 @@ Cancer is now one of the main reason of deaths in general. I wanted to talk abou
 
 During my analysis I tried to answer, as precisely as I could with the data I had in my hands, to the following questions:
 
--Impact of Cigarettes on cancer
--Share of Cancer deaths related to tobacco
--Impact of Wealth on the survival rate 
+-[Impact of Cigarettes on cancer]
+-[Share of Cancer deaths related to tobacco]
+-[Impact of Wealth on the survival rate ]
 
 ## Dataset
 
