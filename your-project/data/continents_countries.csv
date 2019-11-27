@@ -1,0 +1,263 @@
+,Continent_Name,Three_Letter_Country_Code
+0,Asia,AFG
+1,Europe,ALB
+2,Antarctica,ATA
+3,Africa,DZA
+4,Oceania,ASM
+5,Europe,AND
+6,Africa,AGO
+7,North America,ATG
+8,Europe,AZE
+9,Asia,AZE
+10,South America,ARG
+11,Oceania,AUS
+12,Europe,AUT
+13,North America,BHS
+14,Asia,BHR
+15,Asia,BGD
+16,Europe,ARM
+17,Asia,ARM
+18,North America,BRB
+19,Europe,BEL
+20,North America,BMU
+21,Asia,BTN
+22,South America,BOL
+23,Europe,BIH
+24,Africa,BWA
+25,Antarctica,BVT
+26,South America,BRA
+27,North America,BLZ
+28,Asia,IOT
+29,Oceania,SLB
+30,North America,VGB
+31,Asia,BRN
+32,Europe,BGR
+33,Asia,MMR
+34,Africa,BDI
+35,Europe,BLR
+36,Asia,KHM
+37,Africa,CMR
+38,North America,CAN
+39,Africa,CPV
+40,North America,CYM
+41,Africa,CAF
+42,Asia,LKA
+43,Africa,TCD
+44,South America,CHL
+45,Asia,CHN
+46,Asia,TWN
+47,Asia,CXR
+48,Asia,CCK
+49,South America,COL
+50,Africa,COM
+51,Africa,MYT
+52,Africa,COG
+53,Africa,COD
+54,Oceania,COK
+55,North America,CRI
+56,Europe,HRV
+57,North America,CUB
+58,Europe,CYP
+59,Asia,CYP
+60,Europe,CZE
+61,Africa,BEN
+62,Europe,DNK
+63,North America,DMA
+64,North America,DOM
+65,South America,ECU
+66,North America,SLV
+67,Africa,GNQ
+68,Africa,ETH
+69,Africa,ERI
+70,Europe,EST
+71,Europe,FRO
+72,South America,FLK
+73,Antarctica,SGS
+74,Oceania,FJI
+75,Europe,FIN
+76,Europe,ALA
+77,Europe,FRA
+78,South America,GUF
+79,Oceania,PYF
+80,Antarctica,ATF
+81,Africa,DJI
+82,Africa,GAB
+83,Europe,GEO
+84,Asia,GEO
+85,Africa,GMB
+86,Asia,PSE
+87,Europe,DEU
+88,Africa,GHA
+89,Europe,GIB
+90,Oceania,KIR
+91,Europe,GRC
+92,North America,GRL
+93,North America,GRD
+94,North America,GLP
+95,Oceania,GUM
+96,North America,GTM
+97,Africa,GIN
+98,South America,GUY
+99,North America,HTI
+100,Antarctica,HMD
+101,Europe,VAT
+102,North America,HND
+103,Asia,HKG
+104,Europe,HUN
+105,Europe,ISL
+106,Asia,IND
+107,Asia,IDN
+108,Asia,IRN
+109,Asia,IRQ
+110,Europe,IRL
+111,Asia,ISR
+112,Europe,ITA
+113,Africa,CIV
+114,North America,JAM
+115,Asia,JPN
+116,Europe,KAZ
+117,Asia,KAZ
+118,Asia,JOR
+119,Africa,KEN
+120,Asia,PRK
+121,Asia,KOR
+122,Asia,KWT
+123,Asia,KGZ
+124,Asia,LAO
+125,Asia,LBN
+126,Africa,LSO
+127,Europe,LVA
+128,Africa,LBR
+129,Africa,LBY
+130,Europe,LIE
+131,Europe,LTU
+132,Europe,LUX
+133,Asia,MAC
+134,Africa,MDG
+135,Africa,MWI
+136,Asia,MYS
+137,Asia,MDV
+138,Africa,MLI
+139,Europe,MLT
+140,North America,MTQ
+141,Africa,MRT
+142,Africa,MUS
+143,North America,MEX
+144,Europe,MCO
+145,Asia,MNG
+146,Europe,MDA
+147,Europe,MNE
+148,North America,MSR
+149,Africa,MAR
+150,Africa,MOZ
+151,Asia,OMN
+152,Africa,NAM
+153,Oceania,NRU
+154,Asia,NPL
+155,Europe,NLD
+156,North America,ANT
+157,North America,CUW
+158,North America,ABW
+159,North America,SXM
+160,North America,BES
+161,Oceania,NCL
+162,Oceania,VUT
+163,Oceania,NZL
+164,North America,NIC
+165,Africa,NER
+166,Africa,NGA
+167,Oceania,NIU
+168,Oceania,NFK
+169,Europe,NOR
+170,Oceania,MNP
+171,Oceania,UMI
+172,North America,UMI
+173,Oceania,FSM
+174,Oceania,MHL
+175,Oceania,PLW
+176,Asia,PAK
+177,North America,PAN
+178,Oceania,PNG
+179,South America,PRY
+180,South America,PER
+181,Asia,PHL
+182,Oceania,PCN
+183,Europe,POL
+184,Europe,PRT
+185,Africa,GNB
+186,Asia,TLS
+187,North America,PRI
+188,Asia,QAT
+189,Africa,REU
+190,Europe,ROU
+191,Europe,RUS
+192,Asia,RUS
+193,Africa,RWA
+194,North America,BLM
+195,Africa,SHN
+196,North America,KNA
+197,North America,AIA
+198,North America,LCA
+199,North America,MAF
+200,North America,SPM
+201,North America,VCT
+202,Europe,SMR
+203,Africa,STP
+204,Asia,SAU
+205,Africa,SEN
+206,Europe,SRB
+207,Africa,SYC
+208,Africa,SLE
+209,Asia,SGP
+210,Europe,SVK
+211,Asia,VNM
+212,Europe,SVN
+213,Africa,SOM
+214,Africa,ZAF
+215,Africa,ZWE
+216,Europe,ESP
+217,Africa,SSD
+218,Africa,ESH
+219,Africa,SDN
+220,South America,SUR
+221,Europe,SJM
+222,Africa,SWZ
+223,Europe,SWE
+224,Europe,CHE
+225,Asia,SYR
+226,Asia,TJK
+227,Asia,THA
+228,Africa,TGO
+229,Oceania,TKL
+230,Oceania,TON
+231,North America,TTO
+232,Asia,ARE
+233,Africa,TUN
+234,Europe,TUR
+235,Asia,TUR
+236,Asia,TKM
+237,North America,TCA
+238,Oceania,TUV
+239,Africa,UGA
+240,Europe,UKR
+241,Europe,MKD
+242,Africa,EGY
+243,Europe,GBR
+244,Europe,GGY
+245,Europe,JEY
+246,Europe,IMN
+247,Africa,TZA
+248,North America,USA
+249,North America,VIR
+250,Africa,BFA
+251,South America,URY
+252,Asia,UZB
+253,South America,VEN
+254,Oceania,WLF
+255,Oceania,WSM
+256,Asia,YEM
+257,Africa,ZMB
+258,Oceania,
+259,Asia,
+260,Asia,
+261,Asia,
