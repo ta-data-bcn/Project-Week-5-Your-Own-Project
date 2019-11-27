@@ -50,7 +50,7 @@ My repository is structured in the following way:
 - Powerpoint presentation of the project
 - Report of the project
 
-How did you organize your work? Did you use any tools like a kanban board?
+To organize my work I used Trello board to divide and accomplish tasks
 
 
 ## Links
