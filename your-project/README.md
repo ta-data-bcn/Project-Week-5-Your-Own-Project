@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Lung Cancer Analysis
+*[Vladimir Autier]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona & 29.11.2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,21 +14,41 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+
+Cancer is now one of the main reason of deaths in general. I wanted to talk about lung cancer accross the globe. Therefore,I focused my analysis on finding a  match between tobacco consumption and lung cancer. 
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+
+During my analysis I tried to answer, as precisely as I could with the data I had in my hands, to the following questions:
+
+-Impact of Cigarettes on cancer
+-Share of Cancer deaths related to tobacco
+-Impact of Wealth on the survival rate 
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+
+For the Datasets that I used I found a very interesting website that was proving a lot of information about cancer in general.
+This is the link to the website: https://ourworldindata.org/cancer
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+
+I tried to look at health organisation to find data about cancer. Eventually, I got the link to the website I used to retrieve information. The datasets used were very precise, thus not very furnished with data, however they were still very interesting to use. I tried to clean several datasets and combine them to find correlations. This process was not always very successful. 
+Regarding the questions that I asked myself to do the analysis I though os using the most appealing topics related to lung cancer within the website:https://ourworldindata.org/cancer.
+
 
 ## Organization
+
+My repository is structured in the following way:
+
+- data(data sets used)
+- "cleaned" jupyter notebooks
+- "analysed" jupyter notebooks
+- graphs ( used to make the presentation)
+- Powerpoint presentation of the project
+
 How did you organize your work? Did you use any tools like a kanban board?
 
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
