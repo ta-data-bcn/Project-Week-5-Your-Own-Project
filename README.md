@@ -54,14 +54,14 @@ In this project the main interest was to know the relationship between Happiness
 
 Used Trello to keep track of the tasks done and those that were pending.
 
-#### Inside the repository there are three folders:
-###code:
+### Inside the repository there are three folders:
+#### code:
 - *project4.ipynb - This file has the code used to clean, analyze, visualize the data.*
 
-###images:
+#### images:
 - *This folder contains the plots saved from the code and the images used in the code.*
 
-###datasets:
+#### datasets:
 - *This folder contains the CSVs used during the analysis and it also has the datasets saved after the cleanig and merging.*
 
 
