@@ -56,13 +56,13 @@ Used Trello to keep track of the tasks done and those that were pending.
 
 ### Inside the repository there are three folders:
 - code:
-*project4.ipynb - This file has the code used to clean, analyze, visualize the data.
+*project4.ipynb - This file has the code used to clean, analyze, visualize the data.*
 
 - images:
-*This folder contains the plots saved from the code and the images used in the code.
+*This folder contains the plots saved from the code and the images used in the code.*
 
 - datasets:
-*This folder contains the CSVs used during the analysis and it also has the datasets saved after the cleanig and merging.
+*This folder contains the CSVs used during the analysis and it also has the datasets saved after the cleanig and merging.*
 
 
 ## Links
