@@ -33,6 +33,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/alieldinramadan/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/1TWcIKyQ23GG1R8cHL5WXQORF8u245eJwR6POXgpVn3s/edit?usp=sharing)  
+[Trello](https://trello.com/b/Su2GJ7pz/project-4)  
