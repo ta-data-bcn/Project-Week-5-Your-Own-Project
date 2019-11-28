@@ -27,7 +27,7 @@ In this project the main interest was to know the relationship between Happiness
 - What is the relationship between happiness and average working hours by country?
 - What is the relationship between happiness and obesity among adults by country?
 - What is the relationship between happiness and average alchohol consumption per captia by country?
-- What is the relationship between happiness and percentage of suicide by country?
+- What is the relationship between happiness and percentage/rate of suicide by country?
 
 ## Dataset:
 
@@ -45,9 +45,16 @@ In this project the main interest was to know the relationship between Happiness
 
 ## Workflow
 
-- 
-
-
+- Finding the world's happness datasets for the past few years (2015, 2016, 2017 & 2018).
+- Cleaning and combining the datasets together and taking the average happiness score over the four years.
+- Finding datasets about average working hours by country, obesity among adults by country, average alchohol consumption per captia by country & percentage of suicide by country.
+- Cleaning each of the new datasets and combining each with the combined happiness dataset.
+- Plotting and visualizing the data.
+- Finding weither there is a relation / correlation between happiness and average working hours by country or not.
+- Finding weither there is a relation / correlation between happiness and obesity among adults by country or not.
+- Finding weither there is a relation / correlation between happiness and average alchohol consumption per captia or not.
+- Finding weither there is a relation / correlation between happiness and percentage/rate of suicide or not.
+- The final step was to proved or disaproved each hyptheses, based on the visualization and findings. 
 
 
 ## Organization:
