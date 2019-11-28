@@ -31,11 +31,16 @@ In this project the main interest was to know the relationship between Happiness
 
 ## Dataset:
 
-[World Happiness Reports (2015, 2016 & 2017) datasets - Kaggle.com](https://www.kaggle.com/unsdsn/world-happiness#2016.csv)  
-[World Happiness Reports (2018) dataset - Kaggle.com](https://www.kaggle.com/njlow1202/world-happiness-report-data-2018/version/1)  
+[World Happiness Reports (2015, 2016 & 2017) datasets - Kaggle.com](https://www.kaggle.com/unsdsn/world-happiness#2016.csv)
+
+[World Happiness Reports (2018) dataset - Kaggle.com](https://www.kaggle.com/njlow1202/world-happiness-report-data-2018/version/1)
+
 [Average annual working hours dataset - OECD.Stat](https://stats.oecd.org/Index.aspx?DataSetCode=ANHRS)
+
 [Prevalence of overweight among adults (Obesity) dataset - World Health Organization](http://apps.who.int/gho/data/node.main.A897A?lang=en)
+
 [Alcohol consumption - Five-Thirty-Eight](https://datahub.io/five-thirty-eight/alcohol-consumption#data)
+
 [Suicide Statistics - World Health Organization - Kaggle.com](https://www.kaggle.com/szamil/who-suicide-statistics)
 
 ## Workflow
@@ -49,13 +54,15 @@ In this project the main interest was to know the relationship between Happiness
 
 Used Trello to keep track of the tasks done and those that were pending.
 
-# Inside the repository there are three folders:
+### Inside the repository there are three folders:
 - code:
-	*project4.ipynb - This file has the code used to clean, analyze, visualize the data.
+*project4.ipynb - This file has the code used to clean, analyze, visualize the data.
+
 - images:
-	*This folder contains the plots saved from the code and the images used in the code.
+*This folder contains the plots saved from the code and the images used in the code.
+
 - datasets:
-	*This folder contains the CSVs used during the analysis and it also has the datasets saved after the cleanig and merging.
+*This folder contains the CSVs used during the analysis and it also has the datasets saved after the cleanig and merging.
 
 
 ## Links
