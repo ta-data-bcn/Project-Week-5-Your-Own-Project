@@ -1,0 +1,8 @@
+MAKEDATE([Year],
+
+IF [Qtr] = 1 THEN 2
+ELSEIF [Qtr] = 2 THEN 5
+ELSEIF [Qtr] = 3 THEN 8
+ELSEIF  [Qtr] = 4 THEN 11
+END
+,1)

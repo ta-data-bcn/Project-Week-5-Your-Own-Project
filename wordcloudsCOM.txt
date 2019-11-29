@@ -1,0 +1,11 @@
+2	WSGet
+1	RemoveOutliers
+1	ReviewDate
+1	CleanData
+1	Download
+1	ForLoops
+1	Remove
+1	Locate
+1	OLS
+1	ETL
+1	SQL
