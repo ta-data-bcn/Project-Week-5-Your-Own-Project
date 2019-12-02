@@ -48,7 +48,7 @@ Please find all relevant links for this project below:
 [Repository](https://github.com/tristar82/Project-Week-5-Your-Own-Project)
 [Slides](https://docs.google.com/presentation/d/1ntvhh3T5yhw0c4Id9WEzne0ytdI7Jb08iOEXCvP2-j4/edit?usp=sharing)
 [Trello](https://trello.com/b/5O45JOM2/project-4-bcn-rental-data)
-[Medium Article](xxxxx)
+[Medium Article](https://medium.com/@elliottcoyne/what-does-it-take-for-an-apartment-in-barcelona-to-be-a-survivor-10e0ad337672)
 **Data Sources**
 [OpenData BCN](https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-mercat-immobiliari-lloguer-mitja-mensual)
 [Insideairbnb](http://insideairbnb.com/get-the-data.html)
