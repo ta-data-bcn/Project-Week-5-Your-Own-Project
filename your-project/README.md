@@ -46,7 +46,7 @@ The respository root folder has one main working directory, 'your-project' which
 ## Links
 Please find all relevant links for this project below:
 [Repository](https://github.com/tristar82/Project-Week-5-Your-Own-Project)
-[Slides](https://slides.com/)
+[Slides](https://docs.google.com/presentation/d/1ntvhh3T5yhw0c4Id9WEzne0ytdI7Jb08iOEXCvP2-j4/edit?usp=sharing)
 [Trello](https://trello.com/b/5O45JOM2/project-4-bcn-rental-data)
 [Medium Article](xxxxx)
 **Data Sources**
