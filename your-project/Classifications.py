@@ -39,48 +39,48 @@ def first(value,value1):
 def Vcalm(value1):
     
     if value1 is 'VL':
-        return 'anxious and weakness'
+        return 'anxious'
         
     elif value1 is 'L':
-        return 'embarassed and doubtful'
+        return 'embarassed'
         
     elif value1 == 'H':
-        return 'serious and polite' 
+        return 'serious' 
     
     elif value1 == 'VH':
-        return 'peaceful and friendly'
+        return 'peaceful'
         
         
         
 def calm(value1):
     
     if value1== 'VL':
-        return 'depressed and miserably uncomfortable'
+        return 'depressed'
     
     elif value1 == 'L':
-        return 'worried and feeling guilt'
+        return 'worried'
     
     elif value1 == 'H':
-        return 'impressed and attentive'
+        return 'impressed'
     
     elif value1 == 'VH':
-        return 'hopeful and pleased'
+        return 'hopeful'
     
     
 def active(value1):
     conds=['VL','L','H','VH']
     
     if value1== 'VL':
-        return 'discontented and disgusted'
+        return 'discontented'
     
     elif value1 == 'L':
-        return 'distrustful and indignant'
+        return 'distrustful'
     
     elif value1 == 'H':
-        return 'passionate and light hearted'
+        return 'passionate'
     
     elif value1 == 'VH':
-        return 'happy and determined'
+        return 'happy'
     
     
     
@@ -88,14 +88,14 @@ def Vactive(value1):
     conds=['VL','L','H','VH']
     
     if value1== 'VL':
-        return 'hateful and disrespectful'
+        return 'hateful'
     
     elif value1 == 'L':
-        return 'angry, alarmed and afraid'
+        return 'angry and afraid'
     
     elif value1 == 'H':
-        return 'ambitious and feeling superior'
+        return 'ambitious'
 
     elif value1 == 'VH':
-        return 'excited and courageous'
+        return 'excited'
         

@@ -37,6 +37,6 @@ and one file for all the function i used which is 'Classifications.py'
 
 ## Links
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/IslaamSabbah/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/1l2pl2wlOQhmvX10DRaG5th0uy4pvH3_PaT_DuR58eY8/edit?usp=sharing)  
 [Trello](https://trello.com/en)  
