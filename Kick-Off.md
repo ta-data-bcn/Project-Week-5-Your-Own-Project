@@ -57,41 +57,35 @@ Your mentor is **not** meant to:
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Monday**
+**Wednesday**
 * Choose a topic for your project.
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need.
 * Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 
-**Tuesday**
+**Thursday**
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
 * **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 4PM**.
 * Once you finish, start coding!
 
-**Tuesday - Wednesday**
+**Thursday - Friday**
 * Clean your data.
 * Start working on your analysis and plots.
 * Prepare a draft of the non-analysis slides of your presentation: title, motivation, context, etc.
-
-**Thursday**
-* First rehearsal **at 4PM**. Listen to the feedback you will receive and use it to improve your presentation.
-
-**Thursday - Friday**
-* Keep working on the project!
 
 **Monday**
 * **CHECKPOINT:** General follow-up and resolution of eventual doubts/blockers.
 
 **Tuesday**
 * Complete the analysis and slides.
-* General rehearsal **at 4PM**.
-
-**Tuesday - Wednesday**
-* Final improvements!
 
 **Wednesday**
-* Presentation time **at 4PM**!
+* General rehearsal **at 2PM**. Listen to the feedback you will receive and use it to improve your presentation.
+* Final improvements!
+
+**Thursday**
+* Presentations time **at 2PM**!
 
 ## Presentation  
 Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you at 3 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
