@@ -1,8 +1,7 @@
-
 CREATE TABLE IF NOT EXISTS Market (
     ID INT AUTO_INCREMENT,
     market_name VARCHAR(64),
-    date_ref DATE,
+    date_ref VARCHAR(32),
     open FLOAT,
     close FLOAT,
     high FLOAT,
