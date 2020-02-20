@@ -24,7 +24,7 @@ def cols_astype(df, cols, new_type):
 
 def clear_nan(df, cols):
     for col in cols:
-        df[col] = df[col][df[col].notnull()]
+        df[col][df[col].isnull()] = -1
     return df
 
 
