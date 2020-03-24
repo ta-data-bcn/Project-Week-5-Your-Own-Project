@@ -16,6 +16,7 @@ Zak Abou Merieme
 ## Project Description ##
 
 The idea behind this project is to analyse the AirBnB NY dataset, find insights about the listings, and generate visualizations using Tableau.
+
 New York will always be a hot destination, we all grew up watching several tv shows and movies showcasing NY, so I wanted to make this project about this amazing city (to know where I should stay when I visit it :) )
 
 to achieve that, the breakdown of the project goes as described below:
