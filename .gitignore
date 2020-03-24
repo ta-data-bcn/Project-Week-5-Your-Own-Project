@@ -160,7 +160,5 @@ dmypy.json
 # Ignore all local history of files
 .history
 
-AB_NYC_2019_clean.csv
-AB_NYC_2019.csv
 
 # End of https://www.gitignore.io/api/macos,python,jupyternotebooks,visualstudiocode
