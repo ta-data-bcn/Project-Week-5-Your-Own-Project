@@ -32,7 +32,7 @@ In this project you will focus on Data Analysis, but you will continue to develo
 
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
-* The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md). Remember that you **CAN'T CODE** until your project is planned.
+* The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
 * Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
 * The project needs to be presented to your colleagues on the day of the presentation.
 
