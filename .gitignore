@@ -33,4 +33,7 @@ Temporary Items
 # Jupiter Notebook checkpoints
 .ipynb_checkpoints
 
+# DS_Store
+.DS_Store
+
 # End of https://www.gitignore.io/api/macos
