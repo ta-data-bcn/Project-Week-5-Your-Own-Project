@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Javier Hita*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona, May 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,23 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This projects is about analysing kickstarters platform. The reason I decided to do the project about this theme is because kickstarters is a perfect way to raise funding without having to give up equity and I would like to better understand how they work and to know more about which succeed and which do not.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+Which are the projects that succeed the most? What does the success depend on? Were does most investment go to? Is there any trick to make your kickstarter succeed?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+The dataset I used is a csv file which I found from a person who had been scrapping the kickstarter platform for months. The data had some issues, but it was pretty clean.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Once I had found the dataset, I cleaned and formated the data, as well as adding many extra columns which would provide me many other points where to head my analysis. Moreover, the first analysis I carried out in a Jupyter notebook file but for the visualization of the data I used Tableau.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+I organized my work using trello's website, which helped me to have everything prepared with a lot of time in advance.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/Javierhvb/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/1tohnLLKeJRlQesT6RmqTz156Q-t6oSBLI2UQMpgVb18/edit?usp=sharing)  
 [Trello](https://trello.com/en)  
