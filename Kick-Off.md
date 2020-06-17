@@ -81,7 +81,7 @@ Your mentor is **not** meant to:
 * Complete the analysis and slides.
 
 **Thursday**
-* General rehearsal **at 2PM**. Listen to the feedback you will receive and use it to improve your presentation.
+* General rehearsal **at 3PM**. Listen to the feedback you will receive and use it to improve your presentation.
 * Final improvements!
 
 **Friday**
