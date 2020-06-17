@@ -80,12 +80,12 @@ Your mentor is **not** meant to:
 **Tuesday**
 * Complete the analysis and slides.
 
-**Wednesday**
+**Thursday**
 * General rehearsal **at 2PM**. Listen to the feedback you will receive and use it to improve your presentation.
 * Final improvements!
 
-**Thursday**
-* Presentations time **at 2PM**!
+**Friday**
+* Presentations time **at 3PM**!
 
 ## Presentation  
 Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you at 3 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
