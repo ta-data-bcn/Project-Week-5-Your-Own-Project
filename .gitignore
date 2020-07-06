@@ -18,6 +18,7 @@ ipython_config.py
 
 ### macOS ###
 # General
+git rm --cached .DS_Store
 .DS_Store
 .AppleDouble
 .LSOverride
