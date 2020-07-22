@@ -85,7 +85,7 @@ Your mentor is **not** meant to:
 * Final improvements!
 
 **Friday**
-* Presentations time **at 03:30 PM**!
+* Presentations time **at 03:00 PM**!
 
 ## Presentation  
 Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you at 3 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
