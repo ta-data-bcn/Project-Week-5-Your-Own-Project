@@ -1,0 +1,130 @@
+<style class="text/css">caption {font-size: 12pt;text-align:left;font-weight: bold;}tfoot td { text-align:left; }tbody td { text-align:right; }</style>
+<table class="ApartNum Cols7">
+<caption><p><br />Preus d'oferta d'habitatges de segona mà. 2008-2012<br />Municipis amb més de 100.000 habitants <br /></p></caption><tfoot>
+  <tr>
+    <td colspan="7">Unitats: Euros per metre quadrat construït.</td>
+  </tr>
+  <tr>
+    <td colspan="7">Font: Departament de Territori i Sostenibilitat. Secretaria d'Habitatge i Millora Urbana.</td>
+  </tr>
+</tr><tr><td></td></tr></tfoot>
+<tbody>
+<tr class="cap">
+<th></th>
+<th scope="col" style="text-align:right">2008</th>
+<th scope="col" style="text-align:right">2009</th>
+<th scope="col" style="text-align:right">2010</th>
+<th scope="col" style="text-align:right">2011</th>
+<th scope="col" style="text-align:right">2012</th>
+</tr>
+<tr class="primera">
+<th style="font-weight:normal;text-align:left" scope="row">Badalona</th>
+<td style="font-weight:normal;text-align:right">3.054,47</td>
+<td style="font-weight:normal;text-align:right">2.881,26</td>
+<td style="font-weight:normal;text-align:right">2.742,24</td>
+<td style="font-weight:normal;text-align:right">2.354,57</td>
+<td style="font-weight:normal;text-align:right">2.125,12</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Barcelona</th>
+<td style="font-weight:normal;text-align:right">3.926,95</td>
+<td style="font-weight:normal;text-align:right">3.849,19</td>
+<td style="font-weight:normal;text-align:right">3.832,58</td>
+<td style="font-weight:normal;text-align:right">3.494,42</td>
+<td style="font-weight:normal;text-align:right">3.096,73</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Gavà</th>
+<td style="font-weight:normal;text-align:right">3.109,09</td>
+<td style="font-weight:normal;text-align:right">3.106,83</td>
+<td style="font-weight:normal;text-align:right">3.095,49</td>
+<td style="font-weight:normal;text-align:right">2.556,07</td>
+<td style="font-weight:normal;text-align:right">2.540,76</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Girona</th>
+<td style="font-weight:normal;text-align:right">2.566,95</td>
+<td style="font-weight:normal;text-align:right">2.073,30</td>
+<td style="font-weight:normal;text-align:right">2.167,26</td>
+<td style="font-weight:normal;text-align:right">2.110,69</td>
+<td style="font-weight:normal;text-align:right">2.098,66</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">l'Hospitalet de Llobregat</th>
+<td style="font-weight:normal;text-align:right">3.242,44</td>
+<td style="font-weight:normal;text-align:right">3.052,66</td>
+<td style="font-weight:normal;text-align:right">2.791,13</td>
+<td style="font-weight:normal;text-align:right">2.459,82</td>
+<td style="font-weight:normal;text-align:right">2.314,64</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Lleida</th>
+<td style="font-weight:normal;text-align:right">1.886,67</td>
+<td style="font-weight:normal;text-align:right">1.893,93</td>
+<td style="font-weight:normal;text-align:right">1.582,24</td>
+<td style="font-weight:normal;text-align:right">1.431,00</td>
+<td style="font-weight:normal;text-align:right">1.259,61</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Mataró</th>
+<td style="font-weight:normal;text-align:right">2.988,36</td>
+<td style="font-weight:normal;text-align:right">2.652,85</td>
+<td style="font-weight:normal;text-align:right">2.575,75</td>
+<td style="font-weight:normal;text-align:right">2.262,58</td>
+<td style="font-weight:normal;text-align:right">2.206,08</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Ripollet</th>
+<td style="font-weight:normal;text-align:right">2.700,67</td>
+<td style="font-weight:normal;text-align:right">2.619,72</td>
+<td style="font-weight:normal;text-align:right">2.508,94</td>
+<td style="font-weight:normal;text-align:right">2.331,06</td>
+<td style="font-weight:normal;text-align:right">2.235,00</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Sabadell</th>
+<td style="font-weight:normal;text-align:right">2.851,32</td>
+<td style="font-weight:normal;text-align:right">2.497,28</td>
+<td style="font-weight:normal;text-align:right">2.362,27</td>
+<td style="font-weight:normal;text-align:right">2.100,56</td>
+<td style="font-weight:normal;text-align:right">1.938,45</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Tarragona</th>
+<td style="font-weight:normal;text-align:right">2.579,10</td>
+<td style="font-weight:normal;text-align:right">2.505,17</td>
+<td style="font-weight:normal;text-align:right">2.337,28</td>
+<td style="font-weight:normal;text-align:right">2.107,69</td>
+<td style="font-weight:normal;text-align:right">1.930,16</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Terrassa</th>
+<td style="font-weight:normal;text-align:right">2.676,24</td>
+<td style="font-weight:normal;text-align:right">2.451,45</td>
+<td style="font-weight:normal;text-align:right">2.140,66</td>
+<td style="font-weight:normal;text-align:right">2.026,73</td>
+<td style="font-weight:normal;text-align:right">1.894,89</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class="darrera total separada">
+<th style="font-weight:bold;text-align:left" scope="row">Catalunya</th>
+<td style="font-weight:bold;text-align:right">3.385,04</td>
+<td style="font-weight:bold;text-align:right">3.233,28</td>
+<td style="font-weight:bold;text-align:right">3.145,49</td>
+<td style="font-weight:bold;text-align:right">2.845,19</td>
+<td style="font-weight:bold;text-align:right">2.580,01</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<br />Institut d'Estadística de Catalunya<br /> <a href="https://www.idescat.cat/pub/?id=aec&amp;n=729&amp;t=2012">https://www.idescat.cat/pub/?id=aec&amp;n=729&amp;t=2012</a>
