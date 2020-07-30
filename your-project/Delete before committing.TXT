@@ -1,0 +1,48 @@
+Project topic:
+Sneakers resell market
+principal source stockx
+which gets uss data on:
+-Last sale price
+-Lowest ask (the least anyone is willing to accpet for it)
+-Highest bid (the more anyone is willing to pay for it)
+-style (code for the brand)
+-colorway
+-retail price
+-release date
+-the maximum and minimum in a 52 weeks period
+-the trade range in the last 12 months
+-the volatility
+-Hist. number of sales
+-Hist. price premium over the original
+-Hist average sale price
+
+*what is my population of interest?
+top rated, highest premium over og price, highest average price
+
+*what questions can I ask about them?
+by price  what charachteristics of the sneaker, brand, model 
+-which brands are more common among the most expensive?
+-which models ? colors?
+-collaboration and with who?
+ all of this can be done with more or less simple scrapping
+
+then for the top 20(or top 10, or simply some I like) we can try and se the evolution
+and get data on whether cultural events(documentaries, songs, fashion shows, political rallies are correlated with the data)
+the way to get the data on cultural event will be to search for those particular models and see if the price changed or any of the other 
+of these (Last sale price
+-Lowest ask (the least anyone is willing to accpet for it)
+-Highest bid (the more anyone is willing to pay for it)) changed 
+process, plot the evolution and see if there are any spikes, if there are reaserch news related to it
+(maybe twitter mentions of the designer or someone related?only last 7 days available. maybe google searches for that person)
+
+It would be good to find a database on the number of pairs for each colorway. ASK ALI
+
+QUeSTION block 1: Which brand is most often resold at the highest prices?
+Which model?
+Which colorway?
+
+QUESTION block 2:Does the evolution of the price of selected models prices correlate with the popularity of the related figure ( designer/ collaborator) meassured in google searches?
+
+bonus:is the volatity of the price related to the premium? aka are more hyped sneakers a riskier investment?
+
+storytelling idea:go from the general question of which company is more hyped with the insight that most of them are collaborations, then proceed to analyse only collabs.
