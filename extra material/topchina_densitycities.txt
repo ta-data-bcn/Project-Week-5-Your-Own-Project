@@ -1,0 +1,41 @@
+Main cities china by density of population 2018
+
+1. Shanghai — 23.4 million people
+	Area: 3,900 km2 (1,500 sq mi)
+	Density: 6,000/km2 (15,000 per sq mi)
+
+2. Beijing — 18.8 million people
+	Area: 4,100 km2 (1,600 sq mi)
+	Density: 4,500/km2 (12,000 per sq mi)
+
+3. Tianjin — 12.8 million people
+	Area: 2,800 km2 (1,100 sq mi)
+	Density: 4,600/km2 (12,000 per sq mi)
+
+4. Shenzhen — 12.7 million people
+	Area: 1,700 km2 (700 sq mi)
+	Density: 7,500/km2 (19,000 per sq mi)
+
+5. Guangzhou — 11.6 million people
+	Area: 3,800 km2 (1,500 sq mi)
+	Density: 3,000/km2 (7,800 per sq mi)
+
+6. Chengdu — 10.2 million people
+	Area: 1,700 km2 (700 sq mi)
+	Density: 6,000/km2 (15,000 per sq mi)
+
+7. Chongqing — 8.5 million people
+	Area: 1,000 km2 (400 sq mi)
+	Density: 8,500/km2 (22,000 per sq mi)
+
+8. Dongguan — 8.3 million people
+	Area: 1,600 km2 (600 sq mi)
+	Density: 5,200/km2 (13,000 per sq mi)
+
+9. Shenyang — 7.9 million people
+	Area: 1,500 km2 (600 sq mi)
+	Density: 5,300/km2 (13,000 per sq mi)
+
+10. Wuhan — 7.9 million people
+	Area: 1,500 km2 (600 sq mi)
+	Density: 5,300/km2 (13,000 per sq mi)

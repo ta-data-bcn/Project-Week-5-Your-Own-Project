@@ -3,34 +3,56 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=android,microsoftoffice,python,jupyternotebooks,images
 
 direction_trello.txt
+press_articles_remotejob.txt
+
 medidas_anticovid.pdf
 Llista-de-relacio-de-municipis-i-ZQA.PDF
+
 avg_prices_houses.xlsx
 city_year_pollution.xlsx
 city_year_pollution.csv
-pollution_dataset.ipynb
 oldhouses_avg_price.csv
 oldhouses_avg_price.xlsx
 newhouses_avg_price.csv
 newhouses_avg_price.xlsx
 city_year_pollution_counties.xlsx
-pollution_dataset-countiesgrouped.ipynb
+city_year_pollution_counties.csv
 population_2010-2019.xlsx
 population_2010-2019.csv
 pop_density_2010-2019.xlsx
 pop_density_2010-2019.csv
-pop_density.ipynb
 houses_price_yr.csv
 houses_price_yr.xlsx
+pollution_pervillage_peryear.csv
+
+pollution_dataset-countiesgrouped.ipynb
+pop_density.ipynb
 old_new_houses_pricing.ipynb
 data_united-checkpoint.ipynb
 old_new_houses_pricing-checkpoint.ipynb
 pollution_dataset-checkpoint.ipynb
 pollution_dataset-countiesgrouped-checkpoint.ipynb
 pop_density-checkpoint.ipynb
+pollution_dataset.ipynb
+china_vs_barcelona_forecast-checkpoint.ipynb
+
 all_data_querie.sql
 
-
+Correlation.png
+Correlation_blank.png
+densityhigh_vs_avgprice.png
+densitylow_vs_avgprice.png
+health_icon.png
+love_icon.png
+low vs top density.png
+microtowns_catalunya_map.png
+money_icon.png
+toppop_cities_year.png
+World-Population-Density.png
+erd_housesprice_pict.png
+erd_population.png
+erd_pollution.png
+final_data_table.png
 
 ### Android ###
 # Built application files
