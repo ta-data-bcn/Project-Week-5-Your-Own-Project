@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,microsoftoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,macos,microsoftoffice
 
@@ -65,4 +64,11 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 
+
+animal_data.ipynb
+web_scrapping.ipynb
+Project4.docx
+articles
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,microsoftoffice
+
