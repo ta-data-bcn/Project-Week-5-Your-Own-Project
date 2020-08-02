@@ -43,6 +43,6 @@ Jupyter notebooks with data cleaning and analysis.
 
 ## Links
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/cris-arias/Project-Week-5-Your-Own-Project.git)  
 [Slides](https://slides.com/cris-arias/mass-protests)  
 [Trello](https://trello.com/b/b0LZAEa9/project-5-protests-and-freedom)  
