@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Sneaker Reselling Market
+*Sara Valverde*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics June 2020 - BCN*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,34 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+My passion for sneakers and the the phenomenon of the reselling culture (cause of the high prices) inspired me to research the topic and try to bring it to the mainstream by putting the resale values into perspective and digging into the causes. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+How expensive can resale sneakers be? Do they have any distinguishible attribute that influences the price? Does the popularity of the collaborator bring any light into it?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+Data scrapping the StockX website with Selenium and csv files from Google Trends.
 
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used Trello to organize my daily tasks
 
-What does your repository look like? Explain your folder and file structure.
+My folder consits of the folders:
+- your_project
+- Data
+ as well as the gitignore file.
+
+your_project contains:
+- README
+- pdf with the slides
+- folders: 
+            - Scrapping_Code
+            - Wrangling_Code
+            - Analysis_Code
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Alt-E-K/Project-Week-5-Your-Own-Project.git)  
+[Tableau](https://public.tableau.com/profile/sara.valverde#!/vizhome/Project_week5/TravisAirJordan2?publish=yes)  
+[Trello](https://trello.com/b/uqS2dKsO/project-4)  
