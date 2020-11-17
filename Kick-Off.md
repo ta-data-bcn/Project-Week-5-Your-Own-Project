@@ -57,35 +57,32 @@ Your mentor is **not** meant to:
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Wednesday**
+**Wednesday/Thursday/Friday**
 * Choose a topic for your project.
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need.
 * Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
-
-**Thursday**
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
 * **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 4PM**.
 * Once you finish, start coding!
 
-**Thursday - Friday**
+**Monday**
 * Clean your data.
 * Start working on your analysis and plots.
 * Prepare a draft of the non-analysis slides of your presentation: title, motivation, context, etc.
 
-**Monday**
+**Tuesday**
 * **CHECKPOINT:** General follow-up and resolution of eventual doubts/blockers.
 
-**Tuesday**
+**Wednesday**
 * Complete the analysis and slides.
 
 **Thursday**
-* General rehearsal **at 03:00 PM**. Listen to the feedback you will receive and use it to improve your presentation.
 * Final improvements!
 
 **Friday**
-* Presentations time **at 03:00 PM**!
+* Presentations rehersal time **at 9:30 AM**!
 
 ## Presentation  
 Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you at 3 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
