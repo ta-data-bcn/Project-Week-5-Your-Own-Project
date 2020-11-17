@@ -39,7 +39,7 @@ The **mandatory** requirements that this project needs to satisfy are:
 The **mandatory** deliverables that you must turn in are:
 * Link to the repository you used while working on your project. The repository must include all the files you used to complete your analysis. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!
 * Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
-* A short technical paper illustrating your analysis in whatever format you prefer (e.g. Medium article, Jupyter notebook, etc.)
+* A short technical paper illustrating your analysis in whatever format you prefer (e.g. Medium article, Jupyter Notebook, Technical Report, etc.)
 
 ## Mentoring
 One of the TAs will be your mentor!
@@ -77,8 +77,10 @@ Your mentor is **not** meant to:
 
 **Wednesday**
 * Complete the analysis and slides.
+* First draft of the technical report/article.
 
 **Thursday**
+* Final technical report/article.
 * Final improvements!
 
 **Friday**
