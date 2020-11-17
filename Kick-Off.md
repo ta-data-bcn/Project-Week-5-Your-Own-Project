@@ -64,7 +64,7 @@ Your mentor is **not** meant to:
 * Research and look for the data you need.
 * Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
-* **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 4PM**.
+* **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 4PM on Thursday**.
 * Once you finish, start coding!
 
 **Monday**
