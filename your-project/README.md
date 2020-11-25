@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Pau Sanho*
 
-*[Your Cohort, Campus & Date]*
+*Ironhack Data October 2020*
 
 ## Content
 - [Project Description](#project-description)
