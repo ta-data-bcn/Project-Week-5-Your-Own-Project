@@ -33,6 +33,8 @@ You can find the dataset on the data folder in this repository.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
+Searched for the correct data set
+Cleaned the data
 
 
 
@@ -42,8 +44,6 @@ How did you organize your work? Did you use any tools like a kanban board?
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
+[Repository](https://github.com/pausancho/Project-Week-5-Your-Own-Project)  
 [Slides](https://docs.google.com/presentation/d/1FtpNh2uj3P3u77omgbLKLf7sCmuHMMyULdFsYkcoimw/edit?usp=sharing)  
 [Trello](https://trello.com/b/cmocSGs7/project-4)  
