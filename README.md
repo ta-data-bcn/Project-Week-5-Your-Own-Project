@@ -29,7 +29,6 @@ My alternative hypothesis is that pitches that produced a swinging strike have a
 ## Dataset
 For this project I used the 2019 statcast dataset whith records of all the pitches thrown during that season, which includes, the release spin rate, release velocity and outcomes. 
 
-You can find the dataset on the data folder in this repository. 
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
