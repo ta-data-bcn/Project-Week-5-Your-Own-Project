@@ -20,12 +20,14 @@ The objective of this project is choosing a topic that interests you, finding re
 When choosing your topic remember that this project allows you to use **data from your colleagues' past projects, BUT NOT YOURS!**
 
 ## Project Goals
-During this project you will:
-* Research and analyze data related to a topic of your interest.
-* Apply the statistical techniques you have learned.
-* Create useful and easily understandable plots.
-* Communicate the results of your analysis clearly, accurately and engagingly.
-* Learn to adapt your communication style to your audience.
+
+# Title of My Project
+*Is withdrawing meat the best we can do to reduce our carbon footprint*
+
+## Content
+- 
+- [Questions & Hypotheses] is withdrawing meat the best we can do to reduce our carbon footprint?
+- [Dataset]CAIT report on global emissions of GHG from 1990 to 2016 by economic sector
 
 ## Data Workflow
 In this project you will focus on Data Analysis, but you will continue to develop your Data Wrangling and Visualization skills.

@@ -1,0 +1,379 @@
+,Sector,year,value
+0,Agriculture,1990,10560
+1,Agriculture,1991,10506
+2,Agriculture,1992,10436
+3,Agriculture,1993,10363
+4,Agriculture,1994,10433
+5,Agriculture,1995,10540
+6,Agriculture,1996,10530
+7,Agriculture,1997,10389
+8,Agriculture,1998,10493
+9,Agriculture,1999,10599
+10,Agriculture,2000,10580
+11,Agriculture,2001,10709
+12,Agriculture,2002,10780
+13,Agriculture,2003,10759
+14,Agriculture,2004,10974
+15,Agriculture,2005,11041
+16,Agriculture,2006,11135
+17,Agriculture,2007,11314
+18,Agriculture,2008,11337
+19,Agriculture,2009,11318
+20,Agriculture,2010,11471
+21,Agriculture,2011,11734
+22,Agriculture,2012,11765
+23,Agriculture,2013,11647
+24,Agriculture,2014,11741
+25,Agriculture,2015,11873
+26,Agriculture,2016,11979
+27,Building,1990,5796
+28,Building,1991,5878
+29,Building,1992,5621
+30,Building,1993,5745
+31,Building,1994,5539
+32,Building,1995,5702
+33,Building,1996,5894
+34,Building,1997,5808
+35,Building,1998,5490
+36,Building,1999,5621
+37,Building,2000,5578
+38,Building,2001,5666
+39,Building,2002,5635
+40,Building,2003,5828
+41,Building,2004,5907
+42,Building,2005,5916
+43,Building,2006,5840
+44,Building,2007,5749
+45,Building,2008,5924
+46,Building,2009,5812
+47,Building,2010,5943
+48,Building,2011,5774
+49,Building,2012,5689
+50,Building,2013,5910
+51,Building,2014,5746
+52,Building,2015,5796
+53,Building,2016,5888
+54,Bunker Fuels,1990,1387
+55,Bunker Fuels,1991,1402
+56,Bunker Fuels,1992,1476
+57,Bunker Fuels,1993,1462
+58,Bunker Fuels,1994,1515
+59,Bunker Fuels,1995,1563
+60,Bunker Fuels,1996,1612
+61,Bunker Fuels,1997,1676
+62,Bunker Fuels,1998,1729
+63,Bunker Fuels,1999,1799
+64,Bunker Fuels,2000,1864
+65,Bunker Fuels,2001,1802
+66,Bunker Fuels,2002,1876
+67,Bunker Fuels,2003,1898
+68,Bunker Fuels,2004,2058
+69,Bunker Fuels,2005,2160
+70,Bunker Fuels,2006,2274
+71,Bunker Fuels,2007,2379
+72,Bunker Fuels,2008,2402
+73,Bunker Fuels,2009,2260
+74,Bunker Fuels,2010,2391
+75,Bunker Fuels,2011,2435
+76,Bunker Fuels,2012,2342
+77,Bunker Fuels,2013,2352
+78,Bunker Fuels,2014,2426
+79,Bunker Fuels,2015,2536
+80,Bunker Fuels,2016,2635
+81,Electricity/Heat,1990,18590
+82,Electricity/Heat,1991,18842
+83,Electricity/Heat,1992,19132
+84,Electricity/Heat,1993,19171
+85,Electricity/Heat,1994,19371
+86,Electricity/Heat,1995,19762
+87,Electricity/Heat,1996,20498
+88,Electricity/Heat,1997,20982
+89,Electricity/Heat,1998,21419
+90,Electricity/Heat,1999,21471
+91,Electricity/Heat,2000,22301
+92,Electricity/Heat,2001,22828
+93,Electricity/Heat,2002,23215
+94,Electricity/Heat,2003,24490
+95,Electricity/Heat,2004,25238
+96,Electricity/Heat,2005,26001
+97,Electricity/Heat,2006,26986
+98,Electricity/Heat,2007,28157
+99,Electricity/Heat,2008,28096
+100,Electricity/Heat,2009,27605
+101,Electricity/Heat,2010,29385
+102,Electricity/Heat,2011,30517
+103,Electricity/Heat,2012,31102
+104,Electricity/Heat,2013,31583
+105,Electricity/Heat,2014,31374
+106,Electricity/Heat,2015,30985
+107,Electricity/Heat,2016,30915
+108,Energy,1990,49610
+109,Energy,1991,49819
+110,Energy,1992,49329
+111,Energy,1993,49435
+112,Energy,1994,49455
+113,Energy,1995,50649
+114,Energy,1996,51699
+115,Energy,1997,52348
+116,Energy,1998,52588
+117,Energy,1999,52774
+118,Energy,2000,54207
+119,Energy,2001,55096
+120,Energy,2002,55790
+121,Energy,2003,58133
+122,Energy,2004,60546
+123,Energy,2005,62568
+124,Energy,2006,64403
+125,Energy,2007,66574
+126,Energy,2008,67186
+127,Energy,2009,66227
+128,Energy,2010,69724
+129,Energy,2011,71402
+130,Energy,2012,72142
+131,Energy,2013,73382
+132,Energy,2014,73365
+133,Energy,2015,73326
+134,Energy,2016,73359
+135,Fugitive Emissions,1990,4637
+136,Fugitive Emissions,1991,4644
+137,Fugitive Emissions,1992,4446
+138,Fugitive Emissions,1993,4374
+139,Fugitive Emissions,1994,4238
+140,Fugitive Emissions,1995,4257
+141,Fugitive Emissions,1996,4317
+142,Fugitive Emissions,1997,4282
+143,Fugitive Emissions,1998,4243
+144,Fugitive Emissions,1999,4269
+145,Fugitive Emissions,2000,4355
+146,Fugitive Emissions,2001,4443
+147,Fugitive Emissions,2002,4534
+148,Fugitive Emissions,2003,4711
+149,Fugitive Emissions,2004,4849
+150,Fugitive Emissions,2005,5021
+151,Fugitive Emissions,2006,5186
+152,Fugitive Emissions,2007,5326
+153,Fugitive Emissions,2008,5537
+154,Fugitive Emissions,2009,5516
+155,Fugitive Emissions,2010,5623
+156,Fugitive Emissions,2011,5700
+157,Fugitive Emissions,2012,5748
+158,Fugitive Emissions,2013,5764
+159,Fugitive Emissions,2014,5800
+160,Fugitive Emissions,2015,5808
+161,Fugitive Emissions,2016,5813
+162,Industrial Processes,1990,2113
+163,Industrial Processes,1991,2112
+164,Industrial Processes,1992,2212
+165,Industrial Processes,1993,2244
+166,Industrial Processes,1994,2472
+167,Industrial Processes,1995,2623
+168,Industrial Processes,1996,2736
+169,Industrial Processes,1997,2822
+170,Industrial Processes,1998,2811
+171,Industrial Processes,1999,2815
+172,Industrial Processes,2000,2934
+173,Industrial Processes,2001,2980
+174,Industrial Processes,2002,3111
+175,Industrial Processes,2003,3267
+176,Industrial Processes,2004,3471
+177,Industrial Processes,2005,3640
+178,Industrial Processes,2006,3903
+179,Industrial Processes,2007,4167
+180,Industrial Processes,2008,4252
+181,Industrial Processes,2009,4334
+182,Industrial Processes,2010,4595
+183,Industrial Processes,2011,4894
+184,Industrial Processes,2012,5054
+185,Industrial Processes,2013,5263
+186,Industrial Processes,2014,5501
+187,Industrial Processes,2015,5519
+188,Industrial Processes,2016,5684
+189,Land-Use Change and Forestry,1990,8092
+190,Land-Use Change and Forestry,1991,8092
+191,Land-Use Change and Forestry,1992,8092
+192,Land-Use Change and Forestry,1993,8092
+193,Land-Use Change and Forestry,1994,8092
+194,Land-Use Change and Forestry,1995,8092
+195,Land-Use Change and Forestry,1996,7041
+196,Land-Use Change and Forestry,1997,8974
+197,Land-Use Change and Forestry,1998,7841
+198,Land-Use Change and Forestry,1999,7094
+199,Land-Use Change and Forestry,2000,6725
+200,Land-Use Change and Forestry,2001,7644
+201,Land-Use Change and Forestry,2002,9584
+202,Land-Use Change and Forestry,2003,8892
+203,Land-Use Change and Forestry,2004,9536
+204,Land-Use Change and Forestry,2005,9019
+205,Land-Use Change and Forestry,2006,7461
+206,Land-Use Change and Forestry,2007,6465
+207,Land-Use Change and Forestry,2008,6388
+208,Land-Use Change and Forestry,2009,7031
+209,Land-Use Change and Forestry,2010,6333
+210,Land-Use Change and Forestry,2011,6370
+211,Land-Use Change and Forestry,2012,6503
+212,Land-Use Change and Forestry,2013,6299
+213,Land-Use Change and Forestry,2014,6720
+214,Land-Use Change and Forestry,2015,7391
+215,Land-Use Change and Forestry,2016,6000
+216,Manufacturing/Construction,1990,8539
+217,Manufacturing/Construction,1991,8307
+218,Manufacturing/Construction,1992,7979
+219,Manufacturing/Construction,1993,7861
+220,Manufacturing/Construction,1994,7913
+221,Manufacturing/Construction,1995,8382
+222,Manufacturing/Construction,1996,8158
+223,Manufacturing/Construction,1997,8207
+224,Manufacturing/Construction,1998,8174
+225,Manufacturing/Construction,1999,7842
+226,Manufacturing/Construction,2000,8201
+227,Manufacturing/Construction,2001,8236
+228,Manufacturing/Construction,2002,8212
+229,Manufacturing/Construction,2003,8592
+230,Manufacturing/Construction,2004,9455
+231,Manufacturing/Construction,2005,10278
+232,Manufacturing/Construction,2006,10751
+233,Manufacturing/Construction,2007,11303
+234,Manufacturing/Construction,2008,11593
+235,Manufacturing/Construction,2009,11471
+236,Manufacturing/Construction,2010,12413
+237,Manufacturing/Construction,2011,12874
+238,Manufacturing/Construction,2012,12835
+239,Manufacturing/Construction,2013,12898
+240,Manufacturing/Construction,2014,12953
+241,Manufacturing/Construction,2015,12807
+242,Manufacturing/Construction,2016,12509
+243,Other Fuel Combustion,1990,2853
+244,Other Fuel Combustion,1991,2867
+245,Other Fuel Combustion,1992,2680
+246,Other Fuel Combustion,1993,2722
+247,Other Fuel Combustion,1994,2661
+248,Other Fuel Combustion,1995,2563
+249,Other Fuel Combustion,1996,2442
+250,Other Fuel Combustion,1997,2537
+251,Other Fuel Combustion,1998,2490
+252,Other Fuel Combustion,1999,2503
+253,Other Fuel Combustion,2000,2376
+254,Other Fuel Combustion,2001,2417
+255,Other Fuel Combustion,2002,2437
+256,Other Fuel Combustion,2003,2480
+257,Other Fuel Combustion,2004,2569
+258,Other Fuel Combustion,2005,2603
+259,Other Fuel Combustion,2006,2636
+260,Other Fuel Combustion,2007,2651
+261,Other Fuel Combustion,2008,2658
+262,Other Fuel Combustion,2009,2688
+263,Other Fuel Combustion,2010,2729
+264,Other Fuel Combustion,2011,2723
+265,Other Fuel Combustion,2012,2813
+266,Other Fuel Combustion,2013,2897
+267,Other Fuel Combustion,2014,2933
+268,Other Fuel Combustion,2015,2967
+269,Other Fuel Combustion,2016,2960
+270,Total excluding LUCF,1990,65144
+271,Total excluding LUCF,1991,65363
+272,Total excluding LUCF,1992,64949
+273,Total excluding LUCF,1993,65063
+274,Total excluding LUCF,1994,65432
+275,Total excluding LUCF,1995,66894
+276,Total excluding LUCF,1996,68051
+277,Total excluding LUCF,1997,68632
+278,Total excluding LUCF,1998,68944
+279,Total excluding LUCF,1999,69232
+280,Total excluding LUCF,2000,70768
+281,Total excluding LUCF,2001,71803
+282,Total excluding LUCF,2002,72682
+283,Total excluding LUCF,2003,75148
+284,Total excluding LUCF,2004,77954
+285,Total excluding LUCF,2005,80186
+286,Total excluding LUCF,2006,82400
+287,Total excluding LUCF,2007,85024
+288,Total excluding LUCF,2008,85750
+289,Total excluding LUCF,2009,84867
+290,Total excluding LUCF,2010,88799
+291,Total excluding LUCF,2011,91039
+292,Total excluding LUCF,2012,91985
+293,Total excluding LUCF,2013,93328
+294,Total excluding LUCF,2014,93699
+295,Total excluding LUCF,2015,93866
+296,Total excluding LUCF,2016,94197
+297,Total including LUCF,1990,73033
+298,Total including LUCF,1991,73252
+299,Total including LUCF,1992,72839
+300,Total including LUCF,1993,72953
+301,Total including LUCF,1994,73322
+302,Total including LUCF,1995,74784
+303,Total including LUCF,1996,74925
+304,Total including LUCF,1997,77432
+305,Total including LUCF,1998,76598
+306,Total including LUCF,1999,76144
+307,Total including LUCF,2000,77313
+308,Total including LUCF,2001,79171
+309,Total including LUCF,2002,81922
+310,Total including LUCF,2003,83787
+311,Total including LUCF,2004,87170
+312,Total including LUCF,2005,88923
+313,Total including LUCF,2006,89661
+314,Total including LUCF,2007,91293
+315,Total including LUCF,2008,91932
+316,Total including LUCF,2009,91581
+317,Total including LUCF,2010,94910
+318,Total including LUCF,2011,97132
+319,Total including LUCF,2012,98227
+320,Total including LUCF,2013,99454
+321,Total including LUCF,2014,100329
+322,Total including LUCF,2015,101106
+323,Total including LUCF,2016,100042
+324,Transportation,1990,9168
+325,Transportation,1991,9254
+326,Transportation,1992,9445
+327,Transportation,1993,9537
+328,Transportation,1994,9706
+329,Transportation,1995,9954
+330,Transportation,1996,10361
+331,Transportation,1997,10501
+332,Transportation,1998,10739
+333,Transportation,1999,11034
+334,Transportation,2000,11365
+335,Transportation,2001,11475
+336,Transportation,2002,11724
+337,Transportation,2003,11997
+338,Transportation,2004,12491
+339,Transportation,2005,12711
+340,Transportation,2006,12964
+341,Transportation,2007,13340
+342,Transportation,2008,13331
+343,Transportation,2009,13087
+344,Transportation,2010,13578
+345,Transportation,2011,13754
+346,Transportation,2012,13898
+347,Transportation,2013,14272
+348,Transportation,2014,14498
+349,Transportation,2015,14891
+350,Transportation,2016,15199
+351,Waste,1990,2892
+352,Waste,1991,2957
+353,Waste,1992,3005
+354,Waste,1993,3058
+355,Waste,1994,3111
+356,Waste,1995,3122
+357,Waste,1996,3124
+358,Waste,1997,3114
+359,Waste,1998,3096
+360,Waste,1999,3090
+361,Waste,2000,3093
+362,Waste,2001,3063
+363,Waste,2002,3051
+364,Waste,2003,3040
+365,Waste,2004,3012
+366,Waste,2005,2989
+367,Waste,2006,3008
+368,Waste,2007,3020
+369,Waste,2008,3026
+370,Waste,2009,3039
+371,Waste,2010,3058
+372,Waste,2011,3059
+373,Waste,2012,3075
+374,Waste,2013,3086
+375,Waste,2014,3143
+376,Waste,2015,3199
+377,Waste,2016,3230
