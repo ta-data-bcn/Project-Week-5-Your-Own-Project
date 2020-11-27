@@ -49,6 +49,7 @@ This repository contains a readme document with some basic information about the
 ## Links
 [Repository](https://github.com/pausancho/Project-Week-5-Your-Own-Project)  
 [Article](https://pausanchogonzalez.medium.com/the-ever-expanding-strikeouts-game-8a1d50ce0b95)
+
 [Slides](https://docs.google.com/presentation/d/1FtpNh2uj3P3u77omgbLKLf7sCmuHMMyULdFsYkcoimw/edit?usp=sharing)  
 [Trello](https://trello.com/b/cmocSGs7/project-4)
 
