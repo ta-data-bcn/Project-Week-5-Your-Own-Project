@@ -1,0 +1,71 @@
+﻿Diet;category;subcategory;KgCO2e per capita
+Meat lover;Housing;Electricity;2168
+Meat lover;Housing;Gas;1524
+Meat lover;Housing;Waste;280
+Meat lover;Travel;Vehicle;3323
+Meat lover;Travel;Public transport;291
+Meat lover;Travel;Flight;1000
+Meat lover;Food;Meat lover;3300
+Meat lover;Technology;e-mail;5
+Meat lover;Technology;google search;0.82
+Meat lover;Technology;streaming;20
+Meat lover;Technology;gaming;4900
+Meat lover;Technology;iPhone;20
+Meat lover;Technology;Laptop;87.5
+Meat lover;Clothes;Clothes;323
+Average meat eater;Housing;Electricity;2168
+Average meat eater;Housing;Gas;1524
+Average meat eater;Housing;Waste;280
+Average meat eater;Travel;Vehicle;3323
+Average meat eater;Travel;Public transport;291
+Average meat eater;Travel;Flight;1000
+Average meat eater;Food;Meat lover;2500
+Average meat eater;Technology;e-mail;5
+Average meat eater;Technology;google search;0.82
+Average meat eater;Technology;streaming;20
+Average meat eater;Technology;gaming;4900
+Average meat eater;Technology;iPhone;20
+Average meat eater;Technology;Laptop;87.5
+Average meat eater;Clothes;Clothes;323
+No beef;Housing;Electricity;2168
+No beef;Housing;Gas;1524
+No beef;Housing;Waste;280
+No beef;Travel;Vehicle;3323
+No beef;Travel;Public transport;291
+No beef;Travel;Flight;1000
+No beef;Food;Meat lover;1900
+No beef;Technology;e-mail;5
+No beef;Technology;google search;0.82
+No beef;Technology;streaming;20
+No beef;Technology;gaming;4900
+No beef;Technology;iPhone;20
+No beef;Technology;Laptop;87.5
+No beef;Clothes;Clothes;323
+Vegetarian;Housing;Electricity;2168
+Vegetarian;Housing;Gas;1524
+Vegetarian;Housing;Waste;280
+Vegetarian;Travel;Vehicle;3323
+Vegetarian;Travel;Public transport;291
+Vegetarian;Travel;Flight;1000
+Vegetarian;Food;Meat lover;1700
+Vegetarian;Technology;e-mail;5
+Vegetarian;Technology;google search;0.82
+Vegetarian;Technology;streaming;20
+Vegetarian;Technology;gaming;4900
+Vegetarian;Technology;iPhone;20
+Vegetarian;Technology;Laptop;87.5
+Vegetarian;Clothes;Clothes;323
+Vegan;Housing;Electricity;2168
+Vegan;Housing;Gas;1524
+Vegan;Housing;Waste;280
+Vegan;Travel;Vehicle;3323
+Vegan;Travel;Public transport;291
+Vegan;Travel;Flight;1000
+Vegan;Food;Meat lover;1500
+Vegan;Technology;e-mail;5
+Vegan;Technology;google search;0.82
+Vegan;Technology;streaming;20
+Vegan;Technology;gaming;4900
+Vegan;Technology;iPhone;20
+Vegan;Technology;Laptop;87.5
+Vegan;Clothes;Clothes;323
