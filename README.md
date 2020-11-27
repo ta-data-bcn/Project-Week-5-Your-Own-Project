@@ -44,7 +44,7 @@ Outline the workflow you used in your project. What are the steps you went throu
 ## Organization
 To organize the work I created a Trello project where I listed all the items that I had to complete to deliver the project. 
 
-This repository contains a readme document with some basic information about the project and a folder with two jupyter noteboks, one for the data cleaning and the other one for the data analysis. 
+This repository contains a readme document with some basic information about the project, a .gitignore document and a folder with two jupyter noteboks, one for the data cleaning and the other one for the data analysis. 
 
 ## Links
 [Repository](https://github.com/pausancho/Project-Week-5-Your-Own-Project)  
