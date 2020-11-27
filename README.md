@@ -33,12 +33,12 @@ For this project I used the 2019 statcast dataset whith records of all the pitch
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 
-1- Define project topic
-2- Find data set
-3- Cleaned the data
-4- Analyse data
-5- Write project article
-6- Prepare Presentation
+1-Define project topic
+2-Find data set
+3-Cleaned the data
+4-Analyse data
+5-Write project article
+6-Prepare Presentation
 
 
 ## Organization
