@@ -32,17 +32,22 @@ For this project I used the 2019 statcast dataset whith records of all the pitch
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
-Searched for the correct data set
-Cleaned the data
 
+1- Define project topic
+2- Find data set
+3- Cleaned the data
+4- Analyse data
+5- Write project article
+6- Prepare Presentation
 
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+To organize the work I created a Trello project where I listed all the items that I had to complete to deliver the project. 
 
-What does your repository look like? Explain your folder and file structure.
+This repository contains a readme document with some basic information about the project and a folder with two jupyter noteboks, one for the data cleaning and the other one for the data analysis. 
 
 ## Links
 [Repository](https://github.com/pausancho/Project-Week-5-Your-Own-Project)  
 [Slides](https://docs.google.com/presentation/d/1FtpNh2uj3P3u77omgbLKLf7sCmuHMMyULdFsYkcoimw/edit?usp=sharing)  
-[Trello](https://trello.com/b/cmocSGs7/project-4)  
+[Trello](https://trello.com/b/cmocSGs7/project-4)
+[Medium Article] (https://pausanchogonzalez.medium.com/the-ever-expanding-strikeouts-game-8a1d50ce0b95)
