@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Data analyst jobs 
+*[Yidi Chi]*
 
-*[Your Cohort, Campus & Date]*
+*[Javiteam Ironhack ]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,24 +14,38 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project is about analysis of data analyst jobs based on us.The first idea that I had was find good jobs in this dataset, And I want to know:
+- is their good rating  correlated with the salary offered?
+- is there any difference in salaries between the cities?
+- is salaries  between in different industries :
+
+
+
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+- is their good rating  correlated with the salary offered?
+- is there any difference in salaries between the cities?
+- is salaries  between in different industries :
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+I found a dataset contains more than 2000 jobs listing for data analyst positions.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
+https://trello.com/b/XAGq0c8U/project-4
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Trello is good.
 
-What does your repository look like? Explain your folder and file structure.
+I have 3 parts on my notebook:
+1- Cleaning & filtering data
+2- Matplot&Seaborn
+3- Statistcs 
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+https://trello.com/b/XAGq0c8U/project-4
+https://github.com/yidic/Project-Week-5-Your-Own-Project
+https://medium.com/@chiyidi1003/data-analyst-jobs-4fc3cd433e1c
+
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
