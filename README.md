@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Tourism Analysis: Cheap Deals
 *[Raul Castrillo Martínez]*
 
 *[Data Analytics Full Time, Ironhack Barcelona Oct/2020]*
