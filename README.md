@@ -41,5 +41,7 @@ My folder has one folder for all the data and another for the scraping, data cle
 
 
 [Repository](https://github.com/raulcastr/Project-Week-5-Your-Own-Project)
+
 [Slides](https://drive.google.com/file/d/1bI4wx4VV_sEy9fYWEfY-K6vXZBGp_idv/view?usp=sharing)  
-[Trello] (https://trello.com/b/f1Khsbwf/project-5-airbnb)
+
+[Trello](https://trello.com/b/f1Khsbwf/project-5-airbnb)
