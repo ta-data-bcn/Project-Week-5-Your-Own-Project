@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Tourism Analysis: Cheap Deals
-*[Raul Castrillo Martínez]*
+Raul Castrillo Martínez
 
-*[Data Analytics Full Time, Ironhack Barcelona Oct/2020]*
+
 
 ## Content
 - [Project Description](#project-description)
