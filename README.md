@@ -1,13 +1,12 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/34/41/f9/3441f93a-3b85-37a1-1213-3cdc3e415b4a/source/256x256bb.jpg" alt="cities" width="150"/>
 
 # Tourism Analysis: Cheap Deals
-Raul Castrillo Martínez
 
+Raul Castrillo Martínez
 
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
@@ -15,33 +14,33 @@ Raul Castrillo Martínez
 
 ## Project Description
 
-In this project i would like to find the cities where there is more economic dependence on tourism, and therefore its affectation by the covid virus.
-
-## Questions & Hypotheses
-
-I will try to find those answers by comparing the GDP per capita with the average price per night of AirBnB listings for different
-popular cities.
+Price analysis within ~1 Million airbnb accomodations and the local prices for the top 50 most visited cities around the world with the objective of finding the cheapest deals for tourists with lower income and to find the cities where there is more economic dependence on tourism.
 
 ## Dataset
 
-I used datasets from http://insideairbnb.com/get-the-data.html for each city AirBnB listings, and then i scrapped from wikipedia the top 300 cities with higher GDP.
+I used datasets from http://insideairbnb.com/get-the-data.html for each city AirBnB listings, and also I webscrapped wikipedia for the top 300 cities with higher GDP.
 
 ## Workflow
 
-First i organized my steps with kanbas board, secondly i started with gathering and cleaning the data, then i started interpreting the data
-with plots and tableau visualizations. Finally i worked on my presentation and technical report.
+* Organize future steps with a kanbas board.
+* Gathering and cleaning the data.
+* Interpreting the data.
+* Plotting and visualizations with Tableau. 
+* Crafting a fun presentation and a medium article.
 
 ## Organization
 
 I used a kanbas board (trello) to organize my work.
 
-My folder has one folder for all the data and another for the scraping, data cleaning, and ploting analysis.
+I divided the project in two folders, one folder for all the datasets and one for all the coding ( scraping, data cleaning, and ploting analysis ).
 
 ## Links
 
 
-[Repository](https://github.com/raulcastr/Project-Week-5-Your-Own-Project)
+[Repository](https://github.com/raulcastr/Tourism-Cheap-Deals-Analysis)
 
-[Slides](https://drive.google.com/file/d/1bI4wx4VV_sEy9fYWEfY-K6vXZBGp_idv/view?usp=sharing)  
+[Slides](https://drive.google.com/file/d/1X8VkA3yC3UIaOGQzBzXrSAcgdyxxSzT1/view?usp=sharing)  
+
+[Video-Presentation](https://drive.google.com/file/d/1a5otI-_H-ASKz4QtOvcacoHPgYhMeQLK/view?usp=sharing)  
 
 [Trello](https://trello.com/b/f1Khsbwf/project-5-airbnb)
