@@ -14,7 +14,7 @@ Raul Castrillo Martínez
 
 ## Project Description
 
-Price analysis within ~1 Million airbnb accomodations and the local prices for the top 50 most visited cities around the world with the objective of finding the cheapest deals for tourists with lower income and to find the cities where there is more economic dependence on tourism.
+Price analysis within ~1 Million airbnb accomodations and the local prices for the top 50 most visited cities around the world with the objective of finding the cheapest deals for tourists with lesser income and to find the cities where there is more economic dependence on tourism.
 
 ## Dataset
 
