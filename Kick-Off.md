@@ -64,7 +64,7 @@ Your mentor is **not** meant to:
 * Research and look for the data you need.
 * Fork the project repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-5-Your-Own-Project/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
-* **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 4PM on Thursday**.
+* **CHECKPOINT:** Topic and general idea validation with the Lead Teacher and TAs **at 2PM on Friday**.
 * Once you finish, start coding!
 
 **Monday**
@@ -81,13 +81,14 @@ Your mentor is **not** meant to:
 
 **Thursday**
 * Final technical report/article.
-* Final improvements!
+* Presentations rehersal time **at 16:00**!
 
 **Friday**
-* Presentations rehersal time **at 9:30 AM**!
+* Final improvements!
+* Presentations time **at 15:00**!
 
 ## Presentation  
-Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you at 3 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
+Projects will be presented to UX/UI students! Presentations will be **EXACTLY** 4 minutes long, with 2 additional minutes for questions. We will stop you at 4 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
 The audience will evaluate the presentation by indicating how well they understood what you were trying to explain and how you presented it. This information will help you in further presentations!
 
 ## Tips & Tricks
