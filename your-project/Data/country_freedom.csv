@@ -1,0 +1,159 @@
+,country,freedom
+0,Afghanistan,NF
+1,Albania,PF
+2,Algeria,NF
+3,Angola,NF
+4,Argentina,F
+5,Armenia,PF
+6,Austria,F
+7,Azerbaijan,PF
+8,Bahrain,NF
+9,Bangladesh,PF
+10,Belarus,NF
+11,Belgium,F
+12,Benin,F
+13,Bolivia,['F' 'PF']
+14,Bosnia,[]
+15,Botswana,F
+16,Brazil,F
+17,Bulgaria,F
+18,Burkina Faso,PF
+19,Burundi,NF
+20,Cambodia,NF
+21,Cameroon,NF
+22,Canada,F
+23,Central African Republic,PF
+24,Chad,NF
+25,Chile,F
+26,China,NF
+27,Colombia,PF
+28,Comoros,PF
+29,Congo Brazzaville,[]
+30,Congo Kinshasa,[]
+31,Costa Rica,F
+32,Croatia,F
+33,Cuba,NF
+34,Cyprus,F
+35,Czech Republic,F
+36,Czechoslovakia,F
+37,Denmark,F
+38,Djibouti,NF
+39,Dominican Republic,PF
+40,Ecuador,PF
+41,Egypt,NF
+42,El Salvador,F
+43,Estonia,F
+44,Ethiopia,PF
+45,Finland,F
+46,France,F
+47,Gabon,['NF' 'PF']
+48,Georgia,PF
+49,Germany,F
+50,Germany East,[]
+51,Germany West,[]
+52,Ghana,F
+53,Greece,F
+54,Guatemala,PF
+55,Guinea,PF
+56,Guinea-Bissau,PF
+57,Guyana,F
+58,Haiti,PF
+59,Honduras,PF
+60,Hungary,F
+61,India,F
+62,Indonesia,PF
+63,Iran,NF
+64,Iraq,NF
+65,Ireland,F
+66,Italy,F
+67,Ivory Coast,[]
+68,Jamaica,F
+69,Japan,F
+70,Jordan,NF
+71,Kazakhstan,NF
+72,Kenya,PF
+73,Kosovo,PF
+74,Kuwait,PF
+75,Kyrgyzstan,PF
+76,Latvia,F
+77,Lebanon,PF
+78,Lesotho,PF
+79,Liberia,PF
+80,Libya,NF
+81,Lithuania,F
+82,Luxembourg,F
+83,Macedonia,[]
+84,Madagascar,PF
+85,Malawi,PF
+86,Malaysia,PF
+87,Mali,PF
+88,Mauritania,NF
+89,Mauritius,F
+90,Mexico,PF
+91,Moldova,PF
+92,Mongolia,F
+93,Montenegro,PF
+94,Morocco,PF
+95,Mozambique,PF
+96,Myanmar,NF
+97,Namibia,F
+98,Nepal,PF
+99,Netherlands,F
+100,Nicaragua,PF
+101,Niger,PF
+102,Nigeria,PF
+103,North Korea,NF
+104,Norway,F
+105,Oman,NF
+106,Pakistan,PF
+107,Panama,F
+108,Papua New Guinea,PF
+109,Paraguay,PF
+110,Peru,F
+111,Philippines,PF
+112,Poland,F
+113,Portugal,F
+114,Romania,F
+115,Russia,NF
+116,Rwanda,NF
+117,Saudi Arabia,NF
+118,Senegal,PF
+119,Serbia,PF
+120,Serbia and Montenegro,F
+121,Sierra Leone,PF
+122,Singapore,PF
+123,Slovak Republic,[]
+124,Slovenia,F
+125,Somalia,NF
+126,South Africa,F
+127,South Korea,F
+128,Spain,F
+129,Sri Lanka,PF
+130,Sudan,NF
+131,Suriname,PF
+132,Swaziland,[]
+133,Sweden,F
+134,Switzerland,F
+135,Syria,NF
+136,Taiwan,F
+137,Tajikistan,NF
+138,Tanzania,PF
+139,Thailand,PF
+140,Timor Leste,[]
+141,Togo,PF
+142,Tunisia,F
+143,Turkey,PF
+144,Turkmenistan,NF
+145,USSR,PF
+146,Uganda,PF
+147,Ukraine,PF
+148,United Arab Emirate,[]
+149,United Kingdom,F
+150,Uruguay,F
+151,Uzbekistan,NF
+152,Venezuela,PF
+153,Vietnam,NF
+154,Yemen,NF
+155,Yugoslavia,PF
+156,Zambia,PF
+157,Zimbabwe,PF
