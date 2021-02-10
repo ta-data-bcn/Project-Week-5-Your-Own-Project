@@ -22,7 +22,7 @@ When choosing your topic remember that this project allows you to use **data fro
 ## Project Goals
 During this project you will:
 * Research and analyze data related to a topic of your interest.
-* Apply the statistical techniques you have learned.
+* Apply the statistical techniques you have learned (if needed).
 * Create useful and easily understandable plots.
 * Communicate the results of your analysis clearly, accurately and engagingly.
 * Learn to adapt your communication style to your audience.
