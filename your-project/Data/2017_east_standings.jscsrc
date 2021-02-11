@@ -1,0 +1,123 @@
+[
+ {
+   "Rk": 1,
+   "Squad": "Toronto FC",
+   "W": 20,
+   "D": 9,
+   "L": 5,
+   "GF": 74,
+   "GA": 37,
+   "GDiff": 37,
+   "Pts": 69
+ },
+ {
+   "Rk": 2,
+   "Squad": "NYCFC",
+   "W": 16,
+   "D": 9,
+   "L": 9,
+   "GF": 56,
+   "GA": 43,
+   "GDiff": 13,
+   "Pts": 57
+ },
+ {
+   "Rk": 3,
+   "Squad": "Chicago",
+   "W": 16,
+   "D": 7,
+   "L": 11,
+   "GF": 61,
+   "GA": 47,
+   "GDiff": 14,
+   "Pts": 55
+ },
+ {
+   "Rk": 4,
+   "Squad": "Atlanta",
+   "W": 15,
+   "D": 10,
+   "L": 9,
+   "GF": 70,
+   "GA": 40,
+   "GDiff": 30,
+   "Pts": 55
+ },
+ {
+   "Rk": 5,
+   "Squad": "Columbus",
+   "W": 16,
+   "D": 6,
+   "L": 12,
+   "GF": 53,
+   "GA": 49,
+   "GDiff": 4,
+   "Pts": 54
+ },
+ {
+   "Rk": 6,
+   "Squad": "NY Red Bulls",
+   "W": 14,
+   "D": 8,
+   "L": 12,
+   "GF": 53,
+   "GA": 47,
+   "GDiff": 6,
+   "Pts": 50
+ },
+ {
+   "Rk": 7,
+   "Squad": "New England",
+   "W": 13,
+   "D": 6,
+   "L": 15,
+   "GF": 53,
+   "GA": 61,
+   "GDiff": -8,
+   "Pts": 45
+ },
+ {
+   "Rk": 8,
+   "Squad": "Philadelphia",
+   "W": 11,
+   "D": 9,
+   "L": 14,
+   "GF": 50,
+   "GA": 47,
+   "GDiff": 3,
+   "Pts": 42
+ },
+ {
+   "Rk": 9,
+   "Squad": "Montreal",
+   "W": 11,
+   "D": 6,
+   "L": 17,
+   "GF": 52,
+   "GA": 58,
+   "GDiff": -6,
+   "Pts": 39
+ },
+ {
+   "Rk": 10,
+   "Squad": "Orlando City",
+   "W": 10,
+   "D": 9,
+   "L": 15,
+   "GF": 39,
+   "GA": 58,
+   "GDiff": -19,
+   "Pts": 39
+ },
+ {
+   "Rk": 11,
+   "Squad": "D.C. United",
+   "W": 9,
+   "D": 5,
+   "L": 20,
+   "GF": 31,
+   "GA": 60,
+   "GDiff": -29,
+   "Pts": 32
+ }
+]
