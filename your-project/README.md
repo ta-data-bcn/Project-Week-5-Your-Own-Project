@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Accidents in the USA (2016 - 2019)
+*[Gareth Hughes]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analysis March 2020, Ironhack Barcelona & 08.05.2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,38 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+My project is regarding Autoveichular Accidents that have taken place in the USA between February 2016 and December 2019. 
+The project addresses a number of topics including the number of accidents overall, where they took place, when and using statistics,
+we suggest potentially why some accidents may have occured due to weather conditions at the time. I also combed datasets from Wikipedia
+to correlate seatbelt useage with accident numbers by state. 
+Given that many people drive I chose the project as it maybe it would raise awareness to be careful while driving. The dataset also lent itself to visualisation and statistics,
+and allowed me to practice my skills in Pandas, Seaborn and Tableau. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+There were a number of a questions, such as what states have the most car accidents? What weather conditions lead to higher occurances of car accidents? 
+I also proposed some hypothesis, which I rejected using statistics. These included questions such as "I predict the average lenght of a car accident in the USA
+is 1.5 miles".
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+[Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) - US Accidents Database Kaggle
+[Seat belt laws in the United States](https://en.wikipedia.org/wiki/Seat_belt_laws_in_the_United_States) - Information regarding Seatbelts
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+My work flow consisted of using a combination of Jupyter Notebooks and Tableau to generate visulisations, analyse data and make conclusions.
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used a Trello board to map out my project and updated it as I completed / reached certain goals.
 
 What does your repository look like? Explain your folder and file structure.
+It's composed of a Notebook repository, where the Jupyter notebook is stored.
+A folder entitled "Visuals" contains the PNG's created by both Jupyter and Tableau.
+I have not uploaded the databases as the main database is over 1Gb in size, however, it's accessible for the link above.
+
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/peiriant/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/14gefOS0ONX-lZTxbulUO1nK8BT-dYop0NvCpENRVoSE/edit?usp=sharing)  
+[Trello](https://trello.com/b/kNAPTDGl/project-4-your-own-project)  
