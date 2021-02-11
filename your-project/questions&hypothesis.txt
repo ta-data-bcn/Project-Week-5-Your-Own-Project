@@ -1,0 +1,13 @@
+1.Hypothesis
+	H1.Population density is making the housing price rise
+	H2.Population density is making the pollution rise
+	H3.Population density is growing for main cities in Catalunya
+		h3.1.Government recommendations for Covid19 are not compatible with population expectations
+
+
+2.Questions
+	Q1. Is there a correlation between average price of houses and population density?
+	Q2. Is there a correlation between population density of houses and pollution in cities?
+	Q3. How long would it take for big cities in Catalunya to reach similar population density as China or India average?
+	
+Final question: why goverments should invest in normalizing population density?

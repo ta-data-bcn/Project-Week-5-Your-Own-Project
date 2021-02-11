@@ -1,0 +1,526 @@
+<style class="text/css">caption {font-size: 12pt;text-align:left;font-weight: bold;}tfoot td { text-align:left; }tbody td { text-align:right; }</style>
+<table class="ApartNum Cols7">
+<caption><p><br />Preu mitjà de venda d'habitatges de segona mà. 2015-2019<br />Comarques i Aran, àmbits i províncies <br /></p></caption><tfoot>
+  <tr>
+    <td colspan="7">Unitats: Euros per metre quadrat construït.</td>
+  </tr>
+  <tr>
+    <td colspan="7">Font: Departament de Territori i Sostenibilitat. Secretaria de l'Agenda Urbana i Territori.</td>
+  </tr>
+  <tr>
+    <td colspan="7">Notes: </td>
+  </tr>
+  <tr>
+    <td colspan="7"> - La nova comarca del Moianès es va crear l'1 de maig de 2015 a partir de l'agregació de cinc municipis de la comarca del Bages, un de la comarca d'Osona i quatre de la comarca del Vallès Oriental.</td>
+  </tr>
+  <tr>
+    <td colspan="7"> - A partir del març del 2014 vuit municipis de l'Anoia canvien d'adscripció i passen de l'àmbit Penedès a les Comarques Centrals. </td>
+  </tr>
+</tr><tr><td></td></tr></tfoot>
+<tbody>
+<tr class="cap">
+<th></th>
+<th scope="col" style="text-align:right">2015</th>
+<th scope="col" style="text-align:right">2016</th>
+<th scope="col" style="text-align:right">2017</th>
+<th scope="col" style="text-align:right">2018</th>
+<th scope="col" style="text-align:right">2019</th>
+</tr>
+<tr class="primera">
+<th style="font-weight:normal;text-align:left" scope="row">Alt Camp</th>
+<td style="font-weight:normal;text-align:right">978,76</td>
+<td style="font-weight:normal;text-align:right">1.079,10</td>
+<td style="font-weight:normal;text-align:right">1.058,25</td>
+<td style="font-weight:normal;text-align:right">1.045,53</td>
+<td style="font-weight:normal;text-align:right">1.077,21</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Alt Empordà</th>
+<td style="font-weight:normal;text-align:right">1.837,30</td>
+<td style="font-weight:normal;text-align:right">1.785,13</td>
+<td style="font-weight:normal;text-align:right">1.876,15</td>
+<td style="font-weight:normal;text-align:right">1.862,31</td>
+<td style="font-weight:normal;text-align:right">1.923,79</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Alt Penedès</th>
+<td style="font-weight:normal;text-align:right">1.023,70</td>
+<td style="font-weight:normal;text-align:right">1.052,44</td>
+<td style="font-weight:normal;text-align:right">1.188,03</td>
+<td style="font-weight:normal;text-align:right">1.206,97</td>
+<td style="font-weight:normal;text-align:right">1.312,48</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Alt Urgell</th>
+<td style="font-weight:normal;text-align:right">917,43</td>
+<td style="font-weight:normal;text-align:right">950,78</td>
+<td style="font-weight:normal;text-align:right">794,38</td>
+<td style="font-weight:normal;text-align:right">997,67</td>
+<td style="font-weight:normal;text-align:right">955,98</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Alta Ribagorça</th>
+<td style="font-weight:normal;text-align:right">920,60</td>
+<td style="font-weight:normal;text-align:right">1.092,83</td>
+<td style="font-weight:normal;text-align:right">1.128,11</td>
+<td style="font-weight:normal;text-align:right">1.124,58</td>
+<td style="font-weight:normal;text-align:right">1.451,41</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Anoia</th>
+<td style="font-weight:normal;text-align:right">911,13</td>
+<td style="font-weight:normal;text-align:right">950,71</td>
+<td style="font-weight:normal;text-align:right">971,42</td>
+<td style="font-weight:normal;text-align:right">1.011,70</td>
+<td style="font-weight:normal;text-align:right">1.106,69</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Aran</th>
+<td style="font-weight:normal;text-align:right">1.828,05</td>
+<td style="font-weight:normal;text-align:right">2.017,72</td>
+<td style="font-weight:normal;text-align:right">2.498,79</td>
+<td style="font-weight:normal;text-align:right">2.346,75</td>
+<td style="font-weight:normal;text-align:right">2.469,70</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Bages</th>
+<td style="font-weight:normal;text-align:right">979,01</td>
+<td style="font-weight:normal;text-align:right">1.034,27</td>
+<td style="font-weight:normal;text-align:right">1.091,16</td>
+<td style="font-weight:normal;text-align:right">1.114,35</td>
+<td style="font-weight:normal;text-align:right">1.180,56</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Baix Camp</th>
+<td style="font-weight:normal;text-align:right">1.353,83</td>
+<td style="font-weight:normal;text-align:right">1.312,75</td>
+<td style="font-weight:normal;text-align:right">1.329,36</td>
+<td style="font-weight:normal;text-align:right">1.442,22</td>
+<td style="font-weight:normal;text-align:right">1.425,36</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Baix Ebre</th>
+<td style="font-weight:normal;text-align:right">1.035,03</td>
+<td style="font-weight:normal;text-align:right">1.040,93</td>
+<td style="font-weight:normal;text-align:right">1.061,74</td>
+<td style="font-weight:normal;text-align:right">1.169,04</td>
+<td style="font-weight:normal;text-align:right">1.105,61</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Baix Empordà</th>
+<td style="font-weight:normal;text-align:right">1.852,06</td>
+<td style="font-weight:normal;text-align:right">1.800,38</td>
+<td style="font-weight:normal;text-align:right">1.980,75</td>
+<td style="font-weight:normal;text-align:right">1.976,43</td>
+<td style="font-weight:normal;text-align:right">2.116,35</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Baix Llobregat</th>
+<td style="font-weight:normal;text-align:right">1.830,02</td>
+<td style="font-weight:normal;text-align:right">1.965,83</td>
+<td style="font-weight:normal;text-align:right">2.143,31</td>
+<td style="font-weight:normal;text-align:right">2.270,83</td>
+<td style="font-weight:normal;text-align:right">2.442,50</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Baix Penedès</th>
+<td style="font-weight:normal;text-align:right">1.185,93</td>
+<td style="font-weight:normal;text-align:right">1.226,50</td>
+<td style="font-weight:normal;text-align:right">1.277,22</td>
+<td style="font-weight:normal;text-align:right">1.284,94</td>
+<td style="font-weight:normal;text-align:right">1.403,52</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Barcelonès</th>
+<td style="font-weight:normal;text-align:right">2.605,35</td>
+<td style="font-weight:normal;text-align:right">2.756,05</td>
+<td style="font-weight:normal;text-align:right">3.185,27</td>
+<td style="font-weight:normal;text-align:right">3.321,78</td>
+<td style="font-weight:normal;text-align:right">3.472,39</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Berguedà</th>
+<td style="font-weight:normal;text-align:right">870,12</td>
+<td style="font-weight:normal;text-align:right">863,62</td>
+<td style="font-weight:normal;text-align:right">926,95</td>
+<td style="font-weight:normal;text-align:right">906,76</td>
+<td style="font-weight:normal;text-align:right">936,13</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Cerdanya</th>
+<td style="font-weight:normal;text-align:right">2.059,72</td>
+<td style="font-weight:normal;text-align:right">2.394,68</td>
+<td style="font-weight:normal;text-align:right">2.322,55</td>
+<td style="font-weight:normal;text-align:right">2.503,11</td>
+<td style="font-weight:normal;text-align:right">2.590,11</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Conca de Barberà</th>
+<td style="font-weight:normal;text-align:right">734,45</td>
+<td style="font-weight:normal;text-align:right">612,37</td>
+<td style="font-weight:normal;text-align:right">743,97</td>
+<td style="font-weight:normal;text-align:right">712,92</td>
+<td style="font-weight:normal;text-align:right">851,71</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Garraf</th>
+<td style="font-weight:normal;text-align:right">2.279,50</td>
+<td style="font-weight:normal;text-align:right">2.221,00</td>
+<td style="font-weight:normal;text-align:right">2.365,14</td>
+<td style="font-weight:normal;text-align:right">2.425,24</td>
+<td style="font-weight:normal;text-align:right">2.613,99</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Garrigues</th>
+<td style="font-weight:normal;text-align:right">535,49</td>
+<td style="font-weight:normal;text-align:right">517,52</td>
+<td style="font-weight:normal;text-align:right">556,61</td>
+<td style="font-weight:normal;text-align:right">515,13</td>
+<td style="font-weight:normal;text-align:right">625,97</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Garrotxa</th>
+<td style="font-weight:normal;text-align:right">1.011,11</td>
+<td style="font-weight:normal;text-align:right">1.054,65</td>
+<td style="font-weight:normal;text-align:right">1.094,58</td>
+<td style="font-weight:normal;text-align:right">1.143,23</td>
+<td style="font-weight:normal;text-align:right">1.252,67</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Gironès</th>
+<td style="font-weight:normal;text-align:right">1.264,34</td>
+<td style="font-weight:normal;text-align:right">1.368,03</td>
+<td style="font-weight:normal;text-align:right">1.464,08</td>
+<td style="font-weight:normal;text-align:right">1.580,70</td>
+<td style="font-weight:normal;text-align:right">1.589,63</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Maresme</th>
+<td style="font-weight:normal;text-align:right">1.586,67</td>
+<td style="font-weight:normal;text-align:right">1.702,00</td>
+<td style="font-weight:normal;text-align:right">1.858,29</td>
+<td style="font-weight:normal;text-align:right">1.986,37</td>
+<td style="font-weight:normal;text-align:right">2.224,60</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Moianès</th>
+<td style="font-weight:normal;text-align:right">1.568,75</td>
+<td style="font-weight:normal;text-align:right">1.117,74</td>
+<td style="font-weight:normal;text-align:right">1.344,18</td>
+<td style="font-weight:normal;text-align:right">1.187,44</td>
+<td style="font-weight:normal;text-align:right">1.342,09</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Montsià</th>
+<td style="font-weight:normal;text-align:right">786,52</td>
+<td style="font-weight:normal;text-align:right">815,61</td>
+<td style="font-weight:normal;text-align:right">776,55</td>
+<td style="font-weight:normal;text-align:right">771,42</td>
+<td style="font-weight:normal;text-align:right">816,90</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Noguera</th>
+<td style="font-weight:normal;text-align:right">713,47</td>
+<td style="font-weight:normal;text-align:right">686,47</td>
+<td style="font-weight:normal;text-align:right">639,31</td>
+<td style="font-weight:normal;text-align:right">665,22</td>
+<td style="font-weight:normal;text-align:right">647,00</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Osona</th>
+<td style="font-weight:normal;text-align:right">1.142,24</td>
+<td style="font-weight:normal;text-align:right">1.171,29</td>
+<td style="font-weight:normal;text-align:right">1.217,08</td>
+<td style="font-weight:normal;text-align:right">1.245,30</td>
+<td style="font-weight:normal;text-align:right">1.263,93</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Pallars Jussà</th>
+<td style="font-weight:normal;text-align:right">814,27</td>
+<td style="font-weight:normal;text-align:right">754,79</td>
+<td style="font-weight:normal;text-align:right">761,20</td>
+<td style="font-weight:normal;text-align:right">700,61</td>
+<td style="font-weight:normal;text-align:right">678,49</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Pallars Sobirà</th>
+<td style="font-weight:normal;text-align:right">1.032,33</td>
+<td style="font-weight:normal;text-align:right">1.099,83</td>
+<td style="font-weight:normal;text-align:right">1.057,32</td>
+<td style="font-weight:normal;text-align:right">1.196,83</td>
+<td style="font-weight:normal;text-align:right">1.298,09</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Pla de l'Estany</th>
+<td style="font-weight:normal;text-align:right">1.077,49</td>
+<td style="font-weight:normal;text-align:right">1.136,15</td>
+<td style="font-weight:normal;text-align:right">1.244,59</td>
+<td style="font-weight:normal;text-align:right">1.351,28</td>
+<td style="font-weight:normal;text-align:right">1.415,11</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Pla d'Urgell</th>
+<td style="font-weight:normal;text-align:right">645,77</td>
+<td style="font-weight:normal;text-align:right">640,93</td>
+<td style="font-weight:normal;text-align:right">609,93</td>
+<td style="font-weight:normal;text-align:right">679,30</td>
+<td style="font-weight:normal;text-align:right">713,48</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Priorat</th>
+<td style="font-weight:normal;text-align:right">948,82</td>
+<td style="font-weight:normal;text-align:right">782,79</td>
+<td style="font-weight:normal;text-align:right">843,30</td>
+<td style="font-weight:normal;text-align:right">1.074,89</td>
+<td style="font-weight:normal;text-align:right">1.029,55</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Ribera d'Ebre</th>
+<td style="font-weight:normal;text-align:right">611,31</td>
+<td style="font-weight:normal;text-align:right">745,09</td>
+<td style="font-weight:normal;text-align:right">582,15</td>
+<td style="font-weight:normal;text-align:right">667,90</td>
+<td style="font-weight:normal;text-align:right">580,65</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Ripollès</th>
+<td style="font-weight:normal;text-align:right">1.351,03</td>
+<td style="font-weight:normal;text-align:right">1.635,89</td>
+<td style="font-weight:normal;text-align:right">1.523,14</td>
+<td style="font-weight:normal;text-align:right">1.430,55</td>
+<td style="font-weight:normal;text-align:right">1.589,55</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Segarra</th>
+<td style="font-weight:normal;text-align:right">773,89</td>
+<td style="font-weight:normal;text-align:right">791,44</td>
+<td style="font-weight:normal;text-align:right">818,07</td>
+<td style="font-weight:normal;text-align:right">711,91</td>
+<td style="font-weight:normal;text-align:right">780,11</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Segrià</th>
+<td style="font-weight:normal;text-align:right">942,53</td>
+<td style="font-weight:normal;text-align:right">873,74</td>
+<td style="font-weight:normal;text-align:right">880,13</td>
+<td style="font-weight:normal;text-align:right">838,31</td>
+<td style="font-weight:normal;text-align:right">969,86</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Selva</th>
+<td style="font-weight:normal;text-align:right">1.698,99</td>
+<td style="font-weight:normal;text-align:right">1.621,43</td>
+<td style="font-weight:normal;text-align:right">1.470,77</td>
+<td style="font-weight:normal;text-align:right">1.618,79</td>
+<td style="font-weight:normal;text-align:right">1.615,74</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Solsonès</th>
+<td style="font-weight:normal;text-align:right">1.028,94</td>
+<td style="font-weight:normal;text-align:right">1.164,06</td>
+<td style="font-weight:normal;text-align:right">916,43</td>
+<td style="font-weight:normal;text-align:right">1.091,04</td>
+<td style="font-weight:normal;text-align:right">938,46</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Tarragonès</th>
+<td style="font-weight:normal;text-align:right">1.361,17</td>
+<td style="font-weight:normal;text-align:right">1.356,81</td>
+<td style="font-weight:normal;text-align:right">1.402,31</td>
+<td style="font-weight:normal;text-align:right">1.462,74</td>
+<td style="font-weight:normal;text-align:right">1.552,85</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Terra Alta</th>
+<td style="font-weight:normal;text-align:right">803,78</td>
+<td style="font-weight:normal;text-align:right">810,09</td>
+<td style="font-weight:normal;text-align:right">747,16</td>
+<td style="font-weight:normal;text-align:right">774,80</td>
+<td style="font-weight:normal;text-align:right">875,63</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Urgell</th>
+<td style="font-weight:normal;text-align:right">771,03</td>
+<td style="font-weight:normal;text-align:right">746,55</td>
+<td style="font-weight:normal;text-align:right">684,05</td>
+<td style="font-weight:normal;text-align:right">723,91</td>
+<td style="font-weight:normal;text-align:right">774,84</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Vallès Occidental</th>
+<td style="font-weight:normal;text-align:right">1.449,84</td>
+<td style="font-weight:normal;text-align:right">1.563,57</td>
+<td style="font-weight:normal;text-align:right">1.681,43</td>
+<td style="font-weight:normal;text-align:right">1.938,97</td>
+<td style="font-weight:normal;text-align:right">2.115,90</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Vallès Oriental</th>
+<td style="font-weight:normal;text-align:right">1.307,54</td>
+<td style="font-weight:normal;text-align:right">1.373,05</td>
+<td style="font-weight:normal;text-align:right">1.466,32</td>
+<td style="font-weight:normal;text-align:right">1.602,52</td>
+<td style="font-weight:normal;text-align:right">1.708,43</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class=" total separada">
+<th style="font-weight:bold;text-align:left" scope="row">Catalunya</th>
+<td style="font-weight:bold;text-align:right">1.785,68</td>
+<td style="font-weight:bold;text-align:right">1.838,65</td>
+<td style="font-weight:bold;text-align:right">2.002,18</td>
+<td style="font-weight:bold;text-align:right">2.067,49</td>
+<td style="font-weight:bold;text-align:right">2.171,74</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+<tr class=" separada">
+<th style="font-weight:normal;text-align:left" scope="row">Metropolità</th>
+<td style="font-weight:normal;text-align:right">2.046,42</td>
+<td style="font-weight:normal;text-align:right">2.133,97</td>
+<td style="font-weight:normal;text-align:right">2.381,36</td>
+<td style="font-weight:normal;text-align:right">2.494,35</td>
+<td style="font-weight:normal;text-align:right">2.649,89</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Comarques Gironines</th>
+<td style="font-weight:normal;text-align:right">1.705,17</td>
+<td style="font-weight:normal;text-align:right">1.662,88</td>
+<td style="font-weight:normal;text-align:right">1.716,63</td>
+<td style="font-weight:normal;text-align:right">1.768,84</td>
+<td style="font-weight:normal;text-align:right">1.828,67</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Camp de Tarragona</th>
+<td style="font-weight:normal;text-align:right">1.344,78</td>
+<td style="font-weight:normal;text-align:right">1.329,68</td>
+<td style="font-weight:normal;text-align:right">1.354,81</td>
+<td style="font-weight:normal;text-align:right">1.433,93</td>
+<td style="font-weight:normal;text-align:right">1.478,87</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Terres de l'Ebre</th>
+<td style="font-weight:normal;text-align:right">884,19</td>
+<td style="font-weight:normal;text-align:right">921,90</td>
+<td style="font-weight:normal;text-align:right">912,91</td>
+<td style="font-weight:normal;text-align:right">956,14</td>
+<td style="font-weight:normal;text-align:right">940,96</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Ponent</th>
+<td style="font-weight:normal;text-align:right">841,80</td>
+<td style="font-weight:normal;text-align:right">791,64</td>
+<td style="font-weight:normal;text-align:right">794,66</td>
+<td style="font-weight:normal;text-align:right">771,21</td>
+<td style="font-weight:normal;text-align:right">874,60</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Comarques Centrals</th>
+<td style="font-weight:normal;text-align:right">1.048,98</td>
+<td style="font-weight:normal;text-align:right">1.074,84</td>
+<td style="font-weight:normal;text-align:right">1.126,47</td>
+<td style="font-weight:normal;text-align:right">1.146,58</td>
+<td style="font-weight:normal;text-align:right">1.187,38</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Alt Pirineu i Aran</th>
+<td style="font-weight:normal;text-align:right">1.567,13</td>
+<td style="font-weight:normal;text-align:right">1.732,41</td>
+<td style="font-weight:normal;text-align:right">1.919,56</td>
+<td style="font-weight:normal;text-align:right">1.874,32</td>
+<td style="font-weight:normal;text-align:right">1.970,15</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Penedès</th>
+<td style="font-weight:normal;text-align:right">1.510,10</td>
+<td style="font-weight:normal;text-align:right">1.475,52</td>
+<td style="font-weight:normal;text-align:right">1.607,51</td>
+<td style="font-weight:normal;text-align:right">1.703,95</td>
+<td style="font-weight:normal;text-align:right">1.813,33</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class=" separada">
+<th style="font-weight:normal;text-align:left" scope="row">Barcelona</th>
+<td style="font-weight:normal;text-align:right">1.963,25</td>
+<td style="font-weight:normal;text-align:right">2.036,21</td>
+<td style="font-weight:normal;text-align:right">2.259,09</td>
+<td style="font-weight:normal;text-align:right">2.351,85</td>
+<td style="font-weight:normal;text-align:right">2.487,66</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Girona</th>
+<td style="font-weight:normal;text-align:right">1.718,10</td>
+<td style="font-weight:normal;text-align:right">1.690,00</td>
+<td style="font-weight:normal;text-align:right">1.740,83</td>
+<td style="font-weight:normal;text-align:right">1.794,83</td>
+<td style="font-weight:normal;text-align:right">1.856,02</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Lleida</th>
+<td style="font-weight:normal;text-align:right">991,52</td>
+<td style="font-weight:normal;text-align:right">1.002,43</td>
+<td style="font-weight:normal;text-align:right">1.039,93</td>
+<td style="font-weight:normal;text-align:right">1.017,34</td>
+<td style="font-weight:normal;text-align:right">1.113,80</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class="darrera">
+<th style="font-weight:normal;text-align:left" scope="row">Tarragona</th>
+<td style="font-weight:normal;text-align:right">1.242,10</td>
+<td style="font-weight:normal;text-align:right">1.243,48</td>
+<td style="font-weight:normal;text-align:right">1.268,28</td>
+<td style="font-weight:normal;text-align:right">1.322,55</td>
+<td style="font-weight:normal;text-align:right">1.377,44</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<br />Institut d'Estadística de Catalunya<br /> <a href="https://www.idescat.cat/pub/?id=aec&amp;n=729&amp;t=2019">https://www.idescat.cat/pub/?id=aec&amp;n=729&amp;t=2019</a>
