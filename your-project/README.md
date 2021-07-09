@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Project 4
+*[Elina Neu]*
 
-*[Your Cohort, Campus & Date]*
+*[Remote 9.7.2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,21 +14,21 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The project aims to analyse the correlation between the death rate caused by Covid 19 and the vaccination rate globally, by using a t-test
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The main hypothesis is that the death rate does decrease if more than 20% of the population are getting vaccinated. 
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+In order to answer the question the following 2 datasets were used. https://ourworldindata.org/covid-vaccinations , https://de.statista.com/statistik/daten/studie/1195157/umfrage/impfungen-gegen-das-coronavirus-nach-laendern-weltweit/
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+The reason for choosing this dataset is mainly the societal importance of the topic, therefore I was aiming to work on a meaningful topic. After gathering the dataset I did a cleaning and analysed the data in more detail. After that I did some brainstorming on the most important questions covered by the dataset and started to work on my Hypothesis
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+HI used a Trello board. 
 
-What does your repository look like? Explain your folder and file structure.
+The repository includes the code, one git ignore file and the read.me file
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
