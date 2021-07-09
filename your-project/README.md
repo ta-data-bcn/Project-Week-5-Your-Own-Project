@@ -33,6 +33,7 @@ The repository includes the code, one git ignore file and the read.me file
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ElinaNeu/Project-Week-5-Your-Own-Project)  
+[Slides](https://drive.google.com/file/d/1CYvY-KuHgwlnGdc9KjKYG51ZndxiFy6a/view?usp=sharing)  
+[Technical report](https://drive.google.com/file/d/1BmUFH2vChUCQZc8fUeUNyWwfQNqux7vq/view?usp=sharing)
+[Trello](https://trello.com/b/t4ZhVhVG/project-4en)  
